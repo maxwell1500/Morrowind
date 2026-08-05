@@ -1,0 +1,111 @@
+{
+  "Objects": [
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_ash_firepit"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        },
+        {
+          "Data": {
+            "ID": "res:D64BC0075E521066:46F33C5C:CEA9B728"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::LayerID"
+        },
+        {
+          "Data": {
+            "FileName": "1LayerStandard"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::ShaderModelComponent"
+        }
+      ],
+      "Parent": "materials\\layered\\root\\layeredmaterials.mat"
+    },
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_ash_firepit_Layer1"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        },
+        {
+          "Data": {
+            "ID": "res:904E6F4F642828E4:46F33C5C:CEA9B728"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::MaterialID"
+        },
+        {
+          "Data": {
+            "ID": "res:C2951660C975239F:46F33C5C:CEA9B728"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::UVStreamID"
+        }
+      ],
+      "ID": "res:D64BC0075E521066:46F33C5C:CEA9B728",
+      "Parent": "materials\\layered\\root\\layers.mat"
+    },
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_ash_firepit_UVStream1"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        }
+      ],
+      "ID": "res:C2951660C975239F:46F33C5C:CEA9B728",
+      "Parent": "materials\\layered\\root\\uvstreams.mat"
+    },
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_ash_firepit_Material1"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        },
+        {
+          "Data": {
+            "ID": "res:51F74015300F79C7:46F33C5C:CEA9B728"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::TextureSetID"
+        }
+      ],
+      "ID": "res:904E6F4F642828E4:46F33C5C:CEA9B728",
+      "Parent": "materials\\layered\\root\\materials.mat"
+    },
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_ash_firepit_TextureSet1"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        },
+        {
+          "Data": {
+            "FileName": "Data\\textures_upscaled\\tx_ash_firepit.dds"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::MRTextureFile"
+        }
+      ],
+      "ID": "res:51F74015300F79C7:46F33C5C:CEA9B728",
+      "Parent": "materials\\layered\\root\\texturesets.mat"
+    }
+  ],
+  "Version": 1
+}

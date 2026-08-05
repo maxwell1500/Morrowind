@@ -1,0 +1,111 @@
+{
+  "Objects": [
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_bc_mushroom_03"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        },
+        {
+          "Data": {
+            "ID": "res:AC603A5C6C81C8DE:7B3E052C:7B0249C2"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::LayerID"
+        },
+        {
+          "Data": {
+            "FileName": "1LayerStandard"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::ShaderModelComponent"
+        }
+      ],
+      "Parent": "materials\\layered\\root\\layeredmaterials.mat"
+    },
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_bc_mushroom_03_Layer1"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        },
+        {
+          "Data": {
+            "ID": "res:0B387835B3F756E0:7B3E052C:7B0249C2"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::MaterialID"
+        },
+        {
+          "Data": {
+            "ID": "res:A688303383E71130:7B3E052C:7B0249C2"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::UVStreamID"
+        }
+      ],
+      "ID": "res:AC603A5C6C81C8DE:7B3E052C:7B0249C2",
+      "Parent": "materials\\layered\\root\\layers.mat"
+    },
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_bc_mushroom_03_UVStream1"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        }
+      ],
+      "ID": "res:A688303383E71130:7B3E052C:7B0249C2",
+      "Parent": "materials\\layered\\root\\uvstreams.mat"
+    },
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_bc_mushroom_03_Material1"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        },
+        {
+          "Data": {
+            "ID": "res:5552BBBA5CE278D1:7B3E052C:7B0249C2"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::TextureSetID"
+        }
+      ],
+      "ID": "res:0B387835B3F756E0:7B3E052C:7B0249C2",
+      "Parent": "materials\\layered\\root\\materials.mat"
+    },
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_bc_mushroom_03_TextureSet1"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        },
+        {
+          "Data": {
+            "FileName": "Data\\textures_upscaled\\tx_bc_mushroom_03.dds"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::MRTextureFile"
+        }
+      ],
+      "ID": "res:5552BBBA5CE278D1:7B3E052C:7B0249C2",
+      "Parent": "materials\\layered\\root\\texturesets.mat"
+    }
+  ],
+  "Version": 1
+}

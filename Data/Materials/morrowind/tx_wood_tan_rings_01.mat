@@ -1,0 +1,111 @@
+{
+  "Objects": [
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_wood_tan_rings_01"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        },
+        {
+          "Data": {
+            "ID": "res:20D0C2227934187C:1D8C892D:0DBB3AAB"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::LayerID"
+        },
+        {
+          "Data": {
+            "FileName": "1LayerStandard"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::ShaderModelComponent"
+        }
+      ],
+      "Parent": "materials\\layered\\root\\layeredmaterials.mat"
+    },
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_wood_tan_rings_01_Layer1"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        },
+        {
+          "Data": {
+            "ID": "res:670A8455CB7CE83F:1D8C892D:0DBB3AAB"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::MaterialID"
+        },
+        {
+          "Data": {
+            "ID": "res:4D8F4AF7DD3BF754:1D8C892D:0DBB3AAB"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::UVStreamID"
+        }
+      ],
+      "ID": "res:20D0C2227934187C:1D8C892D:0DBB3AAB",
+      "Parent": "materials\\layered\\root\\layers.mat"
+    },
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_wood_tan_rings_01_UVStream1"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        }
+      ],
+      "ID": "res:4D8F4AF7DD3BF754:1D8C892D:0DBB3AAB",
+      "Parent": "materials\\layered\\root\\uvstreams.mat"
+    },
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_wood_tan_rings_01_Material1"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        },
+        {
+          "Data": {
+            "ID": "res:AD6E55CA3854F1EF:1D8C892D:0DBB3AAB"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::TextureSetID"
+        }
+      ],
+      "ID": "res:670A8455CB7CE83F:1D8C892D:0DBB3AAB",
+      "Parent": "materials\\layered\\root\\materials.mat"
+    },
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_wood_tan_rings_01_TextureSet1"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        },
+        {
+          "Data": {
+            "FileName": "Data\\textures_upscaled\\tx_wood_tan_rings_01.dds"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::MRTextureFile"
+        }
+      ],
+      "ID": "res:AD6E55CA3854F1EF:1D8C892D:0DBB3AAB",
+      "Parent": "materials\\layered\\root\\texturesets.mat"
+    }
+  ],
+  "Version": 1
+}

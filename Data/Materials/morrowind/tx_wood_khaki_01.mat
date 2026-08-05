@@ -1,0 +1,111 @@
+{
+  "Objects": [
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_wood_khaki_01"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        },
+        {
+          "Data": {
+            "ID": "res:365D629026A12F12:EE98A802:9A349E25"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::LayerID"
+        },
+        {
+          "Data": {
+            "FileName": "1LayerStandard"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::ShaderModelComponent"
+        }
+      ],
+      "Parent": "materials\\layered\\root\\layeredmaterials.mat"
+    },
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_wood_khaki_01_Layer1"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        },
+        {
+          "Data": {
+            "ID": "res:5E875B1FA7BCE490:EE98A802:9A349E25"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::MaterialID"
+        },
+        {
+          "Data": {
+            "ID": "res:87960D881E8568FC:EE98A802:9A349E25"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::UVStreamID"
+        }
+      ],
+      "ID": "res:365D629026A12F12:EE98A802:9A349E25",
+      "Parent": "materials\\layered\\root\\layers.mat"
+    },
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_wood_khaki_01_UVStream1"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        }
+      ],
+      "ID": "res:87960D881E8568FC:EE98A802:9A349E25",
+      "Parent": "materials\\layered\\root\\uvstreams.mat"
+    },
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_wood_khaki_01_Material1"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        },
+        {
+          "Data": {
+            "ID": "res:01874E133A3B3801:EE98A802:9A349E25"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::TextureSetID"
+        }
+      ],
+      "ID": "res:5E875B1FA7BCE490:EE98A802:9A349E25",
+      "Parent": "materials\\layered\\root\\materials.mat"
+    },
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_wood_khaki_01_TextureSet1"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        },
+        {
+          "Data": {
+            "FileName": "Data\\textures_upscaled\\tx_wood_khaki_01.dds"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::MRTextureFile"
+        }
+      ],
+      "ID": "res:01874E133A3B3801:EE98A802:9A349E25",
+      "Parent": "materials\\layered\\root\\texturesets.mat"
+    }
+  ],
+  "Version": 1
+}

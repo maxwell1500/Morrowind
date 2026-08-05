@@ -1,0 +1,111 @@
+{
+  "Objects": [
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_bc_moss_03"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        },
+        {
+          "Data": {
+            "ID": "res:93DF7295E47AFEBD:64C31756:189C67D8"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::LayerID"
+        },
+        {
+          "Data": {
+            "FileName": "1LayerStandard"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::ShaderModelComponent"
+        }
+      ],
+      "Parent": "materials\\layered\\root\\layeredmaterials.mat"
+    },
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_bc_moss_03_Layer1"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        },
+        {
+          "Data": {
+            "ID": "res:490806BD369F8B72:64C31756:189C67D8"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::MaterialID"
+        },
+        {
+          "Data": {
+            "ID": "res:198DDB97D4E85782:64C31756:189C67D8"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::UVStreamID"
+        }
+      ],
+      "ID": "res:93DF7295E47AFEBD:64C31756:189C67D8",
+      "Parent": "materials\\layered\\root\\layers.mat"
+    },
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_bc_moss_03_UVStream1"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        }
+      ],
+      "ID": "res:198DDB97D4E85782:64C31756:189C67D8",
+      "Parent": "materials\\layered\\root\\uvstreams.mat"
+    },
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_bc_moss_03_Material1"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        },
+        {
+          "Data": {
+            "ID": "res:D0F8A397B98719E4:64C31756:189C67D8"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::TextureSetID"
+        }
+      ],
+      "ID": "res:490806BD369F8B72:64C31756:189C67D8",
+      "Parent": "materials\\layered\\root\\materials.mat"
+    },
+    {
+      "Components": [
+        {
+          "Data": {
+            "Name": "tx_bc_moss_03_TextureSet1"
+          },
+          "Index": 0,
+          "Type": "BSComponentDB::CTName"
+        },
+        {
+          "Data": {
+            "FileName": "Data\\textures_upscaled\\tx_bc_moss_03.dds"
+          },
+          "Index": 0,
+          "Type": "BSMaterial::MRTextureFile"
+        }
+      ],
+      "ID": "res:D0F8A397B98719E4:64C31756:189C67D8",
+      "Parent": "materials\\layered\\root\\texturesets.mat"
+    }
+  ],
+  "Version": 1
+}

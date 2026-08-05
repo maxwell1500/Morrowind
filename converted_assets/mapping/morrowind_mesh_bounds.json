@@ -1,0 +1,3109 @@
+{
+  "ex_common_door_01": {
+    "min": [
+      -0.6813732385635376,
+      -0.09590201824903488,
+      -0.9773492217063904
+    ],
+    "max": [
+      0.6786870956420898,
+      0.09590203315019608,
+      0.9773492217063904
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\d\\ex_common_door_01.nif"
+  },
+  "ex_common_door_balcony": {
+    "min": [
+      -0.42830145359039307,
+      -0.03003493696451187,
+      -0.8823510408401489
+    ],
+    "max": [
+      0.42341095209121704,
+      0.03003493696451187,
+      0.8823510408401489
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\d\\ex_common_door_balcony.nif"
+  },
+  "ex_nord_door_01": {
+    "min": [
+      -0.46571284532546997,
+      0.08043551445007324,
+      -1.1383967399597168
+    ],
+    "max": [
+      0.6918115019798279,
+      0.2228303998708725,
+      0.8286797404289246
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\d\\ex_nord_door_01.nif"
+  },
+  "in_c_door_arched": {
+    "min": [
+      -2.110004425048828e-05,
+      -0.07168388366699219,
+      -0.00041196748497895896
+    ],
+    "max": [
+      1.3394029140472412,
+      0.20236952602863312,
+      2.1085190773010254
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\d\\in_c_door_arched.nif"
+  },
+  "active_de_bedroll": {
+    "min": [
+      -0.7871647477149963,
+      -0.43313533067703247,
+      -0.12632668018341064
+    ],
+    "max": [
+      0.7871647477149963,
+      0.4345243275165558,
+      0.13152454793453217
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\active_de_bedroll.nif"
+  },
+  "active_de_bed_30": {
+    "min": [
+      -1.5214627981185913,
+      -0.5111804008483887,
+      -0.4901222586631775
+    ],
+    "max": [
+      1.518508791923523,
+      0.5111804008483887,
+      0.2864176630973816
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\active_de_bed_30.nif"
+  },
+  "flora_bc_fern_01": {
+    "min": [
+      -1.7404733896255493,
+      -1.6120275259017944,
+      -1.1531840562820435
+    ],
+    "max": [
+      1.7404732704162598,
+      1.560430645942688,
+      0.907634973526001
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_fern_01.nif"
+  },
+  "flora_bc_fern_02": {
+    "min": [
+      -1.1095517873764038,
+      -1.011220932006836,
+      -0.5298423171043396
+    ],
+    "max": [
+      1.1095517873764038,
+      1.011220932006836,
+      0.6347673535346985
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_fern_02.nif"
+  },
+  "flora_bc_fern_03": {
+    "min": [
+      -0.5253393650054932,
+      -0.49027591943740845,
+      -0.2995404899120331
+    ],
+    "max": [
+      0.5253393054008484,
+      0.49027591943740845,
+      0.2530670166015625
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_fern_03.nif"
+  },
+  "flora_bc_fern_04": {
+    "min": [
+      -0.7157748937606812,
+      -0.6680009961128235,
+      -0.3727183938026428
+    ],
+    "max": [
+      0.7157748937606812,
+      0.6680009961128235,
+      0.3448038399219513
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_fern_04.nif"
+  },
+  "flora_bc_grass_01": {
+    "min": [
+      -0.9501029253005981,
+      -0.9145520329475403,
+      -0.5942535400390625
+    ],
+    "max": [
+      0.9501029253005981,
+      0.9145520329475403,
+      0.5942535400390625
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_grass_01.nif"
+  },
+  "flora_bc_grass_02": {
+    "min": [
+      -0.6175668835639954,
+      -0.594458818435669,
+      -0.3862648010253906
+    ],
+    "max": [
+      0.6175668835639954,
+      0.5944587588310242,
+      0.3862648010253906
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_grass_02.nif"
+  },
+  "flora_bc_knee_01": {
+    "min": [
+      -0.26701533794403076,
+      -0.3320329189300537,
+      -1.3710943460464478
+    ],
+    "max": [
+      0.3440141975879669,
+      0.2855115234851837,
+      1.3599433898925781
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_knee_01.nif"
+  },
+  "flora_bc_knee_02": {
+    "min": [
+      -0.2515477240085602,
+      -0.26817792654037476,
+      -1.5478240251541138
+    ],
+    "max": [
+      0.25706103444099426,
+      0.2635417580604553,
+      1.565783143043518
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_knee_02.nif"
+  },
+  "flora_bc_knee_03": {
+    "min": [
+      -0.3130097985267639,
+      -0.33850541710853577,
+      -1.558943748474121
+    ],
+    "max": [
+      0.31738585233688354,
+      0.33758974075317383,
+      1.5586785078048706
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_knee_03.nif"
+  },
+  "flora_bc_knee_04": {
+    "min": [
+      -0.4593527317047119,
+      -0.43026813864707947,
+      -1.2097322940826416
+    ],
+    "max": [
+      0.44577401876449585,
+      0.4113313555717468,
+      1.2094671726226807
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_knee_04.nif"
+  },
+  "flora_bc_lilypad_02": {
+    "min": [
+      -0.18174858391284943,
+      -0.16440916061401367,
+      -2.333362340927124
+    ],
+    "max": [
+      0.13604803383350372,
+      0.19559957087039948,
+      0.029999619349837303
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_lilypad_02.nif"
+  },
+  "flora_bc_log_01": {
+    "min": [
+      -0.7385115027427673,
+      -4.3119096755981445,
+      -1.1064386367797852
+    ],
+    "max": [
+      0.7385120391845703,
+      4.311910152435303,
+      1.1064386367797852
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_log_01.nif"
+  },
+  "flora_bc_mushroom_01": {
+    "min": [
+      -0.15535913407802582,
+      -0.20159514248371124,
+      -0.3026800751686096
+    ],
+    "max": [
+      0.24385632574558258,
+      0.20159512758255005,
+      0.27841678261756897
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_mushroom_01.nif"
+  },
+  "flora_bc_mushroom_02": {
+    "min": [
+      -0.22733964025974274,
+      -0.20159514248371124,
+      -0.3026800751686096
+    ],
+    "max": [
+      0.2641991972923279,
+      0.20159512758255005,
+      0.38315555453300476
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_mushroom_02.nif"
+  },
+  "flora_bc_mushroom_03": {
+    "min": [
+      -0.24348004162311554,
+      -0.20159514248371124,
+      -0.28813159465789795
+    ],
+    "max": [
+      0.24513541162014008,
+      0.20159512758255005,
+      0.24372516572475433
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_mushroom_03.nif"
+  },
+  "flora_bc_mushroom_04": {
+    "min": [
+      -0.18545521795749664,
+      -0.2842491567134857,
+      -0.28813159465789795
+    ],
+    "max": [
+      0.25836071372032166,
+      0.28424912691116333,
+      0.3003668785095215
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_mushroom_04.nif"
+  },
+  "flora_bc_mushroom_05": {
+    "min": [
+      -0.24548746645450592,
+      -0.20159514248371124,
+      -0.28813159465789795
+    ],
+    "max": [
+      0.2454872727394104,
+      0.20159512758255005,
+      0.2881315350532532
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_mushroom_05.nif"
+  },
+  "flora_bc_mushroom_06": {
+    "min": [
+      -0.09106416255235672,
+      -0.07464276254177094,
+      -0.36018624901771545
+    ],
+    "max": [
+      0.09106414020061493,
+      0.07464274764060974,
+      0.36018627882003784
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_mushroom_06.nif"
+  },
+  "flora_bc_mushroom_07": {
+    "min": [
+      -0.03467714041471481,
+      -0.08957131952047348,
+      -0.36018624901771545
+    ],
+    "max": [
+      0.14745116233825684,
+      0.08957128971815109,
+      0.5124770402908325
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_mushroom_07.nif"
+  },
+  "flora_bc_mushroom_08": {
+    "min": [
+      -0.07489106804132462,
+      -0.11555669456720352,
+      -0.36018624901771545
+    ],
+    "max": [
+      0.18766510486602783,
+      0.11555665731430054,
+      0.49929672479629517
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_mushroom_08.nif"
+  },
+  "flora_bc_podplant_01": {
+    "min": [
+      -0.03757798671722412,
+      -0.033511243760585785,
+      -0.5774397850036621
+    ],
+    "max": [
+      0.03757798671722412,
+      0.033511243760585785,
+      0.5774397850036621
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_podplant_01.nif"
+  },
+  "flora_bc_podplant_03": {
+    "min": [
+      -0.068161740899086,
+      -0.07182516902685165,
+      -0.6215301752090454
+    ],
+    "max": [
+      0.0681617483496666,
+      0.07182516157627106,
+      0.6215302348136902
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_podplant_03.nif"
+  },
+  "flora_bc_shelffungus_01": {
+    "min": [
+      -0.3090645670890808,
+      -0.22692957520484924,
+      -0.05699019506573677
+    ],
+    "max": [
+      0.3090645372867584,
+      0.22692959010601044,
+      0.05699019506573677
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_shelffungus_01.nif"
+  },
+  "flora_bc_shelffungus_02": {
+    "min": [
+      -0.2017166018486023,
+      -0.14415094256401062,
+      -0.02679402194917202
+    ],
+    "max": [
+      0.2017166018486023,
+      0.14415094256401062,
+      0.02679402381181717
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_shelffungus_02.nif"
+  },
+  "flora_bc_shelffungus_03": {
+    "min": [
+      -0.3090645670890808,
+      -0.22692957520484924,
+      -0.05699019506573677
+    ],
+    "max": [
+      0.3090645372867584,
+      0.22692959010601044,
+      0.05699019506573677
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_shelffungus_03.nif"
+  },
+  "flora_bc_shelffungus_04": {
+    "min": [
+      -0.2017166018486023,
+      -0.14415094256401062,
+      -0.02679402194917202
+    ],
+    "max": [
+      0.2017166018486023,
+      0.14415094256401062,
+      0.02679402381181717
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_shelffungus_04.nif"
+  },
+  "flora_bc_tree_02": {
+    "min": [
+      -6.102215766906738,
+      -6.505508899688721,
+      -7.212899208068848
+    ],
+    "max": [
+      6.859824180603027,
+      6.257031440734863,
+      7.804191589355469
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_tree_02.nif"
+  },
+  "flora_bc_tree_04": {
+    "min": [
+      -4.931659698486328,
+      -5.252468109130859,
+      -6.673989295959473
+    ],
+    "max": [
+      4.931659698486328,
+      5.252468109130859,
+      6.764387130737305
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_tree_04.nif"
+  },
+  "flora_bc_tree_06": {
+    "min": [
+      -5.551268577575684,
+      -5.759551048278809,
+      -5.391152381896973
+    ],
+    "max": [
+      5.5521135330200195,
+      5.758298873901367,
+      5.3889007568359375
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_tree_06.nif"
+  },
+  "flora_bc_tree_08": {
+    "min": [
+      -3.4838011264801025,
+      -4.628223419189453,
+      -5.642467975616455
+    ],
+    "max": [
+      3.487755060195923,
+      4.629358768463135,
+      5.642467498779297
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_tree_08.nif"
+  },
+  "flora_bc_tree_09": {
+    "min": [
+      -2.313218355178833,
+      -0.9375325441360474,
+      -2.0431785583496094
+    ],
+    "max": [
+      2.313218355178833,
+      0.9375325441360474,
+      2.0421903133392334
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_tree_09.nif"
+  },
+  "flora_bc_tree_10": {
+    "min": [
+      -2.8911256790161133,
+      -1.8617229461669922,
+      -2.765094518661499
+    ],
+    "max": [
+      2.892864227294922,
+      1.8862940073013306,
+      2.7913784980773926
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_tree_10.nif"
+  },
+  "flora_bc_tree_11": {
+    "min": [
+      -0.8732031583786011,
+      -0.9152145981788635,
+      -1.480821967124939
+    ],
+    "max": [
+      0.8766634464263916,
+      0.8892835974693298,
+      1.4808220863342285
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_tree_11.nif"
+  },
+  "flora_bc_tree_12": {
+    "min": [
+      -1.190928339958191,
+      -1.041364312171936,
+      -1.9865071773529053
+    ],
+    "max": [
+      1.1605688333511353,
+      1.0501285791397095,
+      1.9865071773529053
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_tree_12.nif"
+  },
+  "flora_bc_tree_13": {
+    "min": [
+      -1.515824794769287,
+      -1.44326913356781,
+      -2.526062250137329
+    ],
+    "max": [
+      1.4244649410247803,
+      1.424465298652649,
+      2.526062250137329
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_bc_tree_13.nif"
+  },
+  "Flora_kelp_01": {
+    "min": [
+      -0.22985883057117462,
+      -0.2164914309978485,
+      -1.2254136800765991
+    ],
+    "max": [
+      0.2298588901758194,
+      0.2164914458990097,
+      1.2254139184951782
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_kelp_01.nif"
+  },
+  "Flora_kelp_02": {
+    "min": [
+      -0.3578118085861206,
+      -0.358524352312088,
+      -1.5914312601089478
+    ],
+    "max": [
+      0.3910650610923767,
+      0.31193095445632935,
+      1.3018325567245483
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_kelp_02.nif"
+  },
+  "Flora_kelp_03": {
+    "min": [
+      -0.5066894292831421,
+      -0.54433673620224,
+      -0.8715872764587402
+    ],
+    "max": [
+      0.5066894292831421,
+      0.5443365573883057,
+      0.8715872764587402
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_kelp_03.nif"
+  },
+  "Flora_kelp_04": {
+    "min": [
+      -0.5464028716087341,
+      -0.54433673620224,
+      -0.8715872764587402
+    ],
+    "max": [
+      0.40204042196273804,
+      0.5005550384521484,
+      0.8715872764587402
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\flora_kelp_04.nif"
+  },
+  "food_kwama_egg_02": {
+    "min": [
+      -0.09436273574829102,
+      -0.1367933303117752,
+      -0.0914640948176384
+    ],
+    "max": [
+      0.09436272084712982,
+      0.1367933303117752,
+      0.0914640873670578
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\food_kwama_egg_02.nif"
+  },
+  "furn_com_cauldron_01": {
+    "min": [
+      -0.16130658984184265,
+      -0.2644423246383667,
+      -0.4410099983215332
+    ],
+    "max": [
+      0.3077455461025238,
+      0.269854336977005,
+      0.5284956097602844
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_com_cauldron_01.nif"
+  },
+  "furn_com_cauldron_02": {
+    "min": [
+      -0.28660157322883606,
+      -0.28660157322883606,
+      -0.2806812524795532
+    ],
+    "max": [
+      0.28660157322883606,
+      0.28660154342651367,
+      0.2799423933029175
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_com_cauldron_02.nif"
+  },
+  "furn_com_coatofarms_01": {
+    "min": [
+      -0.10854271054267883,
+      -0.17587855458259583,
+      0.007098128087818623
+    ],
+    "max": [
+      0.11948961764574051,
+      0.13997574150562286,
+      0.06848172098398209
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\furn_com_coatofarms_01.nif"
+  },
+  "Furn_Com_Kegstand": {
+    "min": [
+      -0.46000006794929504,
+      -0.5876787304878235,
+      -0.629355788230896
+    ],
+    "max": [
+      0.46000006794929504,
+      0.5876787304878235,
+      0.629355788230896
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_com_kegstand.nif"
+  },
+  "furn_com_lantern_hook": {
+    "min": [
+      -0.023781668394804,
+      -0.11684810370206833,
+      -0.17731669545173645
+    ],
+    "max": [
+      0.023781668394804,
+      0.11684810370206833,
+      0.17731669545173645
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_com_lantern_hook.nif"
+  },
+  "furn_com_lantern_hook_02": {
+    "min": [
+      -0.01902533508837223,
+      -0.0934784859418869,
+      -0.14185336232185364
+    ],
+    "max": [
+      0.01902533508837223,
+      0.0934784859418869,
+      0.14185336232185364
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_com_lantern_hook_02.nif"
+  },
+  "Furn_Com_Planter": {
+    "min": [
+      -0.318460077047348,
+      -0.3184601068496704,
+      -0.17457593977451324
+    ],
+    "max": [
+      0.3184601068496704,
+      0.318460077047348,
+      0.17457593977451324
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_com_planter.nif"
+  },
+  "furn_com_tapestry_01": {
+    "min": [
+      -0.7124673128128052,
+      -0.08776717633008957,
+      -1.9215660095214844
+    ],
+    "max": [
+      0.7124673128128052,
+      0.09747186303138733,
+      0.1291058361530304
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_com_tapestry_01.nif"
+  },
+  "furn_com_tapestry_02": {
+    "min": [
+      -0.7124673128128052,
+      -0.08776717633008957,
+      -1.9215660095214844
+    ],
+    "max": [
+      0.7124673128128052,
+      0.09747186303138733,
+      0.1291058361530304
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_com_tapestry_02.nif"
+  },
+  "furn_com_tapestry_03": {
+    "min": [
+      -0.7124673128128052,
+      -0.08776717633008957,
+      -1.9215660095214844
+    ],
+    "max": [
+      0.7124673128128052,
+      0.09747186303138733,
+      0.1291058361530304
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_com_tapestry_03.nif"
+  },
+  "furn_com_tapestry_04": {
+    "min": [
+      -0.7124673128128052,
+      -0.08776717633008957,
+      -1.9215660095214844
+    ],
+    "max": [
+      0.7124673128128052,
+      0.09747186303138733,
+      0.1291058361530304
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_com_tapestry_04.nif"
+  },
+  "furn_com_tapestry_05": {
+    "min": [
+      -0.7124673128128052,
+      -0.08776717633008957,
+      -1.9215660095214844
+    ],
+    "max": [
+      0.7124673128128052,
+      0.09747186303138733,
+      0.1291058361530304
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_com_tapestry_05.nif"
+  },
+  "furn_com_torch_ring_01": {
+    "min": [
+      -0.038429997861385345,
+      -0.11044987291097641,
+      -0.04000730440020561
+    ],
+    "max": [
+      0.038429997861385345,
+      0.11044987291097641,
+      0.04000730440020561
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_com_torch_ring_01.nif"
+  },
+  "furn_crate_lid_01": {
+    "min": [
+      -0.3199999928474426,
+      -0.320000022649765,
+      -0.04917997121810913
+    ],
+    "max": [
+      0.320000022649765,
+      0.3199999928474426,
+      0.049179982393980026
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_crate_lid_01.nif"
+  },
+  "furn_crate_open_01": {
+    "min": [
+      -0.320000022649765,
+      -0.320000022649765,
+      -0.2866697311401367
+    ],
+    "max": [
+      0.320000022649765,
+      0.320000022649765,
+      0.2866697311401367
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_crate_open_01.nif"
+  },
+  "furn_c_t_theif_01": {
+    "min": [
+      -0.7124673128128052,
+      -0.08776717633008957,
+      -1.9215660095214844
+    ],
+    "max": [
+      0.7124673128128052,
+      0.09747186303138733,
+      0.12910586595535278
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_c_t_theif_01.nif"
+  },
+  "furn_c_t_warrior_01": {
+    "min": [
+      -0.7124673128128052,
+      -0.08776717633008957,
+      -1.9215660095214844
+    ],
+    "max": [
+      0.7124673128128052,
+      0.09747186303138733,
+      0.12910586595535278
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_c_t_warrior_01.nif"
+  },
+  "furn_c_t_wizard_01": {
+    "min": [
+      -0.7124673128128052,
+      -0.08776717633008957,
+      -1.9215660095214844
+    ],
+    "max": [
+      0.7124673128128052,
+      0.09747186303138733,
+      0.12910586595535278
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_c_t_wizard_01.nif"
+  },
+  "furn_de_ex_stool_02": {
+    "min": [
+      -0.23414534330368042,
+      -0.2059270441532135,
+      -0.1873495876789093
+    ],
+    "max": [
+      0.23393955826759338,
+      0.20592716336250305,
+      0.18577471375465393
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_de_ex_stool_02.nif"
+  },
+  "furn_de_ex_table_02": {
+    "min": [
+      -0.6278679370880127,
+      -0.3887934386730194,
+      -0.3169683814048767
+    ],
+    "max": [
+      0.6278679370880127,
+      0.3887935280799866,
+      0.3170604109764099
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_de_ex_table_02.nif"
+  },
+  "furn_de_firepit": {
+    "min": [
+      -0.8321465253829956,
+      -0.8112828731536865,
+      -0.9649879336357117
+    ],
+    "max": [
+      0.8321465849876404,
+      0.8112829327583313,
+      0.9649879336357117
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_de_firepit.nif"
+  },
+  "furn_de_rope_03": {
+    "min": [
+      -0.014999999664723873,
+      -0.6486033201217651,
+      -0.21689704060554504
+    ],
+    "max": [
+      0.014999999664723873,
+      0.6486033201217651,
+      0.21689701080322266
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_de_rope_03.nif"
+  },
+  "furn_de_shack_basket_01": {
+    "min": [
+      -0.2821759283542633,
+      -0.2871814966201782,
+      -0.3237234055995941
+    ],
+    "max": [
+      0.28256773948669434,
+      0.27922743558883667,
+      0.3237234055995941
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_de_shack_basket_01.nif"
+  },
+  "furn_de_shack_basket_02": {
+    "min": [
+      -0.2677958607673645,
+      -0.27280762791633606,
+      -0.17618347704410553
+    ],
+    "max": [
+      0.26818767189979553,
+      0.2631758749485016,
+      0.17569801211357117
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_de_shack_basket_02.nif"
+  },
+  "furn_de_shack_hook": {
+    "min": [
+      -0.01249999925494194,
+      -0.04102621600031853,
+      -0.15505486726760864
+    ],
+    "max": [
+      0.012499998323619366,
+      0.04102620482444763,
+      0.15505486726760864
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_de_shack_hook.nif"
+  },
+  "furn_de_shack_post": {
+    "min": [
+      -0.0693768560886383,
+      -0.07088352739810944,
+      -0.8613964915275574
+    ],
+    "max": [
+      0.06937695294618607,
+      0.07088343054056168,
+      0.8592203855514526
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_de_shack_post.nif"
+  },
+  "furn_de_tapestry_03": {
+    "min": [
+      -0.6455180048942566,
+      -0.1953769028186798,
+      -2.0596327781677246
+    ],
+    "max": [
+      0.6193608045578003,
+      0.195376917719841,
+      0.1403205841779709
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_de_tapestry_03.nif"
+  },
+  "furn_firepit00": {
+    "min": [
+      -0.8999999761581421,
+      -0.8863268494606018,
+      -0.40002620220184326
+    ],
+    "max": [
+      0.8999999165534973,
+      0.8863270282745361,
+      0.3437463939189911
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_firepit00.nif"
+  },
+  "furn_hook_01": {
+    "min": [
+      -0.017132190987467766,
+      -0.1308322548866272,
+      -0.1542908400297165
+    ],
+    "max": [
+      0.017131924629211426,
+      0.13083381950855255,
+      0.15429073572158813
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_hook_01.nif"
+  },
+  "furn_log_01": {
+    "min": [
+      -0.07046501338481903,
+      -0.26542654633522034,
+      -0.06421966850757599
+    ],
+    "max": [
+      0.0704663023352623,
+      0.2654270529747009,
+      0.06421967595815659
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_log_01.nif"
+  },
+  "furn_log_03": {
+    "min": [
+      -0.051434315741062164,
+      -0.27186310291290283,
+      -0.04739934951066971
+    ],
+    "max": [
+      0.05143538489937782,
+      0.27186334133148193,
+      0.047399356961250305
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_log_03.nif"
+  },
+  "furn_log_04": {
+    "min": [
+      -0.061811480671167374,
+      -0.2654106020927429,
+      -0.05000903084874153
+    ],
+    "max": [
+      0.061812624335289,
+      0.2654101550579071,
+      0.05000901594758034
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_log_04.nif"
+  },
+  "furn_woodbar_01": {
+    "min": [
+      0.25565510988235474,
+      0.14120788872241974,
+      -0.6944844722747803
+    ],
+    "max": [
+      0.3984464108943939,
+      0.26506316661834717,
+      1.1209990978240967
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\furn_woodbar_01.nif"
+  },
+  "terrain_bc_scum_01": {
+    "min": [
+      -10.239999771118164,
+      -10.239999771118164,
+      -0.6100006103515625
+    ],
+    "max": [
+      10.239999771118164,
+      10.239999771118164,
+      0.02999950386583805
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\terrain_bc_scum_01.nif"
+  },
+  "terrain_bc_scum_02": {
+    "min": [
+      -5.119999885559082,
+      -5.119999885559082,
+      -0.6100008487701416
+    ],
+    "max": [
+      5.119999885559082,
+      5.119999885559082,
+      0.029999498277902603
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\terrain_bc_scum_02.nif"
+  },
+  "terrain_bc_scum_03": {
+    "min": [
+      -2.559999942779541,
+      -2.559999942779541,
+      -0.6100009679794312
+    ],
+    "max": [
+      2.559999942779541,
+      2.559999942779541,
+      0.029999500140547752
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\terrain_bc_scum_03.nif"
+  },
+  "terrain_rock_bc_12": {
+    "min": [
+      -0.7824577689170837,
+      -0.5666863322257996,
+      -0.9632925391197205
+    ],
+    "max": [
+      0.7824582457542419,
+      0.5666863918304443,
+      0.957646906375885
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\terrain_rock_bc_12.nif"
+  },
+  "terrain_rock_bc_13": {
+    "min": [
+      -1.0023787021636963,
+      -0.5584042072296143,
+      -0.8148285746574402
+    ],
+    "max": [
+      1.0023783445358276,
+      0.5584042072296143,
+      0.745296835899353
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\terrain_rock_bc_13.nif"
+  },
+  "terrain_rock_bc_14": {
+    "min": [
+      -1.2850791215896606,
+      -1.6894128322601318,
+      -1.183746099472046
+    ],
+    "max": [
+      1.3353136777877808,
+      1.6894152164459229,
+      1.1573784351348877
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\terrain_rock_bc_14.nif"
+  },
+  "terrain_rock_bc_15": {
+    "min": [
+      -2.56001877784729,
+      -2.441070556640625,
+      -1.5416839122772217
+    ],
+    "max": [
+      2.5600192546844482,
+      2.441070079803467,
+      1.5416839122772217
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\terrain_rock_bc_15.nif"
+  },
+  "terrain_rock_bc_16": {
+    "min": [
+      -2.239283800125122,
+      -3.1646502017974854,
+      -1.4461778402328491
+    ],
+    "max": [
+      2.23928165435791,
+      3.187305212020874,
+      1.4551042318344116
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\terrain_rock_bc_16.nif"
+  },
+  "terrain_rock_bc_17": {
+    "min": [
+      -2.23222017288208,
+      -2.363079071044922,
+      -2.0413811206817627
+    ],
+    "max": [
+      2.2322189807891846,
+      2.5412354469299316,
+      2.0760161876678467
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\terrain_rock_bc_17.nif"
+  },
+  "terrain_rock_bc_18": {
+    "min": [
+      -4.256085395812988,
+      -4.457991123199463,
+      -2.815706491470337
+    ],
+    "max": [
+      4.256083965301514,
+      4.457990646362305,
+      2.81571102142334
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\f\\terrain_rock_bc_18.nif"
+  },
+  "in_common_lighthouse": {
+    "min": [
+      -3.5931854248046875,
+      -2.5900402069091797,
+      -9.855850219726562
+    ],
+    "max": [
+      3.156982421875,
+      4.6892571449279785,
+      -0.7088108062744141
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_common_lighthouse.nif"
+  },
+  "in_common_tower_thatch": {
+    "min": [
+      -4.567108631134033,
+      -6.628722667694092,
+      -1.0974922180175781
+    ],
+    "max": [
+      4.623538970947266,
+      1.9709854125976562,
+      15.584317207336426
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_common_tower_thatch.nif"
+  },
+  "in_c_djamb_plain_arched": {
+    "min": [
+      -1.200147271156311,
+      -0.16168570518493652,
+      -0.0020116863306611776
+    ],
+    "max": [
+      1.2019463777542114,
+      0.19431428611278534,
+      2.3697726726531982
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_c_djamb_plain_arched.nif"
+  },
+  "in_c_djamb_plain_square": {
+    "min": [
+      -1.2000000476837158,
+      -0.17453376948833466,
+      -0.004883766174316406
+    ],
+    "max": [
+      1.2045032978057861,
+      0.20716220140457153,
+      2.3615236282348633
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_c_djamb_plain_square.nif"
+  },
+  "in_c_djamb_stone_arched": {
+    "min": [
+      -1.200147271156311,
+      -0.16168570518493652,
+      -0.0020116863306611776
+    ],
+    "max": [
+      1.2019463777542114,
+      0.19431428611278534,
+      2.3697726726531982
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_c_djamb_stone_arched.nif"
+  },
+  "in_c_doorframe_01": {
+    "min": [
+      -0.11638839542865753,
+      -0.8884844183921814,
+      -1.279999852180481
+    ],
+    "max": [
+      0.11638855189085007,
+      0.8884843587875366,
+      0.9184080362319946
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\in_c_doorframe_01.nif"
+  },
+  "in_c_pillar_wood": {
+    "min": [
+      -0.6643698215484619,
+      -0.6643698215484619,
+      -0.0034616482444107533
+    ],
+    "max": [
+      0.6643698215484619,
+      0.6643698215484619,
+      2.359999895095825
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_c_pillar_wood.nif"
+  },
+  "in_c_plain_3way": {
+    "min": [
+      -1.2800360918045044,
+      -1.2800016403198242,
+      -6.129909735363981e-08
+    ],
+    "max": [
+      1.2002410888671875,
+      1.2800016403198242,
+      2.3600001335144043
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_c_plain_3way.nif"
+  },
+  "in_c_plain_corner": {
+    "min": [
+      -1.2800359725952148,
+      -1.202845573425293,
+      0.0
+    ],
+    "max": [
+      1.1999999284744263,
+      1.2800017595291138,
+      2.3600001335144043
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_c_plain_corner.nif"
+  },
+  "in_c_plain_endcap": {
+    "min": [
+      -1.2014566659927368,
+      -1.200035810470581,
+      0.0
+    ],
+    "max": [
+      1.2800017595291138,
+      1.200229287147522,
+      2.3600001335144043
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_c_plain_endcap.nif"
+  },
+  "in_c_plain_hall_small": {
+    "min": [
+      -1.2000359296798706,
+      -1.2800016403198242,
+      -1.1264148014333841e-07
+    ],
+    "max": [
+      1.2000359296798706,
+      1.2800016403198242,
+      2.359999895095825
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_c_plain_hall_small.nif"
+  },
+  "in_c_plain_room_corner": {
+    "min": [
+      -1.2006242275238037,
+      -1.280475378036499,
+      0.0
+    ],
+    "max": [
+      1.2803881168365479,
+      1.203844428062439,
+      2.359999895095825
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_c_plain_room_corner.nif"
+  },
+  "in_c_plain_room_entry": {
+    "min": [
+      -1.2806885242462158,
+      -1.2815380096435547,
+      -1.1264148014333841e-07
+    ],
+    "max": [
+      1.2800360918045044,
+      1.2800016403198242,
+      2.3600001335144043
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_c_plain_room_entry.nif"
+  },
+  "in_c_plain_room_side": {
+    "min": [
+      -1.2000179290771484,
+      -1.28047513961792,
+      0.0
+    ],
+    "max": [
+      1.2800179719924927,
+      1.2800016403198242,
+      2.359999895095825
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_c_plain_room_side.nif"
+  },
+  "in_c_plain_stair_short": {
+    "min": [
+      -1.2799999713897705,
+      -1.2800016403198242,
+      -0.019999846816062927
+    ],
+    "max": [
+      1.2799999713897705,
+      1.2800016403198242,
+      3.6399998664855957
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_c_plain_stair_short.nif"
+  },
+  "in_c_railing_01": {
+    "min": [
+      -1.0144678354263306,
+      -0.0740373358130455,
+      -0.41378992795944214
+    ],
+    "max": [
+      1.0184179544448853,
+      0.07403739541769028,
+      0.41378992795944214
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_c_railing_01.nif"
+  },
+  "in_c_stair_plain_tall_01": {
+    "min": [
+      -1.280591607093811,
+      -1.2814708948135376,
+      -3.0517577442878974e-07
+    ],
+    "max": [
+      1.3109403848648071,
+      1.283930778503418,
+      4.98299503326416
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\in_c_stair_plain_tall_01.nif"
+  },
+  "in_c_stair_plain_tall_02": {
+    "min": [
+      -1.3109403848648071,
+      -1.2800016403198242,
+      -3.0517577442878974e-07
+    ],
+    "max": [
+      1.280591607093811,
+      1.2804739475250244,
+      4.98299503326416
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\in_c_stair_plain_tall_02.nif"
+  },
+  "in_c_stone_3way": {
+    "min": [
+      -1.2800360918045044,
+      -1.2800016403198242,
+      -6.129909735363981e-08
+    ],
+    "max": [
+      1.2002410888671875,
+      1.2800016403198242,
+      2.3600001335144043
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_c_stone_3way.nif"
+  },
+  "in_c_stone_corner": {
+    "min": [
+      -1.2800359725952148,
+      -1.202845573425293,
+      0.0
+    ],
+    "max": [
+      1.1999999284744263,
+      1.2800017595291138,
+      2.3600001335144043
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_c_stone_corner.nif"
+  },
+  "in_c_stone_endcap": {
+    "min": [
+      -1.2014566659927368,
+      -1.200035810470581,
+      0.0
+    ],
+    "max": [
+      1.2800017595291138,
+      1.200229287147522,
+      2.3600001335144043
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_c_stone_endcap.nif"
+  },
+  "in_c_stone_hall_small": {
+    "min": [
+      -1.2000359296798706,
+      -1.2800016403198242,
+      -1.1767216534508407e-07
+    ],
+    "max": [
+      1.2000359296798706,
+      1.2800016403198242,
+      2.359999895095825
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_c_stone_hall_small.nif"
+  },
+  "in_c_wall_plain": {
+    "min": [
+      -1.1999999284744263,
+      -0.12741026282310486,
+      0.0
+    ],
+    "max": [
+      1.203017234802246,
+      -0.06476954370737076,
+      2.368000030517578
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_c_wall_plain.nif"
+  },
+  "in_de_shack_02": {
+    "min": [
+      -2.0036797523498535,
+      -2.9206597805023193,
+      -1.7927502393722534
+    ],
+    "max": [
+      2.0036792755126953,
+      2.9206597805023193,
+      1.7927498817443848
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_de_shack_02.nif"
+  },
+  "in_de_shack_03": {
+    "min": [
+      -2.155237913131714,
+      -1.8629381656646729,
+      -2.0676076412200928
+    ],
+    "max": [
+      2.155237913131714,
+      1.8629381656646729,
+      2.0676076412200928
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_de_shack_03.nif"
+  },
+  "in_de_shack_door": {
+    "min": [
+      -0.5850902199745178,
+      -0.13224133849143982,
+      -0.7705631256103516
+    ],
+    "max": [
+      0.5973413586616516,
+      0.1442624181509018,
+      0.7705631256103516
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_de_shack_door.nif"
+  },
+  "In_Lava_Blacksquare": {
+    "min": [
+      -2.559999942779541,
+      -2.559999942779541,
+      -4.999999987376214e-07
+    ],
+    "max": [
+      2.559999942779541,
+      2.559999942779541,
+      -4.999999987376214e-07
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_lava_blacksquare.nif"
+  },
+  "in_nord_doorf_01": {
+    "min": [
+      -0.776637852191925,
+      -0.26213720440864563,
+      -1.055180311203003
+    ],
+    "max": [
+      0.7766336798667908,
+      0.15437698364257812,
+      1.055180311203003
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_nord_doorf_01.nif"
+  },
+  "in_nord_doorf_02": {
+    "min": [
+      -0.776637852191925,
+      -0.262137234210968,
+      -0.014225921593606472
+    ],
+    "max": [
+      0.7766336798667908,
+      0.15437693893909454,
+      2.096134662628174
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_nord_doorf_02.nif"
+  },
+  "in_nord_fireplace_01": {
+    "min": [
+      -0.45583751797676086,
+      -0.9062637686729431,
+      -2.7324647903442383
+    ],
+    "max": [
+      0.623293399810791,
+      0.7784329056739807,
+      2.2415618896484375
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_nord_fireplace_01.nif"
+  },
+  "in_nord_house_01": {
+    "min": [
+      -2.799642324447632,
+      -1.7225093841552734,
+      -2.559999465942383
+    ],
+    "max": [
+      2.632540464401245,
+      2.4942710399627686,
+      2.2248289585113525
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_nord_house_01.nif"
+  },
+  "in_nord_house_02": {
+    "min": [
+      -3.9708809852600098,
+      -3.8829104900360107,
+      -2.560004711151123
+    ],
+    "max": [
+      3.970881938934326,
+      2.308720588684082,
+      2.2248241901397705
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_nord_house_02.nif"
+  },
+  "in_nord_house_03": {
+    "min": [
+      -2.8038671016693115,
+      -1.8063913583755493,
+      -2.5599992275238037
+    ],
+    "max": [
+      2.925306797027588,
+      2.277143955230713,
+      2.149928569793701
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\i\\in_nord_house_03.nif"
+  },
+  "Light_Com_Candle_01": {
+    "min": [
+      -0.08348606526851654,
+      -0.08563306927680969,
+      -0.07618743926286697
+    ],
+    "max": [
+      0.08348606526851654,
+      0.08563306927680969,
+      0.20040397346019745
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\l\\light_com_candle_01.nif"
+  },
+  "light_com_candle_05": {
+    "min": [
+      -0.08348606526851654,
+      -0.08563306927680969,
+      -0.07767060399055481
+    ],
+    "max": [
+      0.08348606526851654,
+      0.08563306927680969,
+      0.19892080128192902
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\l\\light_com_candle_05.nif"
+  },
+  "light_com_candle_07": {
+    "min": [
+      -0.13108575344085693,
+      -0.1552041620016098,
+      -0.09830162674188614
+    ],
+    "max": [
+      0.13108575344085693,
+      0.1552041620016098,
+      0.09830162674188614
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\light_com_candle_07.nif"
+  },
+  "Light_Com_Candle_11": {
+    "min": [
+      -0.1229921281337738,
+      -0.1552041620016098,
+      -0.21841807663440704
+    ],
+    "max": [
+      0.13108573853969574,
+      0.1552041620016098,
+      -0.02809499204158783
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\l\\light_com_candle_11.nif"
+  },
+  "Light_Com_Candle_12": {
+    "min": [
+      -0.08348606526851654,
+      -0.08563306927680969,
+      -0.07767060399055481
+    ],
+    "max": [
+      0.08348606526851654,
+      0.08563306927680969,
+      0.19892080128192902
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\l\\light_com_candle_12.nif"
+  },
+  "light_com_chandelier_01": {
+    "min": [
+      -0.31333041191101074,
+      -0.31426551938056946,
+      -0.31591707468032837
+    ],
+    "max": [
+      0.31333041191101074,
+      0.31426551938056946,
+      0.2710515856742859
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\l\\light_com_chandelier_01.nif"
+  },
+  "light_com_chandelier_03": {
+    "min": [
+      -0.31333041191101074,
+      -0.31426551938056946,
+      -0.31729403138160706
+    ],
+    "max": [
+      0.31333041191101074,
+      0.31426551938056946,
+      0.269674688577652
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\l\\light_com_chandelier_03.nif"
+  },
+  "light_com_lamp_01": {
+    "min": [
+      -0.19732722640037537,
+      -0.19732719659805298,
+      -1.3744348287582397
+    ],
+    "max": [
+      0.19732722640037537,
+      0.19732727110385895,
+      -0.1843727082014084
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\l\\light_com_lamp_01.nif"
+  },
+  "light_com_lamp_02": {
+    "min": [
+      -0.18502867221832275,
+      -0.1873781383037567,
+      -1.4037315845489502
+    ],
+    "max": [
+      0.18502867221832275,
+      0.18737821280956268,
+      -0.14082354307174683
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\l\\light_com_lamp_02.nif"
+  },
+  "light_com_lantern_02": {
+    "min": [
+      -0.09274638444185257,
+      -0.06996354460716248,
+      -0.3516272008419037
+    ],
+    "max": [
+      0.047464050352573395,
+      0.07024689763784409,
+      0.03545300289988518
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\l\\light_com_lantern_02.nif"
+  },
+  "light_com_sconce_01": {
+    "min": [
+      -0.06190178543329239,
+      -0.15264195203781128,
+      -0.35399720072746277
+    ],
+    "max": [
+      0.06190177798271179,
+      0.06218382343649864,
+      -0.02231861650943756
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\l\\light_com_sconce_01.nif"
+  },
+  "light_com_sconce_02": {
+    "min": [
+      -0.12846209108829498,
+      -0.1265004277229309,
+      -0.36940115690231323
+    ],
+    "max": [
+      0.12846209108829498,
+      0.05632880702614784,
+      -0.01866745948791504
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\l\\light_com_sconce_02.nif"
+  },
+  "light_com_torch_01": {
+    "min": [
+      -0.04912291467189789,
+      -0.04313478246331215,
+      -0.21493273973464966
+    ],
+    "max": [
+      0.0491856150329113,
+      0.043767817318439484,
+      0.2772068977355957
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\l\\light_com_torch_01.nif"
+  },
+  "light_de_lantern_03": {
+    "min": [
+      -0.06992693245410919,
+      -0.10620097070932388,
+      -0.3829609155654907
+    ],
+    "max": [
+      0.14247503876686096,
+      0.10620098561048508,
+      0.027775689959526062
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\l\\light_de_lantern_03.nif"
+  },
+  "light_de_lantern_07": {
+    "min": [
+      -0.14520034193992615,
+      -0.09780470281839371,
+      -0.35968002676963806
+    ],
+    "max": [
+      0.08014551550149918,
+      0.11288490891456604,
+      0.03530874103307724
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\l\\light_de_lantern_07.nif"
+  },
+  "light_de_lantern_08": {
+    "min": [
+      -0.06992693245410919,
+      -0.10620097070932388,
+      -0.3829609155654907
+    ],
+    "max": [
+      0.14247503876686096,
+      0.10620098561048508,
+      0.027775689959526062
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\l\\light_de_lantern_08.nif"
+  },
+  "Light_Fire": {
+    "min": [
+      -0.05999999865889549,
+      -0.05999999865889549,
+      -0.05999999865889549
+    ],
+    "max": [
+      0.05999999865889549,
+      0.05999999865889549,
+      0.05999999865889549
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\l\\light_fire.nif"
+  },
+  "Light_Fire_NoSmoke": {
+    "min": [
+      -0.05999999865889549,
+      -0.05999999865889549,
+      -0.05999999865889549
+    ],
+    "max": [
+      0.05999999865889549,
+      0.05999999865889549,
+      0.05999999865889549
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\l\\light_fire_nosmoke.nif"
+  },
+  "light_logpile10": {
+    "min": [
+      -0.3073764741420746,
+      -0.14425630867481232,
+      -0.011368967592716217
+    ],
+    "max": [
+      0.29703980684280396,
+      0.14882715046405792,
+      0.28163495659828186
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\l\\light_logpile10.nif"
+  },
+  "Gold_025": {
+    "min": [
+      -0.05811198055744171,
+      -0.02130521461367607,
+      -0.000215982086956501
+    ],
+    "max": [
+      0.027596844360232353,
+      0.06402795016765594,
+      0.09216586500406265
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\gold_025.nif"
+  },
+  "Gold_100": {
+    "min": [
+      -0.13731122016906738,
+      -0.02130521461367607,
+      -0.000215982086956501
+    ],
+    "max": [
+      0.022401532158255577,
+      0.20903383195400238,
+      0.09216586500406265
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\gold_100.nif"
+  },
+  "misc_com_basket_01": {
+    "min": [
+      -0.2167784422636032,
+      -0.20029562711715698,
+      -0.08167240023612976
+    ],
+    "max": [
+      0.2151780128479004,
+      0.197255477309227,
+      0.08167240768671036
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_basket_01.nif"
+  },
+  "misc_com_basket_02": {
+    "min": [
+      -0.17990601062774658,
+      -0.26973506808280945,
+      -0.15296496450901031
+    ],
+    "max": [
+      0.17990602552890778,
+      0.26973503828048706,
+      0.15296496450901031
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_basket_02.nif"
+  },
+  "misc_com_bottle_01": {
+    "min": [
+      -0.06124043092131615,
+      -0.05824311450123787,
+      -0.15669792890548706
+    ],
+    "max": [
+      0.061240434646606445,
+      0.05824311450123787,
+      0.15669791400432587
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_bottle_01.nif"
+  },
+  "misc_com_bottle_02": {
+    "min": [
+      -0.04625850170850754,
+      -0.04399444907903671,
+      -0.15978388488292694
+    ],
+    "max": [
+      0.04625850170850754,
+      0.04399444907903671,
+      0.15978388488292694
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_bottle_02.nif"
+  },
+  "misc_com_bottle_03": {
+    "min": [
+      -0.1031564474105835,
+      -0.09810762107372284,
+      -0.15850897133350372
+    ],
+    "max": [
+      0.1031564474105835,
+      0.09810762107372284,
+      0.15850897133350372
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_bottle_03.nif"
+  },
+  "Misc_Com_Bottle_04": {
+    "min": [
+      -0.07443029433488846,
+      -0.0708027333021164,
+      -0.1787521094083786
+    ],
+    "max": [
+      0.07443029433488846,
+      0.0708027333021164,
+      0.1787520945072174
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_bottle_04.nif"
+  },
+  "misc_com_bottle_05": {
+    "min": [
+      -0.04625850170850754,
+      -0.04399444907903671,
+      -0.16901059448719025
+    ],
+    "max": [
+      0.04625850170850754,
+      0.04399444907903671,
+      0.16901059448719025
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_bottle_05.nif"
+  },
+  "misc_com_bottle_06": {
+    "min": [
+      -0.04625850170850754,
+      -0.04399444907903671,
+      -0.15978388488292694
+    ],
+    "max": [
+      0.04625850170850754,
+      0.04399444907903671,
+      0.15978388488292694
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_bottle_06.nif"
+  },
+  "misc_com_bottle_07": {
+    "min": [
+      -0.1031564474105835,
+      -0.09810762107372284,
+      -0.15850897133350372
+    ],
+    "max": [
+      0.1031564474105835,
+      0.09810762107372284,
+      0.15850897133350372
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_bottle_07.nif"
+  },
+  "Misc_Com_Bottle_08": {
+    "min": [
+      -0.04625850170850754,
+      -0.04399444907903671,
+      -0.16901059448719025
+    ],
+    "max": [
+      0.04625850170850754,
+      0.04399444907903671,
+      0.16901059448719025
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_bottle_08.nif"
+  },
+  "misc_com_bottle_09": {
+    "min": [
+      -0.061254117637872696,
+      -0.05824311450123787,
+      -0.15669791400432587
+    ],
+    "max": [
+      0.061226747930049896,
+      0.05824311450123787,
+      0.15669792890548706
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_bottle_09.nif"
+  },
+  "misc_com_bottle_10": {
+    "min": [
+      -0.07443029433488846,
+      -0.0708027333021164,
+      -0.1787521094083786
+    ],
+    "max": [
+      0.07443029433488846,
+      0.0708027333021164,
+      0.1787520945072174
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_bottle_10.nif"
+  },
+  "misc_com_bottle_11": {
+    "min": [
+      -0.04625850170850754,
+      -0.04399444907903671,
+      -0.15978388488292694
+    ],
+    "max": [
+      0.04625850170850754,
+      0.04399444907903671,
+      0.15978388488292694
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_bottle_11.nif"
+  },
+  "misc_com_bottle_12": {
+    "min": [
+      -0.1031564474105835,
+      -0.09810762107372284,
+      -0.15850897133350372
+    ],
+    "max": [
+      0.1031564474105835,
+      0.09810762107372284,
+      0.15850897133350372
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_bottle_12.nif"
+  },
+  "Misc_Com_Bottle_14": {
+    "min": [
+      -0.04625850170850754,
+      -0.04399444907903671,
+      -0.16901059448719025
+    ],
+    "max": [
+      0.04625850170850754,
+      0.04399444907903671,
+      0.16901059448719025
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_bottle_14.nif"
+  },
+  "misc_com_bottle_15": {
+    "min": [
+      -0.07443029433488846,
+      -0.0708027333021164,
+      -0.1787521094083786
+    ],
+    "max": [
+      0.07443029433488846,
+      0.0708027333021164,
+      0.1787520945072174
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_bottle_15.nif"
+  },
+  "misc_com_broom_01": {
+    "min": [
+      -0.08491631597280502,
+      -0.07353968173265457,
+      -0.5503017902374268
+    ],
+    "max": [
+      0.08491640537977219,
+      0.07353977859020233,
+      0.5503017902374268
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_broom_01.nif"
+  },
+  "misc_com_bucket_01": {
+    "min": [
+      -0.18659165501594543,
+      -0.21752279996871948,
+      -0.17791835963726044
+    ],
+    "max": [
+      0.1767120063304901,
+      0.21768762171268463,
+      0.17816241085529327
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_bucket_01.nif"
+  },
+  "misc_com_iron_ladle": {
+    "min": [
+      -0.12462589889764786,
+      -0.04631885513663292,
+      -0.0025518559850752354
+    ],
+    "max": [
+      0.1854286938905716,
+      0.04955016076564789,
+      0.38135772943496704
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_iron_ladle.nif"
+  },
+  "misc_com_metal_goblet_01": {
+    "min": [
+      -0.04552466794848442,
+      -0.04329653084278107,
+      -0.06571082770824432
+    ],
+    "max": [
+      0.04552466794848442,
+      0.04329653084278107,
+      0.06571082770824432
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_metal_goblet_01.nif"
+  },
+  "misc_com_metal_goblet_02": {
+    "min": [
+      -0.04552466794848442,
+      -0.04329653084278107,
+      -0.06486447900533676
+    ],
+    "max": [
+      0.04552466794848442,
+      0.04329653084278107,
+      0.06486447900533676
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_metal_goblet_02.nif"
+  },
+  "misc_com_metal_plate_04": {
+    "min": [
+      -0.11819741129875183,
+      -0.11819741129875183,
+      -0.014775924384593964
+    ],
+    "max": [
+      0.11819741129875183,
+      0.11819741129875183,
+      0.014775924384593964
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_metal_plate_04.nif"
+  },
+  "misc_com_metal_plate_05": {
+    "min": [
+      -0.12859588861465454,
+      -0.12859588861465454,
+      -0.014830703847110271
+    ],
+    "max": [
+      0.12859588861465454,
+      0.12859588861465454,
+      0.014830703847110271
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_metal_plate_05.nif"
+  },
+  "misc_com_metal_plate_07": {
+    "min": [
+      -0.12610386312007904,
+      -0.12610386312007904,
+      -0.015193352475762367
+    ],
+    "max": [
+      0.12610386312007904,
+      0.12610386312007904,
+      0.015193352475762367
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_metal_plate_07.nif"
+  },
+  "Misc_Com_Pitcher_Metal_01": {
+    "min": [
+      -0.09408821165561676,
+      -0.08929654955863953,
+      -0.1396540403366089
+    ],
+    "max": [
+      0.09809699654579163,
+      0.07907124608755112,
+      0.1396540403366089
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_pitcher_metal_01.nif"
+  },
+  "misc_com_plate_01": {
+    "min": [
+      -0.10862570255994797,
+      -0.10862570255994797,
+      -0.009454573504626751
+    ],
+    "max": [
+      0.10862570255994797,
+      0.10862570255994797,
+      0.009454573504626751
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_plate_01.nif"
+  },
+  "misc_com_plate_02": {
+    "min": [
+      -0.10833747684955597,
+      -0.10833747684955597,
+      -0.009584086947143078
+    ],
+    "max": [
+      0.10833747684955597,
+      0.10833747684955597,
+      0.009584087878465652
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_plate_02.nif"
+  },
+  "misc_com_silverware_fork": {
+    "min": [
+      -0.07705371826887131,
+      -0.008864977397024632,
+      -0.005249461159110069
+    ],
+    "max": [
+      0.07705371826887131,
+      0.008864977397024632,
+      0.005249461159110069
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_silverware_fork.nif"
+  },
+  "misc_com_silverware_knife": {
+    "min": [
+      -0.09902611374855042,
+      -0.00772123271599412,
+      -0.0038716476410627365
+    ],
+    "max": [
+      0.09902611374855042,
+      0.00772123271599412,
+      0.0038716476410627365
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_silverware_knife.nif"
+  },
+  "misc_com_tankard_01": {
+    "min": [
+      -0.06007828563451767,
+      -0.05516741797327995,
+      -0.07092884927988052
+    ],
+    "max": [
+      0.06007828563451767,
+      0.05516741797327995,
+      0.07092884927988052
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_tankard_01.nif"
+  },
+  "Misc_Com_Wood_Bowl_01": {
+    "min": [
+      -0.10119351744651794,
+      -0.09624077379703522,
+      -0.02643638476729393
+    ],
+    "max": [
+      0.10119351744651794,
+      0.09624077379703522,
+      0.02643638849258423
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_wood_bowl_01.nif"
+  },
+  "misc_com_wood_bowl_02": {
+    "min": [
+      -0.10119353234767914,
+      -0.09624076634645462,
+      -0.02643638476729393
+    ],
+    "max": [
+      0.10119353234767914,
+      0.09624076634645462,
+      0.02643638476729393
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_wood_bowl_02.nif"
+  },
+  "misc_com_wood_bowl_04": {
+    "min": [
+      -0.1721968948841095,
+      -0.1637689769268036,
+      -0.05814504623413086
+    ],
+    "max": [
+      0.1721968948841095,
+      0.1637689769268036,
+      0.05814504623413086
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_wood_bowl_04.nif"
+  },
+  "Misc_Com_Wood_Bowl_05": {
+    "min": [
+      -0.1721968948841095,
+      -0.16376899182796478,
+      -0.05814504995942116
+    ],
+    "max": [
+      0.1721968948841095,
+      0.16376899182796478,
+      0.05814504995942116
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_wood_bowl_05.nif"
+  },
+  "misc_com_wood_cup_01": {
+    "min": [
+      -0.04669810086488724,
+      -0.047418493777513504,
+      -0.06598199903964996
+    ],
+    "max": [
+      0.04669810086488724,
+      0.047418493777513504,
+      0.06598199903964996
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_wood_cup_01.nif"
+  },
+  "misc_com_wood_cup_02": {
+    "min": [
+      -0.041325755417346954,
+      -0.04196327179670334,
+      -0.05997471138834953
+    ],
+    "max": [
+      0.041325755417346954,
+      0.04196327179670334,
+      0.05997471138834953
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_wood_cup_02.nif"
+  },
+  "misc_com_wood_fork": {
+    "min": [
+      -0.08825681358575821,
+      -0.013886920176446438,
+      -0.009480337612330914
+    ],
+    "max": [
+      0.08825681358575821,
+      0.013886920176446438,
+      0.009480337612330914
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_wood_fork.nif"
+  },
+  "misc_com_wood_knife": {
+    "min": [
+      -0.10293349623680115,
+      -0.009875290095806122,
+      -0.005085592158138752
+    ],
+    "max": [
+      0.10293349623680115,
+      0.009875290095806122,
+      0.005085592158138752
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_wood_knife.nif"
+  },
+  "misc_com_wood_spoon_01": {
+    "min": [
+      -0.08118222653865814,
+      -0.01711580529808998,
+      -0.006663987413048744
+    ],
+    "max": [
+      0.09607908874750137,
+      0.01711580529808998,
+      0.006663987413048744
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_wood_spoon_01.nif"
+  },
+  "misc_com_wood_spoon_02": {
+    "min": [
+      -0.17490966618061066,
+      -0.030937163159251213,
+      -0.0066639878787100315
+    ],
+    "max": [
+      0.17490966618061066,
+      0.030835885554552078,
+      0.006663987413048744
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_com_wood_spoon_02.nif"
+  },
+  "misc_de_basket_01": {
+    "min": [
+      -0.1839597523212433,
+      -0.25193682312965393,
+      0.0
+    ],
+    "max": [
+      0.1839597523212433,
+      0.25193682312965393,
+      0.2978895306587219
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_de_basket_01.nif"
+  },
+  "misc_de_fishing_pole": {
+    "min": [
+      -0.04212192818522453,
+      -0.022731788456439972,
+      -0.6399999856948853
+    ],
+    "max": [
+      0.04212191700935364,
+      0.022731786593794823,
+      0.6399999856948853
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_de_fishing_pole.nif"
+  },
+  "Misc_Inkwell": {
+    "min": [
+      -0.0668288916349411,
+      -0.0668288990855217,
+      -0.0550021156668663
+    ],
+    "max": [
+      0.0668288916349411,
+      0.0668288990855217,
+      0.0550021156668663
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_inkwell.nif"
+  },
+  "misc_lw_platter": {
+    "min": [
+      -0.5054740309715271,
+      -0.256899893283844,
+      -0.02463117614388466
+    ],
+    "max": [
+      0.5054740309715271,
+      0.256899893283844,
+      0.02463117614388466
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_lw_platter.nif"
+  },
+  "Misc_Quill": {
+    "min": [
+      -0.03999999538064003,
+      -0.1599999964237213,
+      -0.001666666241362691
+    ],
+    "max": [
+      0.03999999910593033,
+      0.1599999964237213,
+      0.001666666241362691
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_quill.nif"
+  },
+  "misc_rollingpin_01": {
+    "min": [
+      -0.13672524690628052,
+      -0.020001821219921112,
+      -0.020001821219921112
+    ],
+    "max": [
+      0.13672524690628052,
+      0.020001821219921112,
+      0.020001821219921112
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\misc_rollingpin_01.nif"
+  },
+  "pick_apprentice_01": {
+    "min": [
+      -0.006750868633389473,
+      -0.11000756174325943,
+      -3.986775845987722e-05
+    ],
+    "max": [
+      0.00675115967169404,
+      0.11000757664442062,
+      0.007731587626039982
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\m\\pick_apprentice_01.nif"
+  },
+  "ingred_bread_01": {
+    "min": [
+      -0.129900261759758,
+      -0.04874052479863167,
+      -0.03426983952522278
+    ],
+    "max": [
+      0.1299002766609192,
+      0.04874052852392197,
+      0.03426984325051308
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\n\\ingred_bread_01.nif"
+  },
+  "ingred_comberry_01": {
+    "min": [
+      -0.06127443164587021,
+      -0.08013808727264404,
+      -0.00013409415259957314
+    ],
+    "max": [
+      0.05768773332238197,
+      0.08013810217380524,
+      0.0636395812034607
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\n\\ingred_comberry_01.nif"
+  },
+  "potion_comberry_brandy_01": {
+    "min": [
+      -0.0849003791809082,
+      -0.08608274906873703,
+      -0.13087248802185059
+    ],
+    "max": [
+      0.08490036427974701,
+      0.08608274906873703,
+      0.13087250292301178
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\n\\potion_comberry_brandy_01.nif"
+  },
+  "potion_cyro_brandy_01": {
+    "min": [
+      -0.045023031532764435,
+      -0.04281939938664436,
+      -0.10659068077802658
+    ],
+    "max": [
+      0.045022979378700256,
+      0.04281945154070854,
+      0.10659068077802658
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\n\\potion_cyro_brandy_01.nif"
+  },
+  "Potion_Cyro_Whiskey_01": {
+    "min": [
+      -0.045023031532764435,
+      -0.04281939938664436,
+      -0.08117619156837463
+    ],
+    "max": [
+      0.045022979378700256,
+      0.04281945154070854,
+      0.08117619156837463
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\n\\potion_cyro_whiskey_01.nif"
+  },
+  "Potion_Local_Brew_01": {
+    "min": [
+      -0.08663968741893768,
+      -0.08239924162626266,
+      -0.1179523840546608
+    ],
+    "max": [
+      0.08663968741893768,
+      0.08239924162626266,
+      0.1179523691534996
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\n\\potion_local_brew_01.nif"
+  },
+  "potion_local_liquor_01": {
+    "min": [
+      -0.08663968741893768,
+      -0.08239924162626266,
+      -0.1179523840546608
+    ],
+    "max": [
+      0.08663968741893768,
+      0.08239924162626266,
+      0.1179523691534996
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\n\\potion_local_liquor_01.nif"
+  },
+  "ex_common_balcony_01": {
+    "min": [
+      -1.22537362575531,
+      -1.8896127939224243,
+      -1.68922758102417
+    ],
+    "max": [
+      1.2253731489181519,
+      1.6415913105010986,
+      1.68922758102417
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_common_balcony_01.nif"
+  },
+  "ex_common_chimney_tall": {
+    "min": [
+      -0.8677099347114563,
+      -0.6295616030693054,
+      -0.20432114601135254
+    ],
+    "max": [
+      0.8436205983161926,
+      0.6274115443229675,
+      13.357023239135742
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_common_chimney_tall.nif"
+  },
+  "ex_common_house_addon": {
+    "min": [
+      -1.6867650747299194,
+      -2.5902299880981445,
+      -2.5962653160095215
+    ],
+    "max": [
+      1.6867650747299194,
+      2.7493207454681396,
+      3.914318084716797
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_common_house_addon.nif"
+  },
+  "ex_common_house_tall_01": {
+    "min": [
+      -2.9755377769470215,
+      -2.9765374660491943,
+      -2.6213581562042236
+    ],
+    "max": [
+      2.972362518310547,
+      2.9723634719848633,
+      9.291316032409668
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_common_house_tall_01.nif"
+  },
+  "ex_common_house_tall_02": {
+    "min": [
+      -7.2842841148376465,
+      -2.0525901317596436,
+      -8.900339126586914
+    ],
+    "max": [
+      1.279585361480713,
+      6.121030807495117,
+      2.530390977859497
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_common_house_tall_02.nif"
+  },
+  "ex_common_lighthouse": {
+    "min": [
+      -2.9930880069732666,
+      -2.365675926208496,
+      -10.483574867248535
+    ],
+    "max": [
+      3.1235530376434326,
+      4.255031585693359,
+      3.2126517295837402
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_common_lighthouse.nif"
+  },
+  "ex_common_plat_cent": {
+    "min": [
+      -1.2800003290176392,
+      -1.3413995504379272,
+      -5.128268718719482
+    ],
+    "max": [
+      1.2799999713897705,
+      1.3281818628311157,
+      1.3967978954315186
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_common_plat_cent.nif"
+  },
+  "ex_common_plat_corn": {
+    "min": [
+      -1.488200068473816,
+      -1.327054738998413,
+      -5.128268718719482
+    ],
+    "max": [
+      1.2799999713897705,
+      1.2799999713897705,
+      1.3967978954315186
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_common_plat_corn.nif"
+  },
+  "ex_common_plat_end": {
+    "min": [
+      -1.2800003290176392,
+      -1.327054738998413,
+      -5.128268718719482
+    ],
+    "max": [
+      1.2799999713897705,
+      1.338673710823059,
+      1.3967978954315186
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_common_plat_end.nif"
+  },
+  "ex_common_skywalk_01": {
+    "min": [
+      -1.2368162870407104,
+      -3.211771011352539,
+      -0.013226429000496864
+    ],
+    "max": [
+      1.2388279438018799,
+      3.1723105907440186,
+      2.975477933883667
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_common_skywalk_01.nif"
+  },
+  "ex_common_tower_thatch": {
+    "min": [
+      -3.0389785766601562,
+      -3.0389790534973145,
+      -2.5994772911071777
+    ],
+    "max": [
+      3.0389785766601562,
+      3.0389785766601562,
+      13.318055152893066
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_common_tower_thatch.nif"
+  },
+  "ex_common_window_01": {
+    "min": [
+      -0.7651454210281372,
+      -0.2071153223514557,
+      -0.8491086959838867
+    ],
+    "max": [
+      0.765138566493988,
+      0.20200753211975098,
+      0.8709088563919067
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_common_window_01.nif"
+  },
+  "ex_com_dframe_lthus": {
+    "min": [
+      -0.2222766876220703,
+      -0.8356097340583801,
+      -0.3095986843109131
+    ],
+    "max": [
+      0.20787078142166138,
+      0.8332659602165222,
+      1.6053308248519897
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_com_dframe_lthus.nif"
+  },
+  "ex_de_docks_center": {
+    "min": [
+      -1.2800003290176392,
+      -1.2799999713897705,
+      -5.119999885559082
+    ],
+    "max": [
+      1.2799999713897705,
+      1.3422107696533203,
+      1.3078283071517944
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_de_docks_center.nif"
+  },
+  "ex_de_docks_end": {
+    "min": [
+      -0.4794182777404785,
+      -1.2799999713897705,
+      -5.119999885559082
+    ],
+    "max": [
+      1.2800003290176392,
+      1.3138304948806763,
+      1.3078283071517944
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_de_docks_end.nif"
+  },
+  "Ex_De_Docks_Piling_01": {
+    "min": [
+      -0.26485705375671387,
+      -0.26770085096359253,
+      -2.896061897277832
+    ],
+    "max": [
+      0.26485708355903625,
+      0.2677009105682373,
+      2.9059646129608154
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_de_docks_piling_01.nif"
+  },
+  "ex_de_docks_steps_01": {
+    "min": [
+      -0.8616296052932739,
+      -0.7790732383728027,
+      -0.7806191444396973
+    ],
+    "max": [
+      0.8616296052932739,
+      0.7790732383728027,
+      0.7803124189376831
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_de_docks_steps_01.nif"
+  },
+  "ex_de_oar": {
+    "min": [
+      -0.08348380029201508,
+      -0.8773140907287598,
+      -0.010320326313376427
+    ],
+    "max": [
+      0.08348380029201508,
+      0.8773141503334045,
+      0.010320326313376427
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_de_oar.nif"
+  },
+  "ex_de_railing_01": {
+    "min": [
+      -1.3291643857955933,
+      -0.10958419740200043,
+      -1.5902780294418335
+    ],
+    "max": [
+      1.3294029235839844,
+      0.10958419740200043,
+      1.585471749305725
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_de_railing_01.nif"
+  },
+  "ex_de_railing_02": {
+    "min": [
+      -1.362325668334961,
+      -0.11908873915672302,
+      -1.9139034748077393
+    ],
+    "max": [
+      1.362325668334961,
+      0.11908882111310959,
+      1.9106560945510864
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_de_railing_02.nif"
+  },
+  "ex_de_railing_03": {
+    "min": [
+      -0.11841201782226562,
+      -0.11908877640962601,
+      -1.9120737314224243
+    ],
+    "max": [
+      0.11841201782226562,
+      0.1190887838602066,
+      1.9106560945510864
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_de_railing_03.nif"
+  },
+  "ex_de_shack_02": {
+    "min": [
+      -2.352454662322998,
+      -3.0746078491210938,
+      -2.2029190063476562
+    ],
+    "max": [
+      2.2856087684631348,
+      3.075864791870117,
+      2.211904287338257
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_de_shack_02.nif"
+  },
+  "ex_de_shack_03": {
+    "min": [
+      -2.259465456008911,
+      -2.1546578407287598,
+      -2.0866944789886475
+    ],
+    "max": [
+      2.3761112689971924,
+      2.1773996353149414,
+      2.0782744884490967
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_de_shack_03.nif"
+  },
+  "Ex_De_Shack_Door": {
+    "min": [
+      -0.5461706519126892,
+      -0.14025551080703735,
+      -0.7584480047225952
+    ],
+    "max": [
+      0.5421746969223022,
+      0.14038436114788055,
+      0.7584480047225952
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_de_shack_door.nif"
+  },
+  "ex_de_shack_plank_01": {
+    "min": [
+      -0.19311553239822388,
+      -1.2368215322494507,
+      -0.08813789486885071
+    ],
+    "max": [
+      0.19311553239822388,
+      1.2368217706680298,
+      0.08813802152872086
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_de_shack_plank_01.nif"
+  },
+  "ex_de_shack_plank_02": {
+    "min": [
+      -0.17636717855930328,
+      -0.771631121635437,
+      -0.08813770115375519
+    ],
+    "max": [
+      0.17636717855930328,
+      0.771631121635437,
+      0.08813776075839996
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_de_shack_plank_02.nif"
+  },
+  "Ex_De_SN_Gate": {
+    "min": [
+      -0.011239983141422272,
+      -0.08860713243484497,
+      -0.8820895552635193
+    ],
+    "max": [
+      1.2667837142944336,
+      0.07503832131624222,
+      0.8634499311447144
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_de_sn_gate.nif"
+  },
+  "ex_drystonewall_c_01": {
+    "min": [
+      -1.5299999713897705,
+      -0.2500000596046448,
+      -1.6460479497909546
+    ],
+    "max": [
+      1.2924306392669678,
+      2.559999942779541,
+      1.2447983026504517
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_drystonewall_c_01.nif"
+  },
+  "ex_drystonewall_end_01": {
+    "min": [
+      -1.2799999713897705,
+      -0.25,
+      -1.6494578123092651
+    ],
+    "max": [
+      1.5046660900115967,
+      0.2500000596046448,
+      1.0908483266830444
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_drystonewall_end_01.nif"
+  },
+  "ex_drystonewall_s_01": {
+    "min": [
+      -1.279999852180481,
+      -0.2500000298023224,
+      -1.6460479497909546
+    ],
+    "max": [
+      1.2924306392669678,
+      0.2500000298023224,
+      1.2660140991210938
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_drystonewall_s_01.nif"
+  },
+  "ex_nord_chimney_01": {
+    "min": [
+      -0.38117679953575134,
+      -0.49803707003593445,
+      -0.9528204202651978
+    ],
+    "max": [
+      0.41529473662376404,
+      0.5398264527320862,
+      0.951457679271698
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_nord_chimney_01.nif"
+  },
+  "ex_nord_doorf_01": {
+    "min": [
+      -1.6199579238891602,
+      -0.7684649229049683,
+      -1.3250454664230347
+    ],
+    "max": [
+      1.4990593194961548,
+      0.6424533128738403,
+      1.2202298641204834
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_nord_doorf_01.nif"
+  },
+  "ex_nord_house_01": {
+    "min": [
+      -2.6920197010040283,
+      -2.078331470489502,
+      -2.56000018119812
+    ],
+    "max": [
+      2.69201922416687,
+      2.079252004623413,
+      4.784828186035156
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_nord_house_01.nif"
+  },
+  "ex_nord_house_02": {
+    "min": [
+      -3.972019672393799,
+      -3.025174856185913,
+      -2.56000018119812
+    ],
+    "max": [
+      3.9720189571380615,
+      3.0338833332061768,
+      4.7200775146484375
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_nord_house_02.nif"
+  },
+  "ex_nord_house_03": {
+    "min": [
+      -2.711466073989868,
+      -2.066282033920288,
+      -3.6724140644073486
+    ],
+    "max": [
+      2.7481069564819336,
+      2.0712921619415283,
+      3.6332836151123047
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_nord_house_03.nif"
+  },
+  "ex_nord_rock_01": {
+    "min": [
+      -0.26800021529197693,
+      -0.257082998752594,
+      -0.2870481312274933
+    ],
+    "max": [
+      0.2619408667087555,
+      0.2763468027114868,
+      0.2870481312274933
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_nord_rock_01.nif"
+  },
+  "ex_nord_rock_02": {
+    "min": [
+      -0.4548335671424866,
+      -0.30177605152130127,
+      -0.2852967381477356
+    ],
+    "max": [
+      0.4548338055610657,
+      0.30177611112594604,
+      0.2852967381477356
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_nord_rock_02.nif"
+  },
+  "ex_nord_win_01": {
+    "min": [
+      -0.37946778535842896,
+      -0.1861444115638733,
+      -0.4839467704296112
+    ],
+    "max": [
+      0.37772947549819946,
+      0.19281020760536194,
+      0.48229217529296875
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_nord_win_01.nif"
+  },
+  "ex_nord_win_02": {
+    "min": [
+      -0.4098733365535736,
+      -0.18614442646503448,
+      -0.4839467704296112
+    ],
+    "max": [
+      0.375875324010849,
+      0.19281020760536194,
+      0.4819900095462799
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_nord_win_02.nif"
+  },
+  "ex_ship_plank": {
+    "min": [
+      -1.9199999570846558,
+      -0.47999998927116394,
+      -0.07186511158943176
+    ],
+    "max": [
+      1.9199999570846558,
+      0.48000797629356384,
+      0.07186511158943176
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\ex_ship_plank.nif"
+  },
+  "furn_com_fence_03": {
+    "min": [
+      -0.09369654208421707,
+      -0.0811443105340004,
+      -1.5027347803115845
+    ],
+    "max": [
+      0.09369643777608871,
+      0.08114264905452728,
+      1.4384585618972778
+    ],
+    "nif": "C:\\Users\\max\\Projects\\Morrowind\\raw_assets\\Morrowind_Full\\meshes\\x\\furn_com_fence_03.nif"
+  },
+  "seyda_neen_terrain": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      500.0,
+      500.0,
+      10.4809265
+    ],
+    "nif": "manual"
+  }
+}

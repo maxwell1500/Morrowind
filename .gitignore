@@ -1,0 +1,47 @@
+# Large asset dumps & extracted raw Morrowind game assets
+raw_assets/
+
+# External / installed tools
+tools/
+
+# Creation Kit crash dumps, logs, and user settings
+*.dmp
+*.log
+Logs/
+Backup/
+OPAL/
+extracted/
+reference/
+temp_mod_backup/
+EditorStartUpTimes.txt
+EditorWarnings.txt
+EditorWarnings_pre.txt
+CreationKitPrefs.ini
+QtCreationKitSavedSettings.ini
+ck.txt
+ck_pid.txt
+
+# Temporary generation & analysis dumps
+dump_*.txt
+compare_esp_output*.txt
+full_esp_*.txt
+full_load.txt
+magnus_wrld*.txt
+wrld_bodies.txt
+tmp_*.txt
+temp_*
+ex_nord_house_03.nif*
+*.npy
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Backup folders inside asset structure
+converted_assets/meshes_backup/
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

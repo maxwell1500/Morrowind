@@ -1,0 +1,41 @@
+{
+  "object_mapping": {
+    "total_objects": 471,
+    "by_category": {
+      "other": {
+        "total": 182,
+        "converted": 58,
+        "not_converted": 124
+      },
+      "meshes": {
+        "total": 285,
+        "converted": 178,
+        "not_converted": 107
+      },
+      "items": {
+        "total": 3,
+        "converted": 2,
+        "not_converted": 1
+      },
+      "creatures": {
+        "total": 1,
+        "converted": 0,
+        "not_converted": 1
+      }
+    },
+    "by_status": {
+      "complete": 238,
+      "partial": 4,
+      "not_converted": 229
+    }
+  },
+  "texture_mapping": {
+    "total_textures": 179,
+    "upscaled_count": 179,
+    "mat_count": 179
+  },
+  "file_sizes": {
+    "total_nif_bytes": 343745,
+    "total_tex_upscaled_bytes": 23657776
+  }
+}

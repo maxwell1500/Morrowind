@@ -1,0 +1,356 @@
+SKIP: Com_Basket_01_POS - no NIF file found
+SKIP: Com_Basket_01_chargen - no NIF file found
+SKIP: Com_Basket_chargen2 - no NIF file found
+SKIP: Com_Chest_02_misc10 - no NIF file found
+SKIP: Com_Sack_02_Gold_05 - no NIF file found
+SKIP: Com_Sack_02_Ingred - no NIF file found
+OK: Ex_De_Docks_Piling_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Ex_De_Docks_Piling_01.nif (0.1s)
+OK: Ex_De_SN_Gate -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Ex_De_SN_Gate.nif (0.0s)
+OK: Ex_De_Shack_Door -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Ex_De_Shack_Door.nif (0.0s)
+OK: Flora_BC_Lilypad -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Flora_BC_Lilypad.nif (0.0s)
+OK: Flora_kelp_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Flora_kelp_01.nif (0.0s)
+OK: Flora_kelp_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Flora_kelp_02.nif (0.0s)
+OK: Flora_kelp_03 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Flora_kelp_03.nif (0.0s)
+OK: Flora_kelp_04 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Flora_kelp_04.nif (0.0s)
+OK: Furn_Com_Kegstand -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Furn_Com_Kegstand.nif (0.0s)
+OK: Furn_Com_Planter -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Furn_Com_Planter.nif (0.0s)
+SKIP: Furn_Com_RM_Bar_01 - no NIF file found
+SKIP: Furn_Com_RM_Bar_02 - no NIF file found
+SKIP: Furn_Com_RM_Bar_03 - no NIF file found
+SKIP: Furn_Com_RM_Bar_04 - no NIF file found
+SKIP: Furn_De_Rope_06_UNIQUE - no NIF file found
+SKIP: Furn_de_rug_big_03 - no NIF file found
+OK: Gold_025 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Gold_025.nif (0.0s)
+OK: Gold_100 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Gold_100.nif (0.0s)
+OK: In_Lava_Blacksquare -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\In_Lava_Blacksquare.nif (0.0s)
+OK: Light_Com_Candle_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Light_Com_Candle_01.nif (0.0s)
+SKIP: Light_Com_Candle_01_64 - no NIF file found
+OK: Light_Com_Candle_11 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Light_Com_Candle_11.nif (0.0s)
+OK: Light_Com_Candle_12 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Light_Com_Candle_12.nif (0.0s)
+SKIP: Light_Com_Candle_12_Off - no NIF file found
+OK: Light_Fire -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Light_Fire.nif (0.0s)
+OK: Light_Fire_NoSmoke -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Light_Fire_NoSmoke.nif (0.0s)
+OK: Misc_Com_Bottle_04 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Misc_Com_Bottle_04.nif (0.0s)
+OK: Misc_Com_Bottle_08 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Misc_Com_Bottle_08.nif (0.0s)
+OK: Misc_Com_Bottle_14 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Misc_Com_Bottle_14.nif (0.0s)
+OK: Misc_Com_Pitcher_Metal_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Misc_Com_Pitcher_Metal_01.nif (0.0s)
+SKIP: Misc_Com_Redware_Cup - no NIF file found
+OK: Misc_Com_Wood_Bowl_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Misc_Com_Wood_Bowl_01.nif (0.0s)
+OK: Misc_Com_Wood_Bowl_05 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Misc_Com_Wood_Bowl_05.nif (0.0s)
+SKIP: Misc_Imp_Silverware_Bowl - no NIF file found
+SKIP: Misc_Imp_Silverware_Cup_01 - no NIF file found
+OK: Misc_Inkwell -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Misc_Inkwell.nif (0.0s)
+OK: Misc_Quill -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Misc_Quill.nif (0.0s)
+OK: Potion_Cyro_Whiskey_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Potion_Cyro_Whiskey_01.nif (0.0s)
+OK: Potion_Local_Brew_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\Potion_Local_Brew_01.nif (0.0s)
+SKIP: active_chimney_smoke02 - no NIF file found
+SKIP: active_com_bed_02 - no NIF file found
+SKIP: active_com_bed_03 - no NIF file found
+SKIP: active_com_bed_05 - no NIF file found
+SKIP: active_com_bunk_02 - no NIF file found
+OK: active_de_bed_30 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\active_de_bed_30.nif (0.1s)
+OK: active_de_bedroll -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\active_de_bedroll.nif (0.0s)
+SKIP: active_lookout_unique - no NIF file found
+SKIP: active_sign_balmora_01 - no NIF file found
+SKIP: active_sign_ebonheart_01 - no NIF file found
+SKIP: active_sign_gnaar_mok_02 - no NIF file found
+SKIP: active_sign_hla_oad_02 - no NIF file found
+SKIP: active_sign_pelagiad_01 - no NIF file found
+SKIP: active_sign_seydaneen_01 - no NIF file found
+SKIP: active_sign_vivec_02 - no NIF file found
+OK: barrel_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\barrel_01.nif (0.0s)
+SKIP: com_basket_01_chpfood - no NIF file found
+SKIP: com_basket_01_chpfood5 - no NIF file found
+SKIP: com_basket_01_ingredien - no NIF file found
+SKIP: com_basket_arille's - no NIF file found
+SKIP: com_chest_01_misc01 - no NIF file found
+SKIP: com_chest_01_misc06 - no NIF file found
+SKIP: com_chest_02_empty - no NIF file found
+SKIP: com_chest_02_k02 - no NIF file found
+SKIP: com_chest_02_misc09 - no NIF file found
+SKIP: com_cupboard_01_booze - no NIF file found
+SKIP: com_cupboard_01_glasses - no NIF file found
+SKIP: com_cupboard_01_pos - no NIF file found
+SKIP: com_cupboard_tankard - no NIF file found
+SKIP: com_cupboard_wood_bowls - no NIF file found
+SKIP: com_sack_01_chpfood5 - no NIF file found
+SKIP: com_sack_01_ingred - no NIF file found
+SKIP: com_sack_01_saltrice_10 - no NIF file found
+SKIP: com_sack_01_saltrice_5 - no NIF file found
+OK: com_sack_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\com_sack_02.nif (0.0s)
+SKIP: com_sack_02_chpfood3 - no NIF file found
+SKIP: com_sack_02_msugar2 - no NIF file found
+SKIP: com_sack_02_saltrice_10 - no NIF file found
+SKIP: com_sack_03_chpfood5 - no NIF file found
+SKIP: com_sack_03_ingredients - no NIF file found
+SKIP: com_sack_03_pos - no NIF file found
+OK: ex_com_dframe_lthus -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_com_dframe_lthus.nif (0.0s)
+OK: ex_common_balcony_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_common_balcony_01.nif (0.1s)
+OK: ex_common_chimney_tall -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_common_chimney_tall.nif (0.0s)
+OK: ex_common_door_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_common_door_01.nif (0.0s)
+OK: ex_common_door_balcony -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_common_door_balcony.nif (0.0s)
+OK: ex_common_house_addon -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_common_house_addon.nif (0.1s)
+OK: ex_common_house_tall_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_common_house_tall_01.nif (0.1s)
+OK: ex_common_house_tall_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_common_house_tall_02.nif (0.1s)
+OK: ex_common_lighthouse -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_common_lighthouse.nif (0.1s)
+OK: ex_common_plat_cent -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_common_plat_cent.nif (0.1s)
+OK: ex_common_plat_corn -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_common_plat_corn.nif (0.1s)
+OK: ex_common_plat_end -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_common_plat_end.nif (0.1s)
+OK: ex_common_skywalk_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_common_skywalk_01.nif (0.0s)
+OK: ex_common_tower_thatch -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_common_tower_thatch.nif (0.1s)
+OK: ex_common_window_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_common_window_01.nif (0.0s)
+OK: ex_de_docks_center -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_de_docks_center.nif (0.1s)
+OK: ex_de_docks_end -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_de_docks_end.nif (0.1s)
+OK: ex_de_docks_steps_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_de_docks_steps_01.nif (0.0s)
+OK: ex_de_oar -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_de_oar.nif (0.0s)
+OK: ex_de_railing_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_de_railing_01.nif (0.0s)
+OK: ex_de_railing_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_de_railing_02.nif (0.0s)
+OK: ex_de_railing_03 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_de_railing_03.nif (0.0s)
+OK: ex_de_shack_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_de_shack_02.nif (0.2s)
+OK: ex_de_shack_03 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_de_shack_03.nif (0.2s)
+OK: ex_de_shack_plank_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_de_shack_plank_01.nif (0.0s)
+OK: ex_de_shack_plank_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_de_shack_plank_02.nif (0.0s)
+OK: ex_drystonewall_c_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_drystonewall_c_01.nif (0.0s)
+OK: ex_drystonewall_end_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_drystonewall_end_01.nif (0.0s)
+OK: ex_drystonewall_s_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_drystonewall_s_01.nif (0.0s)
+OK: ex_nord_chimney_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_nord_chimney_01.nif (0.1s)
+OK: ex_nord_door_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_nord_door_01.nif (0.1s)
+SKIP: ex_nord_door_01-back - no NIF file found
+OK: ex_nord_doorf_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_nord_doorf_01.nif (0.1s)
+OK: ex_nord_house_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_nord_house_01.nif (0.1s)
+OK: ex_nord_house_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_nord_house_02.nif (0.1s)
+OK: ex_nord_house_03 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_nord_house_03.nif (0.2s)
+OK: ex_nord_rock_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_nord_rock_01.nif (0.0s)
+OK: ex_nord_rock_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_nord_rock_02.nif (0.0s)
+OK: ex_nord_win_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_nord_win_01.nif (0.1s)
+OK: ex_nord_win_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_nord_win_02.nif (0.1s)
+OK: ex_ship_plank -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ex_ship_plank.nif (0.0s)
+SKIP: ex_shore_all_lev+0 - no NIF file found
+OK: flora_bc_fern_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_fern_01.nif (0.1s)
+OK: flora_bc_fern_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_fern_02.nif (0.1s)
+OK: flora_bc_fern_03 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_fern_03.nif (0.1s)
+OK: flora_bc_fern_04 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_fern_04.nif (0.1s)
+OK: flora_bc_grass_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_grass_01.nif (0.0s)
+OK: flora_bc_grass_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_grass_02.nif (0.0s)
+OK: flora_bc_knee_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_knee_01.nif (0.0s)
+OK: flora_bc_knee_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_knee_02.nif (0.0s)
+OK: flora_bc_knee_03 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_knee_03.nif (0.0s)
+OK: flora_bc_knee_04 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_knee_04.nif (0.0s)
+OK: flora_bc_lilypad_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_lilypad_02.nif (0.0s)
+OK: flora_bc_log_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_log_01.nif (0.0s)
+OK: flora_bc_mushroom_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_mushroom_01.nif (0.1s)
+OK: flora_bc_mushroom_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_mushroom_02.nif (0.1s)
+OK: flora_bc_mushroom_03 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_mushroom_03.nif (0.1s)
+OK: flora_bc_mushroom_04 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_mushroom_04.nif (0.1s)
+OK: flora_bc_mushroom_05 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_mushroom_05.nif (0.1s)
+OK: flora_bc_mushroom_06 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_mushroom_06.nif (0.1s)
+OK: flora_bc_mushroom_07 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_mushroom_07.nif (0.1s)
+OK: flora_bc_mushroom_08 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_mushroom_08.nif (0.1s)
+OK: flora_bc_podplant_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_podplant_01.nif (0.0s)
+OK: flora_bc_podplant_03 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_podplant_03.nif (0.2s)
+OK: flora_bc_shelffungus_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_shelffungus_01.nif (0.1s)
+OK: flora_bc_shelffungus_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_shelffungus_02.nif (0.0s)
+OK: flora_bc_shelffungus_03 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_shelffungus_03.nif (0.0s)
+OK: flora_bc_shelffungus_04 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_shelffungus_04.nif (0.0s)
+OK: flora_bc_tree_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_tree_02.nif (0.8s)
+OK: flora_bc_tree_04 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_tree_04.nif (0.4s)
+OK: flora_bc_tree_06 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_tree_06.nif (0.2s)
+OK: flora_bc_tree_08 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_tree_08.nif (0.2s)
+OK: flora_bc_tree_09 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_tree_09.nif (0.1s)
+OK: flora_bc_tree_10 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_tree_10.nif (0.1s)
+OK: flora_bc_tree_11 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_tree_11.nif (0.1s)
+OK: flora_bc_tree_12 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_tree_12.nif (0.0s)
+OK: flora_bc_tree_13 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\flora_bc_tree_13.nif (0.0s)
+OK: food_kwama_egg_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\food_kwama_egg_02.nif (0.0s)
+OK: furn_c_t_theif_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_c_t_theif_01.nif (0.1s)
+OK: furn_c_t_warrior_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_c_t_warrior_01.nif (0.1s)
+OK: furn_c_t_wizard_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_c_t_wizard_01.nif (0.1s)
+OK: furn_com_cauldron_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_com_cauldron_01.nif (0.1s)
+OK: furn_com_cauldron_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_com_cauldron_02.nif (0.1s)
+OK: furn_com_coatofarms_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_com_coatofarms_01.nif (0.1s)
+OK: furn_com_fence_03 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_com_fence_03.nif (0.1s)
+OK: furn_com_lantern_hook -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_com_lantern_hook.nif (0.0s)
+OK: furn_com_lantern_hook_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_com_lantern_hook_02.nif (0.0s)
+SKIP: furn_com_p_bench_01 - no NIF file found
+SKIP: furn_com_p_shelf_03 - no NIF file found
+SKIP: furn_com_p_shelf_04 - no NIF file found
+SKIP: furn_com_p_table_01 - no NIF file found
+SKIP: furn_com_pm_stool_02 - no NIF file found
+SKIP: furn_com_r_bookshelf_01 - no NIF file found
+SKIP: furn_com_r_chair_01 - no NIF file found
+SKIP: furn_com_r_table_01 - no NIF file found
+SKIP: furn_com_rm_barstool - no NIF file found
+SKIP: furn_com_rm_bench_02 - no NIF file found
+SKIP: furn_com_rm_bookshelf_02 - no NIF file found
+SKIP: furn_com_rm_chair_03 - no NIF file found
+SKIP: furn_com_rm_shelf_01 - no NIF file found
+SKIP: furn_com_rm_table_03 - no NIF file found
+SKIP: furn_com_rm_table_04 - no NIF file found
+SKIP: furn_com_rm_table_05 - no NIF file found
+OK: furn_com_tapestry_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_com_tapestry_01.nif (0.1s)
+OK: furn_com_tapestry_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_com_tapestry_02.nif (0.1s)
+OK: furn_com_tapestry_03 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_com_tapestry_03.nif (0.1s)
+OK: furn_com_tapestry_04 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_com_tapestry_04.nif (0.1s)
+OK: furn_com_tapestry_05 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_com_tapestry_05.nif (0.1s)
+OK: furn_com_torch_ring_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_com_torch_ring_01.nif (0.1s)
+OK: furn_crate_lid_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_crate_lid_01.nif (0.0s)
+OK: furn_crate_open_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_crate_open_01.nif (0.1s)
+OK: furn_de_ex_stool_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_de_ex_stool_02.nif (0.1s)
+OK: furn_de_ex_table_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_de_ex_table_02.nif (0.1s)
+OK: furn_de_firepit -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_de_firepit.nif (0.1s)
+OK: furn_de_rope_03 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_de_rope_03.nif (0.0s)
+SKIP: furn_de_rug_big_05 - no NIF file found
+SKIP: furn_de_rug_big_06 - no NIF file found
+OK: furn_de_shack_basket_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_de_shack_basket_01.nif (0.1s)
+OK: furn_de_shack_basket_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_de_shack_basket_02.nif (0.1s)
+OK: furn_de_shack_hook -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_de_shack_hook.nif (0.0s)
+OK: furn_de_shack_post -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_de_shack_post.nif (0.1s)
+OK: furn_de_tapestry_03 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_de_tapestry_03.nif (0.1s)
+OK: furn_firepit00 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_firepit00.nif (0.1s)
+OK: furn_hook_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_hook_01.nif (0.0s)
+SKIP: furn_imp_signbase_01 - no NIF file found
+OK: furn_log_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_log_01.nif (0.1s)
+OK: furn_log_03 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_log_03.nif (0.1s)
+OK: furn_log_04 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_log_04.nif (0.1s)
+SKIP: furn_sign_inn_arrille - no NIF file found
+OK: furn_woodbar_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\furn_woodbar_01.nif (0.1s)
+OK: in_c_djamb_plain_arched -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_c_djamb_plain_arched.nif (0.1s)
+OK: in_c_djamb_plain_square -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_c_djamb_plain_square.nif (0.1s)
+OK: in_c_djamb_stone_arched -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_c_djamb_stone_arched.nif (0.1s)
+OK: in_c_door_arched -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_c_door_arched.nif (0.1s)
+OK: in_c_doorframe_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_c_doorframe_01.nif (0.1s)
+OK: in_c_pillar_wood -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_c_pillar_wood.nif (0.1s)
+OK: in_c_plain_3way -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_c_plain_3way.nif (0.2s)
+OK: in_c_plain_corner -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_c_plain_corner.nif (0.2s)
+OK: in_c_plain_endcap -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_c_plain_endcap.nif (0.2s)
+OK: in_c_plain_hall_small -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_c_plain_hall_small.nif (0.2s)
+OK: in_c_plain_room_corner -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_c_plain_room_corner.nif (0.2s)
+OK: in_c_plain_room_entry -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_c_plain_room_entry.nif (0.2s)
+OK: in_c_plain_room_side -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_c_plain_room_side.nif (0.2s)
+OK: in_c_plain_stair_short -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_c_plain_stair_short.nif (0.2s)
+OK: in_c_railing_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_c_railing_01.nif (0.1s)
+OK: in_c_stair_plain_tall_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_c_stair_plain_tall_01.nif (0.2s)
+OK: in_c_stair_plain_tall_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_c_stair_plain_tall_02.nif (0.2s)
+OK: in_c_stone_3way -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_c_stone_3way.nif (0.2s)
+OK: in_c_stone_corner -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_c_stone_corner.nif (0.2s)
+OK: in_c_stone_endcap -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_c_stone_endcap.nif (0.2s)
+OK: in_c_stone_hall_small -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_c_stone_hall_small.nif (0.2s)
+OK: in_c_wall_plain -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_c_wall_plain.nif (0.1s)
+OK: in_common_lighthouse -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_common_lighthouse.nif (0.4s)
+OK: in_common_tower_thatch -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_common_tower_thatch.nif (0.9s)
+OK: in_de_shack_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_de_shack_02.nif (0.4s)
+OK: in_de_shack_03 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_de_shack_03.nif (0.3s)
+OK: in_de_shack_door -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_de_shack_door.nif (0.2s)
+OK: in_nord_doorf_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_nord_doorf_01.nif (0.1s)
+OK: in_nord_doorf_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_nord_doorf_02.nif (0.0s)
+OK: in_nord_fireplace_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_nord_fireplace_01.nif (0.1s)
+OK: in_nord_house_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_nord_house_01.nif (0.4s)
+OK: in_nord_house_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_nord_house_02.nif (0.5s)
+OK: in_nord_house_03 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\in_nord_house_03.nif (0.4s)
+OK: ingred_bread_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ingred_bread_01.nif (0.1s)
+OK: ingred_comberry_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\ingred_comberry_01.nif (0.1s)
+SKIP: ingred_crab_meat_01 - no NIF file found
+SKIP: light_com_candle_01_off - no NIF file found
+SKIP: light_com_candle_02_64 - no NIF file found
+SKIP: light_com_candle_03_64 - no NIF file found
+OK: light_com_candle_05 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\light_com_candle_05.nif (0.1s)
+SKIP: light_com_candle_05_64 - no NIF file found
+OK: light_com_candle_07 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\light_com_candle_07.nif (0.1s)
+SKIP: light_com_candle_07_64 - no NIF file found
+SKIP: light_com_candle_07_77 - no NIF file found
+SKIP: light_com_candle_08_64 - no NIF file found
+SKIP: light_com_candle_09_64 - no NIF file found
+SKIP: light_com_candle_10_128 - no NIF file found
+OK: light_com_chandelier_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\light_com_chandelier_01.nif (0.2s)
+SKIP: light_com_chandelier_01_128 - no NIF file found
+SKIP: light_com_chandelier_01_177 - no NIF file found
+OK: light_com_chandelier_03 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\light_com_chandelier_03.nif (0.2s)
+OK: light_com_lamp_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\light_com_lamp_01.nif (0.2s)
+OK: light_com_lamp_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\light_com_lamp_02.nif (0.1s)
+SKIP: light_com_lamp_02_128 - no NIF file found
+SKIP: light_com_lantern_01_128 - no NIF file found
+OK: light_com_lantern_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\light_com_lantern_02.nif (0.3s)
+SKIP: light_com_lantern_02_128 - no NIF file found
+OK: light_com_sconce_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\light_com_sconce_01.nif (0.3s)
+OK: light_com_sconce_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\light_com_sconce_02.nif (0.2s)
+SKIP: light_com_sconce_02_128 - no NIF file found
+OK: light_com_torch_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\light_com_torch_01.nif (0.2s)
+SKIP: light_com_torch_01_128 - no NIF file found
+SKIP: light_de_lantern_02_128 - no NIF file found
+OK: light_de_lantern_03 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\light_de_lantern_03.nif (0.2s)
+OK: light_de_lantern_07 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\light_de_lantern_07.nif (0.2s)
+OK: light_de_lantern_08 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\light_de_lantern_08.nif (0.2s)
+OK: light_logpile10 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\light_logpile10.nif (0.2s)
+OK: misc_com_basket_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_basket_01.nif (0.1s)
+OK: misc_com_basket_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_basket_02.nif (0.1s)
+OK: misc_com_bottle_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_bottle_01.nif (0.1s)
+OK: misc_com_bottle_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_bottle_02.nif (0.1s)
+OK: misc_com_bottle_03 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_bottle_03.nif (0.1s)
+OK: misc_com_bottle_05 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_bottle_05.nif (0.1s)
+OK: misc_com_bottle_06 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_bottle_06.nif (0.1s)
+OK: misc_com_bottle_07 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_bottle_07.nif (0.1s)
+OK: misc_com_bottle_09 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_bottle_09.nif (0.2s)
+OK: misc_com_bottle_10 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_bottle_10.nif (0.2s)
+OK: misc_com_bottle_11 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_bottle_11.nif (0.1s)
+OK: misc_com_bottle_12 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_bottle_12.nif (0.1s)
+OK: misc_com_bottle_15 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_bottle_15.nif (0.2s)
+OK: misc_com_broom_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_broom_01.nif (0.2s)
+OK: misc_com_bucket_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_bucket_01.nif (0.2s)
+OK: misc_com_iron_ladle -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_iron_ladle.nif (0.1s)
+OK: misc_com_metal_goblet_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_metal_goblet_01.nif (0.1s)
+OK: misc_com_metal_goblet_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_metal_goblet_02.nif (0.1s)
+OK: misc_com_metal_plate_04 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_metal_plate_04.nif (0.1s)
+OK: misc_com_metal_plate_05 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_metal_plate_05.nif (0.1s)
+OK: misc_com_metal_plate_07 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_metal_plate_07.nif (0.1s)
+OK: misc_com_plate_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_plate_01.nif (0.1s)
+OK: misc_com_plate_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_plate_02.nif (0.1s)
+SKIP: misc_com_redware_bowl - no NIF file found
+SKIP: misc_com_redware_bowl_01 - no NIF file found
+SKIP: misc_com_redware_flask - no NIF file found
+SKIP: misc_com_redware_pitcher - no NIF file found
+SKIP: misc_com_redware_plate - no NIF file found
+SKIP: misc_com_redware_platter - no NIF file found
+SKIP: misc_com_redware_vase - no NIF file found
+OK: misc_com_silverware_fork -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_silverware_fork.nif (0.1s)
+OK: misc_com_silverware_knife -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_silverware_knife.nif (0.1s)
+OK: misc_com_tankard_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_tankard_01.nif (0.1s)
+OK: misc_com_wood_bowl_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_wood_bowl_02.nif (0.1s)
+OK: misc_com_wood_bowl_04 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_wood_bowl_04.nif (0.1s)
+OK: misc_com_wood_cup_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_wood_cup_01.nif (0.1s)
+OK: misc_com_wood_cup_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_wood_cup_02.nif (0.1s)
+OK: misc_com_wood_fork -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_wood_fork.nif (0.1s)
+OK: misc_com_wood_knife -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_wood_knife.nif (0.1s)
+OK: misc_com_wood_spoon_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_wood_spoon_01.nif (0.1s)
+OK: misc_com_wood_spoon_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_com_wood_spoon_02.nif (0.1s)
+OK: misc_de_basket_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_de_basket_01.nif (0.1s)
+OK: misc_de_fishing_pole -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_de_fishing_pole.nif (0.2s)
+SKIP: misc_de_foldedcloth00 - no NIF file found
+SKIP: misc_imp_silverware_cup - no NIF file found
+SKIP: misc_imp_silverware_pitcher - no NIF file found
+SKIP: misc_imp_silverware_plate_01 - no NIF file found
+SKIP: misc_imp_silverware_plate_03 - no NIF file found
+OK: misc_lw_platter -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_lw_platter.nif (0.2s)
+OK: misc_rollingpin_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\misc_rollingpin_01.nif (0.2s)
+SKIP: misc_uni_pillow_01 - no NIF file found
+OK: newtscale_cuirass -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\newtscale_cuirass.nif (0.1s)
+OK: pick_apprentice_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\pick_apprentice_01.nif (0.1s)
+OK: potion_comberry_brandy_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\potion_comberry_brandy_01.nif (0.1s)
+OK: potion_cyro_brandy_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\potion_cyro_brandy_01.nif (0.1s)
+OK: potion_local_liquor_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\potion_local_liquor_01.nif (0.1s)
+OK: terrain_bc_scum_01 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\terrain_bc_scum_01.nif (0.1s)
+OK: terrain_bc_scum_02 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\terrain_bc_scum_02.nif (0.1s)
+OK: terrain_bc_scum_03 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\terrain_bc_scum_03.nif (0.1s)
+OK: terrain_rock_bc_12 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\terrain_rock_bc_12.nif (0.1s)
+OK: terrain_rock_bc_13 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\terrain_rock_bc_13.nif (0.1s)
+OK: terrain_rock_bc_14 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\terrain_rock_bc_14.nif (0.1s)
+OK: terrain_rock_bc_15 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\terrain_rock_bc_15.nif (0.1s)
+OK: terrain_rock_bc_16 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\terrain_rock_bc_16.nif (0.1s)
+OK: terrain_rock_bc_17 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\terrain_rock_bc_17.nif (0.1s)
+OK: terrain_rock_bc_18 -> C:\Users\max\Projects\Morrowind\converted_assets\meshes\terrain_rock_bc_18.nif (0.1s)
+
+============================================================
+Conversion complete!
+Success: 242
+Failed: 0
+Skipped: 107
+Total: 349

@@ -1,0 +1,472 @@
+object_id,category,reference_count,placement_count,nif_converted,nif_path,nif_size_bytes,mesh_files_count,mesh_total_size_bytes,primary_texture,all_textures,texture_count,mat_files_count,primary_mat,primary_tex_upscaled,primary_tex_original,conversion_status
+Blue Candle Bulb,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+CharGen Exit Door,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+CharGenCollision - extra,other,13,0,False,,0,0,0,,,0,0,,False,False,not_converted
+CharGen_Bed,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+CharGen_barrel_01,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+CharGen_barrel_02,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+CharGen_chest_02_empty,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+CharGen_crate_01_misc01,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+CharGen_ship_trapdoor,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+CharGenbarrel_01_drinks,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+Com_Basket_01_POS,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+Com_Basket_01_chargen,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+Com_Basket_chargen2,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+Com_Chest_02_misc10,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+Com_Sack_02_Gold_05,meshes,3,3,False,,0,0,0,,,0,0,,False,False,not_converted
+Com_Sack_02_Ingred,meshes,14,14,False,,0,0,0,,,0,0,,False,False,not_converted
+Ex_De_Docks_Piling_01,meshes,4,4,True,meshes\Ex_De_Docks_Piling_01.nif,1235,3,3608,tx_rope_heavy,tx_rope_heavy; tx_wood_weathered_rings; tx_wood_wethered,3,3,Materials\morrowind\tx_rope_heavy.mat,True,True,complete
+Ex_De_SN_Gate,meshes,2,2,True,meshes\Ex_De_SN_Gate.nif,1667,5,10016,tx_hinge_02,tx_hinge_02; tx_metal_rusty_lock; tx_metal_strip_02; tx_wood_dock_rings; tx_wood_siding_01,5,5,Materials\morrowind\tx_hinge_02.mat,True,True,complete
+Ex_De_Shack_Door,meshes,8,8,True,meshes\Ex_De_Shack_Door.nif,1457,4,4304,tx_metal_iron_rusty,tx_metal_iron_rusty; tx_metal_rusty_lock; tx_rope_heavy; tx_wood_shack_door,4,4,Materials\morrowind\tx_metal_iron_rusty.mat,True,True,complete
+Flame Light,other,3,0,False,,0,0,0,,,0,0,,False,False,not_converted
+Flora_BC_Lilypad,other,22,22,True,meshes\Flora_BC_Lilypad.nif,954,2,1048,,,0,0,,False,False,partial
+Flora_kelp_01,other,1,1,True,meshes\Flora_kelp_01.nif,895,2,10372,tx_kelp_01,tx_kelp_01; tx_kelp_02,2,2,Materials\morrowind\tx_kelp_01.mat,True,True,complete
+Flora_kelp_02,other,5,5,True,meshes\Flora_kelp_02.nif,895,2,10372,tx_kelp_01,tx_kelp_01; tx_kelp_02,2,2,Materials\morrowind\tx_kelp_01.mat,True,True,complete
+Flora_kelp_03,other,2,2,True,meshes\Flora_kelp_03.nif,1152,3,17326,tx_kelp_02,tx_kelp_02; tx_kelp_03; tx_kelp_04,3,3,Materials\morrowind\tx_kelp_02.mat,True,True,complete
+Flora_kelp_04,other,3,3,True,meshes\Flora_kelp_04.nif,1152,3,14708,tx_kelp_02,tx_kelp_02; tx_kelp_03; tx_kelp_04,3,3,Materials\morrowind\tx_kelp_02.mat,True,True,complete
+Furn_Com_Kegstand,meshes,8,8,True,meshes\Furn_Com_Kegstand.nif,1470,4,15348,tx_metal_iron_rusty,tx_metal_iron_rusty; tx_wood_brown_metal; tx_wood_brown_shelf; tx_wood_tan_rings_01,4,4,Materials\morrowind\tx_metal_iron_rusty.mat,True,True,complete
+Furn_Com_Planter,meshes,5,5,True,meshes\Furn_Com_Planter.nif,1182,3,4492,tx_bc_bank,tx_bc_bank; tx_redware_strip_01; tx_redware_strip_02,3,3,Materials\morrowind\tx_bc_bank.mat,True,True,complete
+Furn_Com_RM_Bar_01,meshes,3,3,False,,0,0,0,,,0,0,,False,False,not_converted
+Furn_Com_RM_Bar_02,meshes,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+Furn_Com_RM_Bar_03,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+Furn_Com_RM_Bar_04,meshes,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+Furn_De_Rope_06_UNIQUE,meshes,8,8,False,,0,0,0,,,0,0,,False,False,not_converted
+Furn_de_rug_big_03,meshes,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+Gold_025,other,1,1,True,meshes\Gold_025.nif,864,2,6716,tx_coinside_01,tx_coinside_01; tx_cointop_01,2,2,Materials\morrowind\tx_coinside_01.mat,True,True,complete
+Gold_100,other,1,1,True,meshes\Gold_100.nif,864,2,29928,tx_coinside_01,tx_coinside_01; tx_cointop_01,2,2,Materials\morrowind\tx_coinside_01.mat,True,True,complete
+Imperial Guard,other,4,0,False,,0,0,0,,,0,0,,False,False,not_converted
+In_Lava_Blacksquare,meshes,1,1,True,meshes\In_Lava_Blacksquare.nif,655,1,216,door_icon,door_icon,1,1,Materials\morrowind\door_icon.mat,True,True,complete
+Key_SN_Warehouse,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+Light_Com_Candle_01,meshes,1,1,True,meshes\Light_Com_Candle_01.nif,1686,2,3522,tx_firealpha01,tx_firealpha01; tx_metal_iron_rusty; tx_wax_tan_03,3,3,Materials\morrowind\tx_firealpha01.mat,True,True,complete
+Light_Com_Candle_01_64,meshes,7,7,False,,0,0,0,,,0,0,,False,False,not_converted
+Light_Com_Candle_11,meshes,4,4,True,meshes\Light_Com_Candle_11.nif,1596,2,3954,tx_firealpha03,tx_firealpha03; tx_hinge_02; tx_wax_aqua_02,3,3,Materials\morrowind\tx_firealpha03.mat,True,True,complete
+Light_Com_Candle_12,meshes,1,1,True,meshes\Light_Com_Candle_12.nif,1694,2,3280,tx_firealpha03,tx_firealpha03; tx_metal_pewter_03; tx_wax_aqua_02,3,3,Materials\morrowind\tx_firealpha03.mat,True,True,complete
+Light_Com_Candle_12_Off,meshes,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+Light_Fire,meshes,1,1,True,meshes\Light_Fire.nif,1143,2,384,tx_firealpha10,tx_firealpha10; tx_fireash00; tx_firespark00; tx_smokealpha00,4,4,Materials\morrowind\tx_firealpha10.mat,True,True,complete
+Light_Fire_NoSmoke,meshes,3,3,True,meshes\Light_Fire_NoSmoke.nif,1072,1,192,tx_firealpha10,tx_firealpha10; tx_fireash00; tx_firespark00,3,3,Materials\morrowind\tx_firealpha10.mat,True,True,complete
+Misc_Com_Bottle_04,meshes,3,3,True,meshes\Misc_Com_Bottle_04.nif,1474,4,5870,tx_cork_01,tx_cork_01; tx_glass_bottle_green; tx_glass_bottle_green_01; tx_wicker_tan,4,4,Materials\morrowind\tx_cork_01.mat,True,True,complete
+Misc_Com_Bottle_08,meshes,8,8,True,meshes\Misc_Com_Bottle_08.nif,1202,3,4446,tx_cork_01,tx_cork_01; tx_glass_bottle_green; tx_glass_bottle_green_01,3,3,Materials\morrowind\tx_cork_01.mat,True,True,complete
+Misc_Com_Bottle_14,meshes,12,12,True,meshes\Misc_Com_Bottle_14.nif,1202,3,4446,tx_cork_01,tx_cork_01; tx_glass_bottle_brown; tx_glass_bottle_brown_01,3,3,Materials\morrowind\tx_cork_01.mat,True,True,complete
+Misc_Com_Pitcher_Metal_01,meshes,9,9,True,meshes\Misc_Com_Pitcher_Metal_01.nif,662,1,3666,tx_metal_pewter_04,tx_metal_pewter_04,1,1,Materials\morrowind\tx_metal_pewter_04.mat,True,True,complete
+Misc_Com_Redware_Cup,meshes,6,6,False,,0,0,0,,,0,0,,False,False,not_converted
+Misc_Com_Wood_Bowl_01,meshes,7,7,True,meshes\Misc_Com_Wood_Bowl_01.nif,646,1,2322,tx_wood_interior_plain_01,tx_wood_interior_plain_01,1,1,Materials\morrowind\tx_wood_interior_plain_01.mat,True,True,complete
+Misc_Com_Wood_Bowl_05,meshes,3,3,True,meshes\Misc_Com_Wood_Bowl_05.nif,635,1,2684,tx_wood_cherry,tx_wood_cherry,1,1,Materials\morrowind\tx_wood_cherry.mat,True,True,complete
+Misc_Imp_Silverware_Bowl,meshes,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+Misc_Imp_Silverware_Cup_01,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+Misc_Inkwell,meshes,1,1,True,meshes\Misc_Inkwell.nif,1155,3,6276,tx_glass_6th_blackblock,tx_glass_6th_blackblock; tx_metal_silver_strip_01; tx_metal_silver_strip_02,3,3,Materials\morrowind\tx_glass_6th_blackblock.mat,True,True,complete
+Misc_Quill,meshes,1,1,True,meshes\Misc_Quill.nif,596,1,3808,tx_quill,tx_quill,1,1,Materials\morrowind\tx_quill.mat,True,True,complete
+NorthMarker,other,13,0,False,,0,0,0,,,0,0,,False,False,not_converted
+Potion_Cyro_Whiskey_01,other,1,1,True,meshes\Potion_Cyro_Whiskey_01.nif,960,2,5336,tx_bottle_09,tx_bottle_09; tx_metal_silver_strip_02,2,2,Materials\morrowind\tx_bottle_09.mat,True,True,complete
+Potion_Local_Brew_01,other,9,9,True,meshes\Potion_Local_Brew_01.nif,944,2,4304,tx_cork_01,tx_cork_01; tx_crock_01,2,2,Materials\morrowind\tx_cork_01.mat,True,True,complete
+PrisonMarker,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+Sound_Boat_Creak00,other,6,0,False,,0,0,0,,,0,0,,False,False,not_converted
+a_siltstrider,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+active_chimney_smoke02,meshes,3,3,False,,0,0,0,,,0,0,,False,False,not_converted
+active_com_bed_02,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+active_com_bed_03,meshes,3,3,False,,0,0,0,,,0,0,,False,False,not_converted
+active_com_bed_05,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+active_com_bunk_02,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+active_de_bed_30,meshes,3,3,True,meshes\active_de_bed_30.nif,1455,4,14624,tx_metal_strip_02,tx_metal_strip_02; tx_rope_heavy_01; tx_rope_woven_01; tx_wood_weathered_rings_01; tx_wood_wethered,5,5,Materials\morrowind\tx_metal_strip_02.mat,True,True,complete
+active_de_bedroll,meshes,1,1,True,meshes\active_de_bedroll.nif,1203,3,6476,tx_fabric_6th_bedroll,tx_fabric_6th_bedroll; tx_fabric_6th_bedroll_01; tx_wicker_brown_02,3,3,Materials\morrowind\tx_fabric_6th_bedroll.mat,True,True,complete
+active_lookout_unique,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+active_sign_balmora_01,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+active_sign_ebonheart_01,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+active_sign_gnaar_mok_02,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+active_sign_hla_oad_02,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+active_sign_pelagiad_01,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+active_sign_seydaneen_01,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+active_sign_vivec_02,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+adraria vandacia,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+albecius colollius,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+apparatus_a_mortar_01,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+arrille,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+barrel_01,other,2,2,True,meshes\barrel_01.nif,895,2,19106,,,0,0,,False,False,partial
+barrel_01_Ingredients,other,8,8,False,,0,0,0,,,0,0,,False,False,not_converted
+barrel_01_arrows,other,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+barrel_01_cheapfood20,other,3,3,False,,0,0,0,,,0,0,,False,False,not_converted
+barrel_01_cheapfood5,other,5,5,False,,0,0,0,,,0,0,,False,False,not_converted
+barrel_01_empty,other,5,5,False,,0,0,0,,,0,0,,False,False,not_converted
+barrel_01_pos,other,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+barrel_01_random_pos,other,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+bc mushroom 256,other,8,0,False,,0,0,0,,,0,0,,False,False,not_converted
+bk_BriefHistoryEmpire1,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+bk_BriefHistoryEmpire2,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+bk_BriefHistoryEmpire3,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+bk_BriefHistoryEmpire4,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+bk_LivesOfTheSaints,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+bk_Warehouse_log,other,2,0,False,,0,0,0,,,0,0,,False,False,not_converted
+bk_arrilles_tradehouse,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+bk_firmament,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+blue coast ref 1024,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+bookskill_mercantile4,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+bookskill_restoration2,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+bookskill_unarmored1,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+chargen barrel fatigue,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+chargen boat,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+chargen boat guard 1,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+chargen captain,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+chargen class,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+chargen customs door,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+chargen dagger,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+chargen dock guard,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+chargen door captain,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+chargen door exit,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+chargen door guard,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+chargen door hall,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+chargen statssheet,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+chargen stuff room,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+chargen_plank,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+chargendoorjournal,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+chest_small_01_gold_10,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+chest_small_01_ingred10,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+chest_small_02_lockprac,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+chest_small_02_rndgold,other,2,0,False,,0,0,0,,,0,0,,False,False,not_converted
+chest_small_02_silverwa,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+com_basket_01_chpfood,meshes,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+com_basket_01_chpfood5,meshes,7,7,False,,0,0,0,,,0,0,,False,False,not_converted
+com_basket_01_ingredien,meshes,7,7,False,,0,0,0,,,0,0,,False,False,not_converted
+com_basket_arille's,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+com_chest_01_misc01,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+com_chest_01_misc06,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+com_chest_02_empty,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+com_chest_02_k02,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+com_chest_02_misc09,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+com_cupboard_01_booze,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+com_cupboard_01_glasses,meshes,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+com_cupboard_01_pos,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+com_cupboard_tankard,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+com_cupboard_wood_bowls,meshes,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+com_sack_01_chpfood5,meshes,6,6,False,,0,0,0,,,0,0,,False,False,not_converted
+com_sack_01_ingred,meshes,9,9,False,,0,0,0,,,0,0,,False,False,not_converted
+com_sack_01_saltrice_10,meshes,11,11,False,,0,0,0,,,0,0,,False,False,not_converted
+com_sack_01_saltrice_5,meshes,4,4,False,,0,0,0,,,0,0,,False,False,not_converted
+com_sack_02,meshes,1,1,True,meshes\com_sack_02.nif,909,2,4866,,,0,0,,False,False,partial
+com_sack_02_chpfood3,meshes,7,7,False,,0,0,0,,,0,0,,False,False,not_converted
+com_sack_02_msugar2,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+com_sack_02_saltrice_10,meshes,3,3,False,,0,0,0,,,0,0,,False,False,not_converted
+com_sack_03_chpfood5,meshes,10,10,False,,0,0,0,,,0,0,,False,False,not_converted
+com_sack_03_ingredients,meshes,7,7,False,,0,0,0,,,0,0,,False,False,not_converted
+com_sack_03_pos,meshes,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+common_pants_02,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+common_robe_02,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+common_shirt_02,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+common_shoes_02,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+crate_01_Armor_Steel,other,2,0,False,,0,0,0,,,0,0,,False,False,not_converted
+crate_01_DE_WeaponsMult,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+crate_01_armor_fur,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+crate_01_arrille,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+crate_01_de_weapons,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+crate_01_eggs,other,2,0,False,,0,0,0,,,0,0,,False,False,not_converted
+crate_01_empty,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+crate_01_food,other,4,0,False,,0,0,0,,,0,0,,False,False,not_converted
+crate_01_gavin,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+crate_01_iron_weapons,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+crate_01_iron_weapons2,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+crate_01_random_pos,other,4,0,False,,0,0,0,,,0,0,,False,False,not_converted
+crate_02_bottle05_16,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+crate_02_empty,other,2,0,False,,0,0,0,,,0,0,,False,False,not_converted
+crate_02_imp_armor,other,2,0,False,,0,0,0,,,0,0,,False,False,not_converted
+crate_02_imp_weapons,other,2,0,False,,0,0,0,,,0,0,,False,False,not_converted
+crate_02_moonsugar,other,4,0,False,,0,0,0,,,0,0,,False,False,not_converted
+crate_02_pillows,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+crate__02_skooma2,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+dark_128,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+dark_128_d_01,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+dark_256,other,2,0,False,,0,0,0,,,0,0,,False,False,not_converted
+dark_64_01,other,16,0,False,,0,0,0,,,0,0,,False,False,not_converted
+darvame hleran,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+draren thiralas,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+eldafire,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+elone,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+erene llenim,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+ex_com_dframe_lthus,meshes,2,2,True,meshes\ex_com_dframe_lthus.nif,678,0,0,tx_wood_grey_planks_01,tx_wood_grey_planks_01,1,1,Materials\morrowind\tx_wood_grey_planks_01.mat,True,True,complete
+ex_common_balcony_01,meshes,1,1,True,meshes\ex_common_balcony_01.nif,1784,5,28170,tx_rope_brown_02,tx_rope_brown_02; tx_stucco_imp_02; tx_thatch_01; tx_wood_brown_posts_02; tx_wood_brown_rings_01,5,5,Materials\morrowind\tx_rope_brown_02.mat,True,True,complete
+ex_common_chimney_tall,meshes,2,2,True,meshes\ex_common_chimney_tall.nif,1258,3,7432,tx_contain_box_metal_block,tx_contain_box_metal_block; tx_stone_plain_01; tx_wall_stone_01,3,3,Materials\morrowind\tx_contain_box_metal_block.mat,True,True,complete
+ex_common_door_01,meshes,1,1,True,meshes\ex_common_door_01.nif,1468,4,4020,tx_common_door_02,tx_common_door_02; tx_keyhole_01; tx_metal_strip_01; tx_wood_baseboard_01,4,4,Materials\morrowind\tx_common_door_02.mat,True,True,complete
+ex_common_door_balcony,meshes,1,1,True,meshes\ex_common_door_balcony.nif,1245,3,5798,tx_keyhole_01,tx_keyhole_01; tx_metal_strip_01; tx_wood_brown_posts_02,3,3,Materials\morrowind\tx_keyhole_01.mat,True,True,complete
+ex_common_house_addon,meshes,2,2,True,meshes\ex_common_house_addon.nif,1967,0,0,tx_rope_brown_02,tx_rope_brown_02; tx_thatch_01; tx_wall_brick_imp_01; tx_wall_stone_01; tx_wall_stuccostone_01; tx_wood_brown_posts_02,6,6,Materials\morrowind\tx_rope_brown_02.mat,True,True,complete
+ex_common_house_tall_01,meshes,1,1,True,meshes\ex_common_house_tall_01.nif,2630,3,15590,tx_stucco_imp_02,tx_stucco_imp_02; tx_thatch_01; tx_wall_brick_imp_01; tx_wall_stone_01; tx_wall_stuccostone_01; tx_wood_brown_posts_02; tx_wood_brown_rings_01,7,7,Materials\morrowind\tx_stucco_imp_02.mat,True,True,complete
+ex_common_house_tall_02,meshes,2,2,True,meshes\ex_common_house_tall_02.nif,2980,9,36448,tx_stucco_imp_02,tx_stucco_imp_02; tx_thatch_01; tx_wall_brick_imp_01; tx_wall_stone_01; tx_wall_stuccostone_01; tx_wall_stuccostone_el_01; tx_wall_stuccostone_er_01; tx_wood_brown_posts_02; tx_wood_grey_planks_01,9,9,Materials\morrowind\tx_stucco_imp_02.mat,True,True,complete
+ex_common_lighthouse,meshes,1,1,True,meshes\ex_common_lighthouse.nif,1785,5,86104,tx_stone_bluegrey,tx_stone_bluegrey; tx_strong_brick00; tx_wall_brick_imp_01; tx_wall_stone_01; tx_wood_grey_planks_01,5,5,Materials\morrowind\tx_stone_bluegrey.mat,True,True,complete
+ex_common_plat_cent,meshes,8,8,True,meshes\ex_common_plat_cent.nif,1770,5,5884,tx_wood_dock_rings,tx_wood_dock_rings; tx_wood_docks_01; tx_wood_siding; tx_wood_weathered_rings; tx_wood_wethered,5,5,Materials\morrowind\tx_wood_dock_rings.mat,True,True,complete
+ex_common_plat_corn,meshes,1,1,True,meshes\ex_common_plat_corn.nif,1770,5,6780,tx_wood_dock_rings,tx_wood_dock_rings; tx_wood_docks_01; tx_wood_siding; tx_wood_weathered_rings; tx_wood_wethered,5,5,Materials\morrowind\tx_wood_dock_rings.mat,True,True,complete
+ex_common_plat_end,meshes,13,13,True,meshes\ex_common_plat_end.nif,1754,5,6140,tx_wood_dock_rings,tx_wood_dock_rings; tx_wood_docks_01; tx_wood_siding; tx_wood_weathered_rings; tx_wood_wethered,5,5,Materials\morrowind\tx_wood_dock_rings.mat,True,True,complete
+ex_common_skywalk_01,meshes,1,1,True,meshes\ex_common_skywalk_01.nif,1506,4,10632,tx_stucco_imp_02,tx_stucco_imp_02; tx_thatch_01; tx_wood_brown_posts_02; tx_wood_grey_planks_01,4,4,Materials\morrowind\tx_stucco_imp_02.mat,True,True,complete
+ex_common_tower_thatch,meshes,1,1,True,meshes\ex_common_tower_thatch.nif,2100,6,25396,tx_stucco_imp_02,tx_stucco_imp_02; tx_thatch_01; tx_wall_brick_imp_01; tx_wall_stone_01; tx_wall_stuccostone_01; tx_wood_brown_posts_02,6,6,Materials\morrowind\tx_stucco_imp_02.mat,True,True,complete
+ex_common_window_01,meshes,1,1,True,meshes\ex_common_window_01.nif,1219,3,5036,tx_metal_strip_01,tx_metal_strip_01; tx_rooftop_01; tx_window_diamond_01; tx_wood_brown_posts_02,4,4,Materials\morrowind\tx_metal_strip_01.mat,True,True,complete
+ex_de_docks_center,meshes,3,3,True,meshes\ex_de_docks_center.nif,2293,7,11432,tx_rope_heavy,tx_rope_heavy; tx_wood_barnacle_01; tx_wood_barnacle_02; tx_wood_dock_rings; tx_wood_docks_01; tx_wood_weathered_rings; tx_wood_wethered,7,7,Materials\morrowind\tx_rope_heavy.mat,True,True,complete
+ex_de_docks_end,meshes,2,2,True,meshes\ex_de_docks_end.nif,2227,7,10154,tx_rope_heavy,tx_rope_heavy; tx_wood_barnacle_01; tx_wood_barnacle_02; tx_wood_dock_rings; tx_wood_docks_01; tx_wood_weathered_rings; tx_wood_wethered,7,7,Materials\morrowind\tx_rope_heavy.mat,True,True,complete
+ex_de_docks_steps_01,meshes,3,3,True,meshes\ex_de_docks_steps_01.nif,952,2,5288,tx_wood_dock_rings,tx_wood_dock_rings; tx_wood_docks_01,2,2,Materials\morrowind\tx_wood_dock_rings.mat,True,True,complete
+ex_de_oar,meshes,2,2,True,meshes\ex_de_oar.nif,628,1,1400,tx_wood_docks_01,tx_wood_docks_01,1,1,Materials\morrowind\tx_wood_docks_01.mat,True,True,complete
+ex_de_railing_01,meshes,4,4,True,meshes\ex_de_railing_01.nif,1185,3,3686,tx_rope_heavy,tx_rope_heavy; tx_wood_weathered_rings; tx_wood_wethered,3,3,Materials\morrowind\tx_rope_heavy.mat,True,True,complete
+ex_de_railing_02,meshes,4,4,True,meshes\ex_de_railing_02.nif,1185,3,3686,tx_rope_heavy,tx_rope_heavy; tx_wood_weathered_rings; tx_wood_wethered,3,3,Materials\morrowind\tx_rope_heavy.mat,True,True,complete
+ex_de_railing_03,meshes,8,8,True,meshes\ex_de_railing_03.nif,1185,3,2922,tx_rope_heavy,tx_rope_heavy; tx_wood_weathered_rings; tx_wood_wethered,3,3,Materials\morrowind\tx_rope_heavy.mat,True,True,complete
+ex_de_shack_02,meshes,2,2,True,meshes\ex_de_shack_02.nif,7651,7,29488,tx_shack_foundation,tx_shack_foundation; tx_shack_screen; tx_shack_thatch; tx_shack_thatch_strip; tx_wood_siding; tx_wood_siding_01; tx_wood_weathered_rings; tx_wood_wethered,8,8,Materials\morrowind\tx_shack_foundation.mat,True,True,complete
+ex_de_shack_03,meshes,2,2,True,meshes\ex_de_shack_03.nif,7023,7,22514,tx_shack_foundation,tx_shack_foundation; tx_shack_screen; tx_shack_thatch; tx_shack_thatch_strip; tx_wood_siding; tx_wood_siding_01; tx_wood_weathered_rings; tx_wood_wethered,8,8,Materials\morrowind\tx_shack_foundation.mat,True,True,complete
+ex_de_shack_plank_01,meshes,3,3,True,meshes\ex_de_shack_plank_01.nif,952,2,660,tx_wood_dock_rings,tx_wood_dock_rings; tx_wood_docks_01,2,2,Materials\morrowind\tx_wood_dock_rings.mat,True,True,complete
+ex_de_shack_plank_02,meshes,1,1,True,meshes\ex_de_shack_plank_02.nif,952,2,682,tx_wood_dock_rings,tx_wood_dock_rings; tx_wood_docks_01,2,2,Materials\morrowind\tx_wood_dock_rings.mat,True,True,complete
+ex_drystonewall_c_01,meshes,3,3,True,meshes\ex_drystonewall_c_01.nif,951,2,8962,tx_stone_plain_01,tx_stone_plain_01; tx_wall_stone_01,2,2,Materials\morrowind\tx_stone_plain_01.mat,True,True,complete
+ex_drystonewall_end_01,meshes,1,1,True,meshes\ex_drystonewall_end_01.nif,965,2,7398,tx_stone_plain_01,tx_stone_plain_01; tx_wall_stone_01,2,2,Materials\morrowind\tx_stone_plain_01.mat,True,True,complete
+ex_drystonewall_s_01,meshes,6,6,True,meshes\ex_drystonewall_s_01.nif,951,2,6154,tx_stone_plain_01,tx_stone_plain_01; tx_wall_stone_01,2,2,Materials\morrowind\tx_stone_plain_01.mat,True,True,complete
+ex_nord_chimney_01,meshes,4,4,True,meshes\ex_nord_chimney_01.nif,1472,4,3956,_left_01,_left_01; _mid_01; _right_01; tx_stone_plain_01,4,1,Materials\morrowind\_left_01.mat,False,False,complete
+ex_nord_door_01,meshes,18,18,True,meshes\ex_nord_door_01.nif,1173,3,4492,tx_hinge_01,tx_hinge_01; tx_metal_strip_01; tx_wood_brown_posts_02,3,3,Materials\morrowind\tx_hinge_01.mat,True,True,complete
+ex_nord_door_01-back,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+ex_nord_doorf_01,meshes,11,11,True,meshes\ex_nord_doorf_01.nif,923,2,8482,tx_stone_plain_01,tx_stone_plain_01; tx_wood_brown_posts_02,2,2,Materials\morrowind\tx_stone_plain_01.mat,True,True,complete
+ex_nord_house_01,meshes,2,2,True,meshes\ex_nord_house_01.nif,2776,9,23718,_left_01,_left_01; _right_01; tx_stone_plain_01; tx_thatch_01; tx_wall_stone_01; tx_wood_brown_posts_02; tx_wood_brown_rings_01,7,5,Materials\morrowind\_left_01.mat,False,False,complete
+ex_nord_house_02,meshes,2,2,True,meshes\ex_nord_house_02.nif,2510,8,39806,_left_01,_left_01; _mid_01; _right_01; tx_stone_plain_01; tx_thatch_01; tx_wall_stone_01; tx_wood_brown_posts_02; tx_wood_brown_rings_01,8,5,Materials\morrowind\_left_01.mat,False,False,complete
+ex_nord_house_03,meshes,3,3,True,meshes\ex_nord_house_03.nif,3042,10,21272,_left_01,_left_01; _right_01; tx_stone_plain_01; tx_thatch_01; tx_wall_stone_01; tx_wall_stuccostone_01; tx_wall_stuccostone_el_01; tx_wall_stuccostone_er_01; tx_wood_brown_posts_02; tx_wood_brown_rings_01,10,8,Materials\morrowind\_left_01.mat,False,False,complete
+ex_nord_rock_01,meshes,5,5,True,meshes\ex_nord_rock_01.nif,620,1,1670,tx_stone_plain_01,tx_stone_plain_01,1,1,Materials\morrowind\tx_stone_plain_01.mat,True,True,complete
+ex_nord_rock_02,meshes,2,2,True,meshes\ex_nord_rock_02.nif,620,1,1376,tx_stone_plain_01,tx_stone_plain_01,1,1,Materials\morrowind\tx_stone_plain_01.mat,True,True,complete
+ex_nord_win_01,meshes,31,31,True,meshes\ex_nord_win_01.nif,1423,4,6340,tx_hinge_01,tx_hinge_01; tx_metal_strip_01; tx_stone_plain_01; tx_wood_brown_posts_02,4,4,Materials\morrowind\tx_hinge_01.mat,True,True,complete
+ex_nord_win_02,meshes,9,9,True,meshes\ex_nord_win_02.nif,1423,4,5566,tx_hinge_01,tx_hinge_01; tx_metal_strip_01; tx_stone_plain_01; tx_wood_brown_posts_02,4,4,Materials\morrowind\tx_hinge_01.mat,True,True,complete
+ex_ship_plank,meshes,1,1,True,meshes\ex_ship_plank.nif,638,1,6120,tx_wood_wethered,tx_wood_wethered,1,1,Materials\morrowind\tx_wood_wethered.mat,True,True,complete
+ex_shore_all_lev+0,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+fargoth,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+fine_mouth,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+flora_bc_fern_01,other,3,3,True,meshes\flora_bc_fern_01.nif,1200,1,1040,tx_bc_fern_02,tx_bc_fern_02; tx_bc_fern_pod; tx_bc_fern_stem,3,3,Materials\morrowind\tx_bc_fern_02.mat,True,True,complete
+flora_bc_fern_02,other,5,5,True,meshes\flora_bc_fern_02.nif,862,1,1040,tx_bc_fern_02,tx_bc_fern_02; tx_bc_fern_stem,2,2,Materials\morrowind\tx_bc_fern_02.mat,True,True,complete
+flora_bc_fern_03,other,11,11,True,meshes\flora_bc_fern_03.nif,866,1,1040,tx_bc_fern_01,tx_bc_fern_01; tx_bc_fern_stem,2,2,Materials\morrowind\tx_bc_fern_01.mat,True,True,complete
+flora_bc_fern_04,other,2,2,True,meshes\flora_bc_fern_04.nif,866,1,1040,tx_bc_fern_01,tx_bc_fern_01; tx_bc_fern_stem,2,2,Materials\morrowind\tx_bc_fern_01.mat,True,True,complete
+flora_bc_grass_01,other,41,41,True,meshes\flora_bc_grass_01.nif,660,1,15792,tx_bc_grassblade,tx_bc_grassblade,1,1,Materials\morrowind\tx_bc_grassblade.mat,True,True,complete
+flora_bc_grass_02,other,2,2,True,meshes\flora_bc_grass_02.nif,660,1,15792,tx_bc_grassblade,tx_bc_grassblade,1,1,Materials\morrowind\tx_bc_grassblade.mat,True,True,complete
+flora_bc_knee_01,other,4,4,True,meshes\flora_bc_knee_01.nif,653,1,2188,tx_bc_bark_01,tx_bc_bark_01,1,1,Materials\morrowind\tx_bc_bark_01.mat,True,True,complete
+flora_bc_knee_02,other,7,7,True,meshes\flora_bc_knee_02.nif,653,1,2188,tx_bc_bark_01,tx_bc_bark_01,1,1,Materials\morrowind\tx_bc_bark_01.mat,True,True,complete
+flora_bc_knee_03,other,7,7,True,meshes\flora_bc_knee_03.nif,653,1,2530,tx_bc_bark_01,tx_bc_bark_01,1,1,Materials\morrowind\tx_bc_bark_01.mat,True,True,complete
+flora_bc_knee_04,other,1,1,True,meshes\flora_bc_knee_04.nif,653,1,7422,tx_bc_bark_01,tx_bc_bark_01,1,1,Materials\morrowind\tx_bc_bark_01.mat,True,True,complete
+flora_bc_lilypad_02,other,12,12,True,meshes\flora_bc_lilypad_02.nif,991,1,524,tx_bc_fern_stem,tx_bc_fern_stem; tx_bc_lilypad_02,2,2,Materials\morrowind\tx_bc_fern_stem.mat,True,True,complete
+flora_bc_log_01,other,1,1,True,meshes\flora_bc_log_01.nif,649,1,17354,tx_bc_bark_02,tx_bc_bark_02,1,1,Materials\morrowind\tx_bc_bark_02.mat,True,True,complete
+flora_bc_mushroom_01,other,4,4,True,meshes\flora_bc_mushroom_01.nif,1229,3,4158,tx_bc_mushroom_01,tx_bc_mushroom_01; tx_bc_mushroom_02; tx_bc_mushroom_03,3,3,Materials\morrowind\tx_bc_mushroom_01.mat,True,True,complete
+flora_bc_mushroom_02,other,4,4,True,meshes\flora_bc_mushroom_02.nif,1229,3,4158,tx_bc_mushroom_01,tx_bc_mushroom_01; tx_bc_mushroom_02; tx_bc_mushroom_03,3,3,Materials\morrowind\tx_bc_mushroom_01.mat,True,True,complete
+flora_bc_mushroom_03,other,3,3,True,meshes\flora_bc_mushroom_03.nif,1229,3,4158,tx_bc_mushroom_01,tx_bc_mushroom_01; tx_bc_mushroom_02; tx_bc_mushroom_03,3,3,Materials\morrowind\tx_bc_mushroom_01.mat,True,True,complete
+flora_bc_mushroom_04,other,3,3,True,meshes\flora_bc_mushroom_04.nif,1229,3,4158,tx_bc_mushroom_01,tx_bc_mushroom_01; tx_bc_mushroom_02; tx_bc_mushroom_03,3,3,Materials\morrowind\tx_bc_mushroom_01.mat,True,True,complete
+flora_bc_mushroom_05,other,1,1,True,meshes\flora_bc_mushroom_05.nif,1229,3,4158,tx_bc_mushroom_01,tx_bc_mushroom_01; tx_bc_mushroom_02; tx_bc_mushroom_03,3,3,Materials\morrowind\tx_bc_mushroom_01.mat,True,True,complete
+flora_bc_mushroom_06,other,1,1,True,meshes\flora_bc_mushroom_06.nif,1229,3,3960,tx_bc_mushroom_02,tx_bc_mushroom_02; tx_bc_mushroom_03; tx_bc_mushroom_04,3,3,Materials\morrowind\tx_bc_mushroom_02.mat,True,True,complete
+flora_bc_mushroom_07,other,3,3,True,meshes\flora_bc_mushroom_07.nif,1229,3,3960,tx_bc_mushroom_02,tx_bc_mushroom_02; tx_bc_mushroom_03; tx_bc_mushroom_04,3,3,Materials\morrowind\tx_bc_mushroom_02.mat,True,True,complete
+flora_bc_mushroom_08,other,4,4,True,meshes\flora_bc_mushroom_08.nif,1229,3,3960,tx_bc_mushroom_02,tx_bc_mushroom_02; tx_bc_mushroom_03; tx_bc_mushroom_04,3,3,Materials\morrowind\tx_bc_mushroom_02.mat,True,True,complete
+flora_bc_podplant_01,other,3,3,True,meshes\flora_bc_podplant_01.nif,951,2,4786,tx_bc_podplant_01,tx_bc_podplant_01; tx_bc_podplant_02,2,2,Materials\morrowind\tx_bc_podplant_01.mat,True,True,complete
+flora_bc_podplant_03,other,1,1,True,meshes\flora_bc_podplant_03.nif,3197,3,9024,tx_bc_podplant_01,tx_bc_podplant_01; tx_bc_podplant_02; tx_bc_podplant_03; tx_bc_podplant_04,4,4,Materials\morrowind\tx_bc_podplant_01.mat,True,True,complete
+flora_bc_shelffungus_01,other,6,6,True,meshes\flora_bc_shelffungus_01.nif,976,2,1624,tx_bc_fungusbottom_01,tx_bc_fungusbottom_01; tx_bc_fungustop_01,2,2,Materials\morrowind\tx_bc_fungusbottom_01.mat,True,True,complete
+flora_bc_shelffungus_02,other,1,1,True,meshes\flora_bc_shelffungus_02.nif,976,2,1624,tx_bc_fungusbottom_01,tx_bc_fungusbottom_01; tx_bc_fungustop_01,2,2,Materials\morrowind\tx_bc_fungusbottom_01.mat,True,True,complete
+flora_bc_shelffungus_03,other,5,5,True,meshes\flora_bc_shelffungus_03.nif,976,2,1624,tx_bc_fungusbottom_02,tx_bc_fungusbottom_02; tx_bc_fungustop_02,2,2,Materials\morrowind\tx_bc_fungusbottom_02.mat,True,True,complete
+flora_bc_shelffungus_04,other,1,1,True,meshes\flora_bc_shelffungus_04.nif,976,2,1624,tx_bc_fungusbottom_02,tx_bc_fungusbottom_02; tx_bc_fungustop_02,2,2,Materials\morrowind\tx_bc_fungusbottom_02.mat,True,True,complete
+flora_bc_tree_02,other,5,5,True,meshes\flora_bc_tree_02.nif,20699,2,37390,tx_bc_bark_02,tx_bc_bark_02; tx_bc_bark_04; tx_bc_leaves_02; tx_bc_moss_01; tx_bc_moss_02,5,5,Materials\morrowind\tx_bc_bark_02.mat,True,True,complete
+flora_bc_tree_04,other,1,1,True,meshes\flora_bc_tree_04.nif,3417,3,43910,tx_bc_bark_01,tx_bc_bark_01; tx_bc_bark_02; tx_bc_bark_04; tx_bc_moss_01; tx_bc_moss_02; tx_bc_moss_03,6,6,Materials\morrowind\tx_bc_bark_01.mat,True,True,complete
+flora_bc_tree_06,other,1,1,True,meshes\flora_bc_tree_06.nif,3441,3,39776,tx_bc_bark_01,tx_bc_bark_01; tx_bc_bark_02; tx_bc_bark_04; tx_bc_moss_01; tx_bc_moss_02; tx_bc_moss_03,6,6,Materials\morrowind\tx_bc_bark_01.mat,True,True,complete
+flora_bc_tree_08,other,2,2,True,meshes\flora_bc_tree_08.nif,3175,2,37626,tx_bc_bark_02,tx_bc_bark_02; tx_bc_bark_04; tx_bc_moss_01; tx_bc_moss_02; tx_bc_moss_03,5,5,Materials\morrowind\tx_bc_bark_02.mat,True,True,complete
+flora_bc_tree_09,other,1,1,True,meshes\flora_bc_tree_09.nif,653,1,18400,tx_bc_bark_03,tx_bc_bark_03,1,1,Materials\morrowind\tx_bc_bark_03.mat,True,True,complete
+flora_bc_tree_10,other,1,1,True,meshes\flora_bc_tree_10.nif,653,1,24412,tx_bc_bark_03,tx_bc_bark_03,1,1,Materials\morrowind\tx_bc_bark_03.mat,True,True,complete
+flora_bc_tree_11,other,1,1,True,meshes\flora_bc_tree_11.nif,653,1,10782,tx_bc_bark_03,tx_bc_bark_03,1,1,Materials\morrowind\tx_bc_bark_03.mat,True,True,complete
+flora_bc_tree_12,other,3,3,True,meshes\flora_bc_tree_12.nif,653,1,8304,tx_bc_bark_01,tx_bc_bark_01,1,1,Materials\morrowind\tx_bc_bark_01.mat,True,True,complete
+flora_bc_tree_13,other,1,1,True,meshes\flora_bc_tree_13.nif,653,1,8326,tx_bc_bark_02,tx_bc_bark_02,1,1,Materials\morrowind\tx_bc_bark_02.mat,True,True,complete
+flora_treestump_unique,other,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+food_kwama_egg_02,other,1,1,True,meshes\food_kwama_egg_02.nif,660,1,4976,tx_kwama_egge_00,tx_kwama_egge_00,1,1,Materials\morrowind\tx_kwama_egge_00.mat,True,True,complete
+foryn gilnith,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+furn_c_t_theif_01,meshes,1,1,True,meshes\furn_c_t_theif_01.nif,1814,4,8040,tx_c_t_thief_01,tx_c_t_thief_01; tx_metal_pewter_04; tx_metal_strip_02; tx_ropestrip_01; tx_wood_brown_shelf,5,5,Materials\morrowind\tx_c_t_thief_01.mat,True,True,complete
+furn_c_t_warrior_01,meshes,1,1,True,meshes\furn_c_t_warrior_01.nif,1842,4,8040,tx_c_t_warrior_01,tx_c_t_warrior_01; tx_metal_pewter_04; tx_metal_strip_02; tx_ropestrip_01; tx_wood_brown_shelf,5,5,Materials\morrowind\tx_c_t_warrior_01.mat,True,True,complete
+furn_c_t_wizard_01,meshes,1,1,True,meshes\furn_c_t_wizard_01.nif,1828,4,8040,tx_c_t_wizard_01,tx_c_t_wizard_01; tx_metal_pewter_04; tx_metal_strip_02; tx_ropestrip_01; tx_wood_brown_shelf,5,5,Materials\morrowind\tx_c_t_wizard_01.mat,True,True,complete
+furn_com_cauldron_01,meshes,2,2,True,meshes\furn_com_cauldron_01.nif,1231,3,7500,tx_metal_iron_rusty,tx_metal_iron_rusty; tx_metal_iron_rusty_01; tx_metal_strip_02,3,3,Materials\morrowind\tx_metal_iron_rusty.mat,True,True,complete
+furn_com_cauldron_02,meshes,1,1,True,meshes\furn_com_cauldron_02.nif,675,1,7902,tx_metal_iron_rusty,tx_metal_iron_rusty,1,1,Materials\morrowind\tx_metal_iron_rusty.mat,True,True,complete
+furn_com_coatofarms_01,meshes,2,2,True,meshes\furn_com_coatofarms_01.nif,1252,3,3136,tx_wood_brown_shield,tx_wood_brown_shield; tx_wood_brown_strip; tx_wood_coatofarms_01,3,3,Materials\morrowind\tx_wood_brown_shield.mat,True,True,complete
+furn_com_fence_03,meshes,2,2,True,meshes\furn_com_fence_03.nif,930,2,4750,tx_metal_strip_01,tx_metal_strip_01; tx_wood_brown_posts_02,2,2,Materials\morrowind\tx_metal_strip_01.mat,True,True,complete
+furn_com_lantern_hook,meshes,8,8,True,meshes\furn_com_lantern_hook.nif,677,2,12280,tx_metal_strip_02,tx_metal_strip_02,1,1,Materials\morrowind\tx_metal_strip_02.mat,True,True,complete
+furn_com_lantern_hook_02,meshes,8,8,True,meshes\furn_com_lantern_hook_02.nif,689,1,6140,tx_metal_strip_01,tx_metal_strip_01,1,1,Materials\morrowind\tx_metal_strip_01.mat,True,True,complete
+furn_com_p_bench_01,meshes,9,9,False,,0,0,0,,,0,0,,False,False,not_converted
+furn_com_p_shelf_03,meshes,4,4,False,,0,0,0,,,0,0,,False,False,not_converted
+furn_com_p_shelf_04,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+furn_com_p_table_01,meshes,5,5,False,,0,0,0,,,0,0,,False,False,not_converted
+furn_com_pm_stool_02,meshes,5,5,False,,0,0,0,,,0,0,,False,False,not_converted
+furn_com_r_bookshelf_01,meshes,3,3,False,,0,0,0,,,0,0,,False,False,not_converted
+furn_com_r_chair_01,meshes,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+furn_com_r_table_01,meshes,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+furn_com_rm_barstool,meshes,3,3,False,,0,0,0,,,0,0,,False,False,not_converted
+furn_com_rm_bench_02,meshes,9,9,False,,0,0,0,,,0,0,,False,False,not_converted
+furn_com_rm_bookshelf_02,meshes,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+furn_com_rm_chair_03,meshes,9,9,False,,0,0,0,,,0,0,,False,False,not_converted
+furn_com_rm_shelf_01,meshes,3,3,False,,0,0,0,,,0,0,,False,False,not_converted
+furn_com_rm_table_03,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+furn_com_rm_table_04,meshes,3,3,False,,0,0,0,,,0,0,,False,False,not_converted
+furn_com_rm_table_05,meshes,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+furn_com_tapestry_01,meshes,3,3,True,meshes\furn_com_tapestry_01.nif,1848,4,8700,tx_fabric_tapestry,tx_fabric_tapestry; tx_metal_pewter_04; tx_metal_strip_02; tx_rope_heavy_01; tx_wood_brown_shelf,5,5,Materials\morrowind\tx_fabric_tapestry.mat,True,True,complete
+furn_com_tapestry_02,meshes,22,22,True,meshes\furn_com_tapestry_02.nif,1855,4,8700,tx_fabric_tapestry_01,tx_fabric_tapestry_01; tx_metal_pewter_04; tx_metal_strip_02; tx_rope_heavy_01; tx_wood_brown_shelf,5,5,Materials\morrowind\tx_fabric_tapestry_01.mat,True,True,complete
+furn_com_tapestry_03,meshes,30,30,True,meshes\furn_com_tapestry_03.nif,1855,4,8700,tx_fabric_tapestry_03,tx_fabric_tapestry_03; tx_metal_pewter_04; tx_metal_strip_02; tx_rope_heavy_01; tx_wood_brown_shelf,5,5,Materials\morrowind\tx_fabric_tapestry_03.mat,True,True,complete
+furn_com_tapestry_04,meshes,16,16,True,meshes\furn_com_tapestry_04.nif,1855,4,8700,tx_fabric_tapestry_04,tx_fabric_tapestry_04; tx_metal_pewter_04; tx_metal_strip_02; tx_rope_heavy_01; tx_wood_brown_shelf,5,5,Materials\morrowind\tx_fabric_tapestry_04.mat,True,True,complete
+furn_com_tapestry_05,meshes,4,4,True,meshes\furn_com_tapestry_05.nif,1855,4,8700,tx_fabric_tapestry_02,tx_fabric_tapestry_02; tx_metal_pewter_04; tx_metal_strip_02; tx_rope_heavy_01; tx_wood_brown_shelf,5,5,Materials\morrowind\tx_fabric_tapestry_02.mat,True,True,complete
+furn_com_torch_ring_01,meshes,3,3,True,meshes\furn_com_torch_ring_01.nif,686,1,2388,tx_metal_iron_rusty_01,tx_metal_iron_rusty_01,1,1,Materials\morrowind\tx_metal_iron_rusty_01.mat,True,True,complete
+furn_crate_lid_01,meshes,2,2,True,meshes\furn_crate_lid_01.nif,264,0,0,tx_border_metal_bronze_01,tx_border_metal_bronze_01; tx_wood_brown_box_01,2,2,Materials\morrowind\tx_border_metal_bronze_01.mat,True,True,complete
+furn_crate_open_01,meshes,1,1,True,meshes\furn_crate_open_01.nif,940,2,1592,tx_wood_brown_box_01,tx_wood_brown_box_01; tx_wood_brown_posts_02,2,2,Materials\morrowind\tx_wood_brown_box_01.mat,True,True,complete
+furn_de_ex_stool_02,meshes,7,7,True,meshes\furn_de_ex_stool_02.nif,950,2,5214,tx_wood_weathered_rings,tx_wood_weathered_rings; tx_wood_wethered,2,2,Materials\morrowind\tx_wood_weathered_rings.mat,True,True,complete
+furn_de_ex_table_02,meshes,5,5,True,meshes\furn_de_ex_table_02.nif,950,2,8118,tx_wood_weathered_rings,tx_wood_weathered_rings; tx_wood_wethered,2,2,Materials\morrowind\tx_wood_weathered_rings.mat,True,True,complete
+furn_de_firepit,meshes,2,2,True,meshes\furn_de_firepit.nif,1702,5,20126,tx_ash_firepit,tx_ash_firepit; tx_rope_heavy; tx_stone_darkgrey_01; tx_wood_weathered_rings; tx_wood_wethered,5,5,Materials\morrowind\tx_ash_firepit.mat,True,True,complete
+furn_de_rope_03,meshes,5,5,True,meshes\furn_de_rope_03.nif,649,1,1154,tx_rope_heavy,tx_rope_heavy,1,1,Materials\morrowind\tx_rope_heavy.mat,True,True,complete
+furn_de_rug_big_05,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+furn_de_rug_big_06,meshes,16,16,False,,0,0,0,,,0,0,,False,False,not_converted
+furn_de_shack_basket_01,meshes,4,4,True,meshes\furn_de_shack_basket_01.nif,970,2,24952,tx_shack_wicker,tx_shack_wicker; tx_shack_wicker_01,2,2,Materials\morrowind\tx_shack_wicker.mat,True,True,complete
+furn_de_shack_basket_02,meshes,2,2,True,meshes\furn_de_shack_basket_02.nif,970,2,23364,tx_shack_wicker,tx_shack_wicker; tx_shack_wicker_01,2,2,Materials\morrowind\tx_shack_wicker.mat,True,True,complete
+furn_de_shack_hook,meshes,3,3,True,meshes\furn_de_shack_hook.nif,665,1,3270,tx_metal_strip_02,tx_metal_strip_02,1,1,Materials\morrowind\tx_metal_strip_02.mat,True,True,complete
+furn_de_shack_post,meshes,6,6,True,meshes\furn_de_shack_post.nif,1205,3,2660,tx_rope_heavy,tx_rope_heavy; tx_wood_weathered_rings; tx_wood_wethered,3,3,Materials\morrowind\tx_rope_heavy.mat,True,True,complete
+furn_de_tapestry_03,meshes,5,5,True,meshes\furn_de_tapestry_03.nif,1842,4,4020,tx_de_tapestry_03,tx_de_tapestry_03; tx_metal_strip_02; tx_ropestrip_01; tx_wood_oldwood_rings; tx_wood_oldwood_scarred,5,5,Materials\morrowind\tx_de_tapestry_03.mat,True,True,complete
+furn_firepit00,meshes,1,1,True,meshes\furn_firepit00.nif,1164,3,12924,tx_ashpile00,tx_ashpile00; tx_crackedplaster00; tx_strong_brick00,3,3,Materials\morrowind\tx_ashpile00.mat,True,True,complete
+furn_hook_01,meshes,1,1,True,meshes\furn_hook_01.nif,639,1,1528,tx_guar_nail_00,tx_guar_nail_00,1,1,Materials\morrowind\tx_guar_nail_00.mat,True,True,complete
+furn_imp_signbase_01,meshes,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+furn_log_01,meshes,3,3,True,meshes\furn_log_01.nif,893,2,1332,tx_wood_brown_posts_02,tx_wood_brown_posts_02; tx_wood_brown_rings_01,2,2,Materials\morrowind\tx_wood_brown_posts_02.mat,True,True,complete
+furn_log_03,meshes,3,3,True,meshes\furn_log_03.nif,893,2,1332,tx_wood_brown_posts_02,tx_wood_brown_posts_02; tx_wood_brown_rings_01,2,2,Materials\morrowind\tx_wood_brown_posts_02.mat,True,True,complete
+furn_log_04,meshes,19,19,True,meshes\furn_log_04.nif,1144,3,1136,tx_wood_brown_posts_02,tx_wood_brown_posts_02; tx_wood_brown_rings_01; tx_wood_khaki_01,3,3,Materials\morrowind\tx_wood_brown_posts_02.mat,True,True,complete
+furn_sign_inn_arrille,meshes,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+furn_woodbar_01,meshes,2,2,True,meshes\furn_woodbar_01.nif,658,1,762,tx_wood_brown_posts_02,tx_wood_brown_posts_02,1,1,Materials\morrowind\tx_wood_brown_posts_02.mat,True,True,complete
+h2o_all_lev+0,other,2,0,False,,0,0,0,,,0,0,,False,False,not_converted
+h2o_all_lev+2,other,3,0,False,,0,0,0,,,0,0,,False,False,not_converted
+hrisskar flat-foot,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+in_c_djamb_plain_arched,meshes,2,2,True,meshes\in_c_djamb_plain_arched.nif,1837,5,12096,tx_carvedwood_beam_01,tx_carvedwood_beam_01; tx_carvedwood_detail_knots; tx_wall_plaster_interior; tx_wood_interior_plain; tx_woodpillar_shadowed,5,5,Materials\morrowind\tx_carvedwood_beam_01.mat,True,True,complete
+in_c_djamb_plain_square,meshes,6,6,True,meshes\in_c_djamb_plain_square.nif,1555,4,7400,tx_carvedwood_detail_knots,tx_carvedwood_detail_knots; tx_wall_plaster_interior; tx_wood_interior_plain; tx_woodpillar_shadowed,4,4,Materials\morrowind\tx_carvedwood_detail_knots.mat,True,True,complete
+in_c_djamb_stone_arched,meshes,1,1,True,meshes\in_c_djamb_stone_arched.nif,1264,3,15522,tx_common_stone_pillar,tx_common_stone_pillar; tx_wall_workedstone_washed_01,2,2,Materials\morrowind\tx_common_stone_pillar.mat,True,True,complete
+in_c_door_arched,meshes,2,2,True,meshes\in_c_door_arched.nif,1453,4,15224,tx_imp_archdoor,tx_imp_archdoor; tx_keyhole_02; tx_metal_strip_01; tx_wood_interior_plain,4,4,Materials\morrowind\tx_imp_archdoor.mat,True,True,complete
+in_c_doorframe_01,meshes,1,1,True,meshes\in_c_doorframe_01.nif,1204,3,4772,tx_wood_interior_plain,tx_wood_interior_plain; tx_woodfloor_brown; tx_woodpillar_shadowed,3,3,Materials\morrowind\tx_wood_interior_plain.mat,True,True,complete
+in_c_pillar_wood,meshes,7,7,True,meshes\in_c_pillar_wood.nif,928,2,4752,tx_wood_interior_plain,tx_wood_interior_plain; tx_woodpillar_shadowed,2,2,Materials\morrowind\tx_wood_interior_plain.mat,True,True,complete
+in_c_plain_3way,meshes,5,5,True,meshes\in_c_plain_3way.nif,1977,6,6644,tx_carvedwood_detail_knots,tx_carvedwood_detail_knots; tx_wall_plaster_interior; tx_wood_ceilingpanel_02; tx_wood_interior_plain; tx_woodfloor_brown; tx_woodpillar_shadowed,6,6,Materials\morrowind\tx_carvedwood_detail_knots.mat,True,True,complete
+in_c_plain_corner,meshes,3,3,True,meshes\in_c_plain_corner.nif,2015,6,7104,tx_carvedwood_detail_knots,tx_carvedwood_detail_knots; tx_wall_plaster_interior; tx_wood_ceilingpanel_02; tx_wood_interior_plain; tx_woodfloor_brown; tx_woodpillar_shadowed,6,6,Materials\morrowind\tx_carvedwood_detail_knots.mat,True,True,complete
+in_c_plain_endcap,meshes,1,1,True,meshes\in_c_plain_endcap.nif,2015,6,8308,tx_carvedwood_detail_knots,tx_carvedwood_detail_knots; tx_wall_plaster_interior; tx_wood_ceilingpanel_02; tx_wood_interior_plain; tx_woodfloor_brown; tx_woodpillar_shadowed,6,6,Materials\morrowind\tx_carvedwood_detail_knots.mat,True,True,complete
+in_c_plain_hall_small,meshes,6,6,True,meshes\in_c_plain_hall_small.nif,2091,6,7324,tx_carvedwood_detail_knots,tx_carvedwood_detail_knots; tx_wall_plaster_interior; tx_wood_ceilingpanel_02; tx_wood_interior_plain; tx_woodfloor_brown; tx_woodpillar_shadowed,6,6,Materials\morrowind\tx_carvedwood_detail_knots.mat,True,True,complete
+in_c_plain_room_corner,meshes,18,18,True,meshes\in_c_plain_room_corner.nif,2389,7,9244,tx_carvedwood_beam_01,tx_carvedwood_beam_01; tx_carvedwood_detail_knots; tx_wall_plaster_interior; tx_wood_ceilingpanel_02; tx_wood_interior_plain; tx_woodfloor_brown; tx_woodpillar_shadowed,7,7,Materials\morrowind\tx_carvedwood_beam_01.mat,True,True,complete
+in_c_plain_room_entry,meshes,3,3,True,meshes\in_c_plain_room_entry.nif,1805,5,6710,tx_carvedwood_beam_01,tx_carvedwood_beam_01; tx_wood_ceilingpanel_02; tx_wood_interior_plain; tx_woodfloor_brown; tx_woodpillar_shadowed,5,5,Materials\morrowind\tx_carvedwood_beam_01.mat,True,True,complete
+in_c_plain_room_side,meshes,7,7,True,meshes\in_c_plain_room_side.nif,2345,7,7604,tx_carvedwood_beam_01,tx_carvedwood_beam_01; tx_carvedwood_detail_knots; tx_wall_plaster_interior; tx_wood_ceilingpanel_02; tx_wood_interior_plain; tx_woodfloor_brown; tx_woodpillar_shadowed,7,7,Materials\morrowind\tx_carvedwood_beam_01.mat,True,True,complete
+in_c_plain_stair_short,meshes,1,1,True,meshes\in_c_plain_stair_short.nif,2105,6,8604,tx_carvedwood_beam_01,tx_carvedwood_beam_01; tx_wall_plaster_interior; tx_wood_ceilingpanel_02; tx_wood_interior_plain; tx_woodfloor_brown; tx_woodpillar_shadowed,6,6,Materials\morrowind\tx_carvedwood_beam_01.mat,True,True,complete
+in_c_railing_01,meshes,2,2,True,meshes\in_c_railing_01.nif,1184,3,5860,tx_wood_interior_plain,tx_wood_interior_plain; tx_woodfloor_brown; tx_woodpillar_shadowed,3,3,Materials\morrowind\tx_wood_interior_plain.mat,True,True,complete
+in_c_stair_plain_tall_01,meshes,1,1,True,meshes\in_c_stair_plain_tall_01.nif,2143,6,15364,tx_carvedwood_beam_01,tx_carvedwood_beam_01; tx_wall_plaster_interior; tx_wood_ceilingpanel_02; tx_wood_interior_plain; tx_woodfloor_brown; tx_woodpillar_shadowed,6,6,Materials\morrowind\tx_carvedwood_beam_01.mat,True,True,complete
+in_c_stair_plain_tall_02,meshes,1,1,True,meshes\in_c_stair_plain_tall_02.nif,2143,6,15364,tx_carvedwood_beam_01,tx_carvedwood_beam_01; tx_wall_plaster_interior; tx_wood_ceilingpanel_02; tx_wood_interior_plain; tx_woodfloor_brown; tx_woodpillar_shadowed,6,6,Materials\morrowind\tx_carvedwood_beam_01.mat,True,True,complete
+in_c_stone_3way,meshes,1,1,True,meshes\in_c_stone_3way.nif,1972,6,6032,tx_common_stone_floor,tx_common_stone_floor; tx_common_stone_pillar; tx_wall_workedstone_washed_01; tx_wood_brown_posts_02; tx_wood_grey_planks_01,5,5,Materials\morrowind\tx_common_stone_floor.mat,True,True,complete
+in_c_stone_corner,meshes,5,5,True,meshes\in_c_stone_corner.nif,2010,6,6280,tx_common_stone_floor,tx_common_stone_floor; tx_common_stone_pillar; tx_wall_workedstone_washed_01; tx_wood_brown_posts_02; tx_wood_grey_planks_01,5,5,Materials\morrowind\tx_common_stone_floor.mat,True,True,complete
+in_c_stone_endcap,meshes,3,3,True,meshes\in_c_stone_endcap.nif,2010,6,6284,tx_common_stone_floor,tx_common_stone_floor; tx_common_stone_pillar; tx_wall_workedstone_washed_01; tx_wood_brown_posts_02; tx_wood_grey_planks_01,5,5,Materials\morrowind\tx_common_stone_floor.mat,True,True,complete
+in_c_stone_hall_small,meshes,1,1,True,meshes\in_c_stone_hall_small.nif,2086,6,6236,tx_common_stone_floor,tx_common_stone_floor; tx_common_stone_pillar; tx_wall_workedstone_washed_01; tx_wood_brown_posts_02; tx_wood_grey_planks_01,5,5,Materials\morrowind\tx_common_stone_floor.mat,True,True,complete
+in_c_wall_plain,meshes,2,2,True,meshes\in_c_wall_plain.nif,1188,3,1144,tx_carvedwood_detail_knots,tx_carvedwood_detail_knots; tx_wall_plaster_interior; tx_wood_interior_plain,3,3,Materials\morrowind\tx_carvedwood_detail_knots.mat,True,True,complete
+in_common_lighthouse,meshes,1,1,True,meshes\in_common_lighthouse.nif,1507,9,107246,tx_stone_bluegrey,tx_stone_bluegrey; tx_strong_brick00; tx_wood_greyplanks; tx_wood_wethered,4,4,Materials\morrowind\tx_stone_bluegrey.mat,True,True,complete
+in_common_tower_thatch,meshes,1,1,True,meshes\in_common_tower_thatch.nif,6900,4,2564,tx_carvedwood_beam_01,tx_carvedwood_beam_01; tx_stucco_imp_02; tx_thatch_01; tx_wall_brick_imp_01; tx_wall_stone_01; tx_wall_stuccostone_01; tx_wood_brown_posts_02; tx_wood_greyplanks; tx_wood_interior_plain; tx_wood_wethered; tx_woodpillar_shadowed,11,11,Materials\morrowind\tx_carvedwood_beam_01.mat,True,True,complete
+in_de_shack_02,meshes,2,2,True,meshes\in_de_shack_02.nif,2466,8,32114,tx_dirtroad_01,tx_dirtroad_01; tx_shack_foundation; tx_shack_screen; tx_shack_thatch; tx_wood_siding; tx_wood_siding_01; tx_wood_weathered_rings; tx_wood_wethered,8,8,Materials\morrowind\tx_dirtroad_01.mat,True,True,complete
+in_de_shack_03,meshes,2,2,True,meshes\in_de_shack_03.nif,2466,8,20708,tx_dirtroad_01,tx_dirtroad_01; tx_shack_foundation; tx_shack_screen; tx_shack_thatch; tx_wood_siding; tx_wood_siding_01; tx_wood_weathered_rings; tx_wood_wethered,8,8,Materials\morrowind\tx_dirtroad_01.mat,True,True,complete
+in_de_shack_door,meshes,4,4,True,meshes\in_de_shack_door.nif,1457,4,4304,tx_metal_iron_rusty,tx_metal_iron_rusty; tx_metal_rusty_lock; tx_rope_heavy; tx_wood_shack_door,4,4,Materials\morrowind\tx_metal_iron_rusty.mat,True,True,complete
+in_nord_doorf_01,meshes,6,6,True,meshes\in_nord_doorf_01.nif,662,1,1196,tx_wood_brown_posts_02,tx_wood_brown_posts_02,1,1,Materials\morrowind\tx_wood_brown_posts_02.mat,True,True,complete
+in_nord_doorf_02,meshes,1,1,True,meshes\in_nord_doorf_02.nif,628,1,1196,tx_wood_interior_plain,tx_wood_interior_plain,1,1,Materials\morrowind\tx_wood_interior_plain.mat,True,True,complete
+in_nord_fireplace_01,meshes,8,8,True,meshes\in_nord_fireplace_01.nif,1229,3,14374,tx_metal_strip_01,tx_metal_strip_01; tx_stone_plain_01; tx_wall_stone_01,3,3,Materials\morrowind\tx_metal_strip_01.mat,True,True,complete
+in_nord_house_01,meshes,2,2,True,meshes\in_nord_house_01.nif,2510,8,18520,_left_01,_left_01; _right_01; tx_thatch_01; tx_wall_stone_01; tx_wood_baseboard_01; tx_wood_brown_posts_02; tx_wood_brown_rings_01; tx_wood_wornfloor_01,8,6,Materials\morrowind\_left_01.mat,False,False,complete
+in_nord_house_02,meshes,1,1,True,meshes\in_nord_house_02.nif,2776,9,31856,_left_01,_left_01; _mid_01; _right_01; tx_thatch_01; tx_wall_stone_01; tx_wood_baseboard_01; tx_wood_brown_posts_02; tx_wood_brown_rings_01; tx_wood_wornfloor_01,9,6,Materials\morrowind\_left_01.mat,False,False,complete
+in_nord_house_03,meshes,2,2,True,meshes\in_nord_house_03.nif,2248,7,16960,tx_thatch_01,tx_thatch_01; tx_wall_stuccostone_01; tx_wall_stuccostone_el_01; tx_wall_stuccostone_er_01; tx_wood_baseboard_01; tx_wood_brown_posts_02; tx_wood_wornfloor_01,7,7,Materials\morrowind\tx_thatch_01.mat,True,True,complete
+indrele rathryon,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+ingred_bread_01,items,9,9,True,meshes\ingred_bread_01.nif,618,1,5738,tx_breadloaf_01,tx_breadloaf_01,1,1,Materials\morrowind\tx_breadloaf_01.mat,True,True,complete
+ingred_comberry_01,items,2,2,True,meshes\ingred_comberry_01.nif,937,2,17756,tx_bittergreen_01,tx_bittergreen_01; tx_comberry_01,2,2,Materials\morrowind\tx_bittergreen_01.mat,True,True,complete
+ingred_crab_meat_01,items,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+iron arrow,other,2,0,False,,0,0,0,,,0,0,,False,False,not_converted
+iron shardaxe,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+key_eldafire,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+kollop_03_pearl,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+light_com_candle_01_off,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+light_com_candle_02_64,meshes,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+light_com_candle_03_64,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+light_com_candle_05,meshes,1,1,True,meshes\light_com_candle_05.nif,1690,2,3280,tx_firealpha01,tx_firealpha01; tx_metal_pewter_03; tx_wax_aqua_02,3,3,Materials\morrowind\tx_firealpha01.mat,True,True,complete
+light_com_candle_05_64,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+light_com_candle_07,meshes,2,2,True,meshes\light_com_candle_07.nif,1592,2,4094,tx_firealpha01,tx_firealpha01; tx_hinge_02; tx_wax_tan_03,3,3,Materials\morrowind\tx_firealpha01.mat,True,True,complete
+light_com_candle_07_64,meshes,3,3,False,,0,0,0,,,0,0,,False,False,not_converted
+light_com_candle_07_77,meshes,4,4,False,,0,0,0,,,0,0,,False,False,not_converted
+light_com_candle_08_64,meshes,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+light_com_candle_09_64,meshes,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+light_com_candle_10_128,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+light_com_chandelier_01,meshes,3,3,True,meshes\light_com_chandelier_01.nif,2265,4,12214,tx_firealpha01,tx_firealpha01; tx_metal_iron_rusty; tx_rope_heavy_01; tx_wax_tan_03; tx_wood_khaki_01,5,5,Materials\morrowind\tx_firealpha01.mat,True,True,complete
+light_com_chandelier_01_128,meshes,11,11,False,,0,0,0,,,0,0,,False,False,not_converted
+light_com_chandelier_01_177,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+light_com_chandelier_03,meshes,1,1,True,meshes\light_com_chandelier_03.nif,2265,4,12214,tx_firealpha01,tx_firealpha01; tx_metal_iron_rusty; tx_rope_heavy; tx_wax_tan_03; tx_wood_brown_shelf,5,5,Materials\morrowind\tx_firealpha01.mat,True,True,complete
+light_com_lamp_01,meshes,5,5,True,meshes\light_com_lamp_01.nif,1133,2,10056,tx_firealpha01,tx_firealpha01; tx_metal_iron_rusty; tx_wax_tan_03,3,3,Materials\morrowind\tx_firealpha01.mat,True,True,complete
+light_com_lamp_02,meshes,2,2,True,meshes\light_com_lamp_02.nif,1477,2,13940,tx_firealpha01,tx_firealpha01; tx_metal_iron_rusty; tx_wax_tan_03,3,3,Materials\morrowind\tx_firealpha01.mat,True,True,complete
+light_com_lamp_02_128,meshes,4,4,False,,0,0,0,,,0,0,,False,False,not_converted
+light_com_lantern_01_128,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+light_com_lantern_02,meshes,14,14,True,meshes\light_com_lantern_02.nif,3613,4,8694,tx_firealpha01,tx_firealpha01; tx_metal_strip_01; tx_wax_tan_03; tx_window_pane; tx_wood_baseboard_01; tx_wood_brown_posts_02,6,6,Materials\morrowind\tx_firealpha01.mat,True,True,complete
+light_com_lantern_02_128,meshes,3,3,False,,0,0,0,,,0,0,,False,False,not_converted
+light_com_sconce_01,meshes,2,2,True,meshes\light_com_sconce_01.nif,1600,4,7464,tx_firealpha01,tx_firealpha01; tx_metal_pewter_04; tx_wax_tan_03; tx_wood_brown_shelf; tx_wood_brown_strip,5,5,Materials\morrowind\tx_firealpha01.mat,True,True,complete
+light_com_sconce_02,meshes,1,1,True,meshes\light_com_sconce_02.nif,1772,4,16242,tx_firealpha01,tx_firealpha01; tx_metal_pewter_04; tx_wax_tan_03; tx_wood_brown_shelf; tx_wood_brown_strip,5,5,Materials\morrowind\tx_firealpha01.mat,True,True,complete
+light_com_sconce_02_128,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+light_com_torch_01,meshes,1,1,True,meshes\light_com_torch_01.nif,1768,2,5526,tx_firealpha10,tx_firealpha10; tx_metal_strip_02; tx_smokealpha00; tx_wood_brown_shelf,4,4,Materials\morrowind\tx_firealpha10.mat,True,True,complete
+light_com_torch_01_128,meshes,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+light_de_lantern_02_128,meshes,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+light_de_lantern_03,meshes,3,3,True,meshes\light_de_lantern_03.nif,1600,4,6112,tx_metal_iron_rusty_01,tx_metal_iron_rusty_01; tx_metal_iron_rusty_strip_01; tx_metal_iron_rusty_strip_02; tx_misc_lantern_paper_02,4,4,Materials\morrowind\tx_metal_iron_rusty_01.mat,True,True,complete
+light_de_lantern_07,meshes,1,1,True,meshes\light_de_lantern_07.nif,2042,4,8630,tx_metal_iron_rusty_01,tx_metal_iron_rusty_01; tx_metal_iron_rusty_strip_01; tx_metal_iron_rusty_strip_02; tx_misc_lantern_paper_03,4,4,Materials\morrowind\tx_metal_iron_rusty_01.mat,True,True,complete
+light_de_lantern_08,meshes,2,2,True,meshes\light_de_lantern_08.nif,1600,4,6112,tx_metal_iron_rusty_01,tx_metal_iron_rusty_01; tx_metal_iron_rusty_strip_01; tx_metal_iron_rusty_strip_02; tx_misc_lantern_paper_03,4,4,Materials\morrowind\tx_metal_iron_rusty_01.mat,True,True,complete
+light_logpile10,meshes,2,2,True,meshes\light_logpile10.nif,1662,2,16996,tx_firealpha10,tx_firealpha10; tx_firespark00; tx_smokealpha00; tx_wood_wormridden; tx_wood_wormridden_rings,5,5,Materials\morrowind\tx_firealpha10.mat,True,True,complete
+misc_com_basket_01,meshes,2,2,True,meshes\misc_com_basket_01.nif,637,1,4306,tx_straw_woven,tx_straw_woven,1,1,Materials\morrowind\tx_straw_woven.mat,True,True,complete
+misc_com_basket_02,meshes,1,1,True,meshes\misc_com_basket_02.nif,625,1,4446,tx_wicker_tan,tx_wicker_tan,1,1,Materials\morrowind\tx_wicker_tan.mat,True,True,complete
+misc_com_bottle_01,meshes,1,1,True,meshes\misc_com_bottle_01.nif,1212,3,5412,tx_glass_bottle_blue,tx_glass_bottle_blue; tx_glass_bottle_blue_01; tx_straw_woven,3,3,Materials\morrowind\tx_glass_bottle_blue.mat,True,True,complete
+misc_com_bottle_02,meshes,4,4,True,meshes\misc_com_bottle_02.nif,941,2,4350,tx_glass_bottle_green,tx_glass_bottle_green; tx_glass_bottle_green_01,2,2,Materials\morrowind\tx_glass_bottle_green.mat,True,True,complete
+misc_com_bottle_03,meshes,1,1,True,meshes\misc_com_bottle_03.nif,1202,3,5686,tx_cork_01,tx_cork_01; tx_glass_bottle_green; tx_glass_bottle_green_01,3,3,Materials\morrowind\tx_cork_01.mat,True,True,complete
+misc_com_bottle_05,meshes,6,6,True,meshes\misc_com_bottle_05.nif,1202,3,4446,tx_cork_01,tx_cork_01; tx_glass_bottle_blue; tx_glass_bottle_blue_01,3,3,Materials\morrowind\tx_cork_01.mat,True,True,complete
+misc_com_bottle_06,meshes,5,5,True,meshes\misc_com_bottle_06.nif,940,2,4350,tx_glass_bottle_blue,tx_glass_bottle_blue; tx_glass_bottle_blue_01,2,2,Materials\morrowind\tx_glass_bottle_blue.mat,True,True,complete
+misc_com_bottle_07,meshes,8,8,True,meshes\misc_com_bottle_07.nif,1202,3,5686,tx_cork_01,tx_cork_01; tx_glass_bottle_blue; tx_glass_bottle_blue_01,3,3,Materials\morrowind\tx_cork_01.mat,True,True,complete
+misc_com_bottle_09,meshes,4,4,True,meshes\misc_com_bottle_09.nif,1213,3,5412,tx_glass_bottle_green,tx_glass_bottle_green; tx_glass_bottle_green_01; tx_wicker_tan,3,3,Materials\morrowind\tx_glass_bottle_green.mat,True,True,complete
+misc_com_bottle_10,meshes,6,6,True,meshes\misc_com_bottle_10.nif,1474,4,5870,tx_cork_01,tx_cork_01; tx_glass_bottle_blue; tx_glass_bottle_blue_01; tx_straw_woven,4,4,Materials\morrowind\tx_cork_01.mat,True,True,complete
+misc_com_bottle_11,meshes,9,9,True,meshes\misc_com_bottle_11.nif,941,2,4350,tx_glass_bottle_brown,tx_glass_bottle_brown; tx_glass_bottle_brown_01,2,2,Materials\morrowind\tx_glass_bottle_brown.mat,True,True,complete
+misc_com_bottle_12,meshes,1,1,True,meshes\misc_com_bottle_12.nif,1202,3,5686,tx_cork_01,tx_cork_01; tx_glass_bottle_brown; tx_glass_bottle_brown_01,3,3,Materials\morrowind\tx_cork_01.mat,True,True,complete
+misc_com_bottle_15,meshes,2,2,True,meshes\misc_com_bottle_15.nif,1474,4,5870,tx_cork_01,tx_cork_01; tx_glass_bottle_brown; tx_glass_bottle_brown_01; tx_straw_woven,4,4,Materials\morrowind\tx_cork_01.mat,True,True,complete
+misc_com_broom_01,meshes,10,10,True,meshes\misc_com_broom_01.nif,1464,4,6314,tx_rope_heavy,tx_rope_heavy; tx_straw_broom; tx_wood_dock_rings; tx_wood_docks_01,4,4,Materials\morrowind\tx_rope_heavy.mat,True,True,complete
+misc_com_bucket_01,meshes,15,15,True,meshes\misc_com_bucket_01.nif,1209,3,7180,tx_metal_strip_02,tx_metal_strip_02; tx_rope_heavy; tx_wood_grey_planks_01,3,3,Materials\morrowind\tx_metal_strip_02.mat,True,True,complete
+misc_com_iron_ladle,meshes,2,2,True,meshes\misc_com_iron_ladle.nif,643,1,3270,tx_metal_strip_02,tx_metal_strip_02,1,1,Materials\morrowind\tx_metal_strip_02.mat,True,True,complete
+misc_com_metal_goblet_01,meshes,22,22,True,meshes\misc_com_metal_goblet_01.nif,659,1,5394,tx_metal_pewter_04,tx_metal_pewter_04,1,1,Materials\morrowind\tx_metal_pewter_04.mat,True,True,complete
+misc_com_metal_goblet_02,meshes,13,13,True,meshes\misc_com_metal_goblet_02.nif,659,1,5676,tx_metal_pewter_01,tx_metal_pewter_01,1,1,Materials\morrowind\tx_metal_pewter_01.mat,True,True,complete
+misc_com_metal_plate_04,meshes,1,1,True,meshes\misc_com_metal_plate_04.nif,645,1,1726,tx_metal_pewter_02,tx_metal_pewter_02,1,1,Materials\morrowind\tx_metal_pewter_02.mat,True,True,complete
+misc_com_metal_plate_05,meshes,20,20,True,meshes\misc_com_metal_plate_05.nif,645,1,1726,tx_metal_pewter_03,tx_metal_pewter_03,1,1,Materials\morrowind\tx_metal_pewter_03.mat,True,True,complete
+misc_com_metal_plate_07,meshes,3,3,True,meshes\misc_com_metal_plate_07.nif,647,1,1726,tx_metal_brass_plate,tx_metal_brass_plate,1,1,Materials\morrowind\tx_metal_brass_plate.mat,True,True,complete
+misc_com_plate_01,meshes,4,4,True,meshes\misc_com_plate_01.nif,623,1,2442,tx_plate_brown,tx_plate_brown,1,1,Materials\morrowind\tx_plate_brown.mat,True,True,complete
+misc_com_plate_02,meshes,4,4,True,meshes\misc_com_plate_02.nif,622,1,2442,tx_plate_blue,tx_plate_blue,1,1,Materials\morrowind\tx_plate_blue.mat,True,True,complete
+misc_com_redware_bowl,meshes,5,5,False,,0,0,0,,,0,0,,False,False,not_converted
+misc_com_redware_bowl_01,meshes,12,12,False,,0,0,0,,,0,0,,False,False,not_converted
+misc_com_redware_flask,meshes,13,13,False,,0,0,0,,,0,0,,False,False,not_converted
+misc_com_redware_pitcher,meshes,7,7,False,,0,0,0,,,0,0,,False,False,not_converted
+misc_com_redware_plate,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+misc_com_redware_platter,meshes,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+misc_com_redware_vase,meshes,3,3,False,,0,0,0,,,0,0,,False,False,not_converted
+misc_com_silverware_fork,meshes,1,1,True,meshes\misc_com_silverware_fork.nif,977,2,1602,tx_metal_silver,tx_metal_silver; tx_metal_silver_strip_01,2,2,Materials\morrowind\tx_metal_silver.mat,True,True,complete
+misc_com_silverware_knife,meshes,1,1,True,meshes\misc_com_silverware_knife.nif,984,2,1738,tx_metal_silver,tx_metal_silver; tx_metal_silver_strip_01,2,2,Materials\morrowind\tx_metal_silver.mat,True,True,complete
+misc_com_tankard_01,meshes,23,23,True,meshes\misc_com_tankard_01.nif,633,1,3118,tx_metal_pewter_01,tx_metal_pewter_01,1,1,Materials\morrowind\tx_metal_pewter_01.mat,True,True,complete
+misc_com_wood_bowl_02,meshes,4,4,True,meshes\misc_com_wood_bowl_02.nif,637,1,2432,tx_wood_khaki_01,tx_wood_khaki_01,1,1,Materials\morrowind\tx_wood_khaki_01.mat,True,True,complete
+misc_com_wood_bowl_04,meshes,1,1,True,meshes\misc_com_wood_bowl_04.nif,646,1,2966,tx_wood_interior_plain_01,tx_wood_interior_plain_01,1,1,Materials\morrowind\tx_wood_interior_plain_01.mat,True,True,complete
+misc_com_wood_cup_01,meshes,8,8,True,meshes\misc_com_wood_cup_01.nif,654,1,2436,tx_wood_interior_plain_01,tx_wood_interior_plain_01,1,1,Materials\morrowind\tx_wood_interior_plain_01.mat,True,True,complete
+misc_com_wood_cup_02,meshes,6,6,True,meshes\misc_com_wood_cup_02.nif,643,1,2108,tx_wood_interior_plain_01,tx_wood_interior_plain_01,1,1,Materials\morrowind\tx_wood_interior_plain_01.mat,True,True,complete
+misc_com_wood_fork,meshes,11,11,True,meshes\misc_com_wood_fork.nif,648,1,3700,tx_wood_interior_plain_01,tx_wood_interior_plain_01,1,1,Materials\morrowind\tx_wood_interior_plain_01.mat,True,True,complete
+misc_com_wood_knife,meshes,12,12,True,meshes\misc_com_wood_knife.nif,945,2,1632,tx_metal_pewter_01,tx_metal_pewter_01; tx_wood_interior_plain_01,2,2,Materials\morrowind\tx_metal_pewter_01.mat,True,True,complete
+misc_com_wood_spoon_01,meshes,10,10,True,meshes\misc_com_wood_spoon_01.nif,660,1,1372,tx_wood_interior_plain_01,tx_wood_interior_plain_01,1,1,Materials\morrowind\tx_wood_interior_plain_01.mat,True,True,complete
+misc_com_wood_spoon_02,meshes,1,1,True,meshes\misc_com_wood_spoon_02.nif,660,1,1372,tx_wood_interior_plain_01,tx_wood_interior_plain_01,1,1,Materials\morrowind\tx_wood_interior_plain_01.mat,True,True,complete
+misc_de_basket_01,meshes,1,1,True,meshes\misc_de_basket_01.nif,634,1,3612,tx_straw_woven,tx_straw_woven,1,1,Materials\morrowind\tx_straw_woven.mat,True,True,complete
+misc_de_fishing_pole,meshes,2,2,True,meshes\misc_de_fishing_pole.nif,1505,4,3384,tx_metal_silver,tx_metal_silver; tx_rope_heavy; tx_wood_dock_rings; tx_wood_docks_01,4,4,Materials\morrowind\tx_metal_silver.mat,True,True,complete
+misc_de_foldedcloth00,meshes,5,5,False,,0,0,0,,,0,0,,False,False,not_converted
+misc_imp_silverware_cup,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+misc_imp_silverware_pitcher,meshes,2,2,False,,0,0,0,,,0,0,,False,False,not_converted
+misc_imp_silverware_plate_01,meshes,1,1,False,,0,0,0,,,0,0,,False,False,not_converted
+misc_imp_silverware_plate_03,meshes,5,5,False,,0,0,0,,,0,0,,False,False,not_converted
+misc_lw_platter,meshes,1,1,True,meshes\misc_lw_platter.nif,1181,3,4276,tx_limeware_platter,tx_limeware_platter; tx_limeware_platter_01; tx_limeware_strip_01,3,3,Materials\morrowind\tx_limeware_platter.mat,True,True,complete
+misc_rollingpin_01,meshes,1,1,True,meshes\misc_rollingpin_01.nif,1209,3,8286,tx_metal_strip_02,tx_metal_strip_02; tx_wood_weathered_rings; tx_wood_wormridden,3,3,Materials\morrowind\tx_metal_strip_02.mat,True,True,complete
+misc_uni_pillow_01,meshes,7,7,False,,0,0,0,,,0,0,,False,False,not_converted
+mudcrab,creatures,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+newtscale_cuirass,other,1,0,True,meshes\newtscale_cuirass.nif,250,0,0,,,0,0,,False,False,partial
+note to hrisskar,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+p_fortify_luck_s,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+pick_apprentice_01,other,1,1,True,meshes\pick_apprentice_01.nif,939,2,10036,tx_metal_iron_rusty,tx_metal_iron_rusty,1,1,Materials\morrowind\tx_metal_iron_rusty.mat,True,True,complete
+potion_comberry_brandy_01,other,1,1,True,meshes\potion_comberry_brandy_01.nif,980,2,4656,tx_crock_04,tx_crock_04; tx_metal_strip_01,2,2,Materials\morrowind\tx_crock_04.mat,True,True,complete
+potion_cyro_brandy_01,other,2,2,True,meshes\potion_cyro_brandy_01.nif,633,1,5262,tx_bottle_10,tx_bottle_10,1,1,Materials\morrowind\tx_bottle_10.mat,True,True,complete
+potion_local_liquor_01,other,5,5,True,meshes\potion_local_liquor_01.nif,959,2,4898,tx_crock_02,tx_crock_02; tx_metal_strip_01,2,2,Materials\morrowind\tx_crock_02.mat,True,True,complete
+raflod the braggart,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+sc_paper plain,other,7,0,False,,0,0,0,,,0,0,,False,False,not_converted
+silver dagger,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+silver shortsword,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+silver staff,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+steel dagger of swiftblade,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+stolen_goods,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+tandram andalen,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+teleri helvi,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+terrain_bc_scum_01,other,1,1,True,meshes\terrain_bc_scum_01.nif,652,1,336,tx_bc_scum,tx_bc_scum,1,1,Materials\morrowind\tx_bc_scum.mat,True,True,complete
+terrain_bc_scum_02,other,1,1,True,meshes\terrain_bc_scum_02.nif,652,1,336,tx_bc_scum,tx_bc_scum,1,1,Materials\morrowind\tx_bc_scum.mat,True,True,complete
+terrain_bc_scum_03,other,1,1,True,meshes\terrain_bc_scum_03.nif,652,1,336,tx_bc_scum,tx_bc_scum,1,1,Materials\morrowind\tx_bc_scum.mat,True,True,complete
+terrain_rock_bc_12,other,2,2,True,meshes\terrain_rock_bc_12.nif,661,1,2402,tx_bc_rock_03,tx_bc_rock_03,1,1,Materials\morrowind\tx_bc_rock_03.mat,True,True,complete
+terrain_rock_bc_13,other,1,1,True,meshes\terrain_rock_bc_13.nif,661,1,2108,tx_bc_rock_03,tx_bc_rock_03,1,1,Materials\morrowind\tx_bc_rock_03.mat,True,True,complete
+terrain_rock_bc_14,other,6,6,True,meshes\terrain_rock_bc_14.nif,661,1,2086,tx_bc_rock_03,tx_bc_rock_03,1,1,Materials\morrowind\tx_bc_rock_03.mat,True,True,complete
+terrain_rock_bc_15,other,8,8,True,meshes\terrain_rock_bc_15.nif,661,1,1418,tx_bc_rock_03,tx_bc_rock_03,1,1,Materials\morrowind\tx_bc_rock_03.mat,True,True,complete
+terrain_rock_bc_16,other,14,14,True,meshes\terrain_rock_bc_16.nif,661,1,1418,tx_bc_rock_03,tx_bc_rock_03,1,1,Materials\morrowind\tx_bc_rock_03.mat,True,True,complete
+terrain_rock_bc_17,other,40,40,True,meshes\terrain_rock_bc_17.nif,661,1,1678,tx_bc_rock_03,tx_bc_rock_03,1,1,Materials\morrowind\tx_bc_rock_03.mat,True,True,complete
+terrain_rock_bc_18,other,7,7,True,meshes\terrain_rock_bc_18.nif,661,1,10718,tx_bc_rock_03,tx_bc_rock_03,1,1,Materials\morrowind\tx_bc_rock_03.mat,True,True,complete
+teruise girvayne,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+thavere vedrano,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+tolvise othralen,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
+vodunius nuccius,other,1,0,False,,0,0,0,,,0,0,,False,False,not_converted
