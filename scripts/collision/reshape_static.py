@@ -29,7 +29,11 @@ import numpy as np
 
 PROJECT_DIR = r"C:\Users\max\Projects\Morrowind"
 MESH_VERTICES = os.path.join(PROJECT_DIR, r"converted_assets\mapping\morrowind_mesh_verts.json")
-TARGET_DIR = r"C:\XboxGames\Starfield\Content\Data\meshes\morrowind"
+TARGET_DIRS = [
+    r"C:\Users\max\Projects\Morrowind\converted_assets\meshes",
+    r"C:\XboxGames\Starfield\Content\Data\meshes\morrowind",
+]
+TARGET_DIR = TARGET_DIRS[1]
 
 # Kitchenette collision domain (from Section at DATA+0x360, offset 16-47)
 KITCH_DOMAIN_MIN = (1.176, -1.909, 0.0)    # (1.1759... -1.909... 0.0)

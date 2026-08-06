@@ -11,7 +11,11 @@ sys.path.insert(0, os.path.dirname(__file__))
 import clone_static as cs
 
 DONOR = r"C:\XboxGames\Starfield\Content\Content\Data\meshes\FurnishedStarborn\Starborn_CrewChest01.nif"
-TARGET_DIR = r"C:\XboxGames\Starfield\Content\Data\meshes\morrowind"
+TARGET_DIRS = [
+    r"C:\Users\max\Projects\Morrowind\converted_assets\meshes",
+    r"C:\XboxGames\Starfield\Content\Data\meshes\morrowind",
+]
+TARGET_DIR = TARGET_DIRS[1]
 BOUNDS_PATH = r"C:\Users\max\Projects\Morrowind\converted_assets\mapping\morrowind_mesh_bounds.json"
 
 # Box shape offsets within bhkPhysicsSystem DATA

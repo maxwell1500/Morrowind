@@ -12,8 +12,11 @@ sys.path.insert(0, os.path.dirname(__file__))
 import hk_decode_lib as dec
 
 DONOR = r"C:\XboxGames\Starfield\Content\Data\meshes\FurnishedStarborn\Starborn_CrewChest01.nif"
-TARGET_DIR = r"C:\XboxGames\Starfield\Content\Data\meshes\morrowind"
-
+TARGET_DIRS = [
+    r"C:\Users\max\Projects\Morrowind\converted_assets\meshes",
+    r"C:\XboxGames\Starfield\Content\Data\meshes\morrowind",
+]
+TARGET_DIR = TARGET_DIRS[1]
 # ---------------------------------------------------------------------------
 # Low-level helpers
 
@@ -321,11 +324,12 @@ def main():
     if args.test:
         targets = [args.test]
     else:
-        targets = sorted([
-            os.path.join(TARGET_DIR, f)
-            for f in os.listdir(TARGET_DIR)
-            if f.lower().endswith(".nif") and not f.endswith(".bak")
-        ])
+        targets = []
+        for tdir in TARGET_DIRS:
+            if os.path.exists(tdir):
+                for f in sorted(os.listdir(tdir)):
+                    if f.lower().endswith(".nif") and not f.endswith(".bak"):
+                        targets.append(os.path.join(tdir, f))
 
     if not targets:
         print("No target NIFs found")

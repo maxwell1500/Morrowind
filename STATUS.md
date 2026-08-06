@@ -1,5 +1,18 @@
 # Vvardenfell Mod — Status (2026-08-06)
 
+## Water (added 2026-08-06)
+
+- **Exterior cell (-1,-1) `0x010478A1`: XCLW = 479.0** (water plane)
+- Persistent cell `0x0100E954`: XCLW = FLT_MAX (no water) — verified by decompressing the compressed record
+- Interior cells: no XCLW (no exterior water; interiors use their own mechanism)
+- Water level rationale (from deployed geometry):
+  - All 435 exterior REFRs sit at z ≥ 479.22; terrain mesh is the only object lower (475.75)
+  - Dock deck under the harbor: z 478.07–479.08 → submerged (harbor water)
+  - Dock planks at 479.65–480.16 → above water
+  - Village ground (deck) mean 479.19 → dry; buildings 479.54+ → dry
+- Patch tool: `scripts/patch_water_xclw.py` (single 4-byte float swap, no record-size change)
+- Repo + deployed ESP byte-identical (md5 2e252d166741a1492bbe8fd7e17be0f8)
+
 ## What we have
 
 **Architecture:** Override Magnus's Morrowind WRLD (formID `0x0100E1C8`), override exterior cell (-1,-1) `0x010478A1`, persistent cell `0x0100E954`, add Seyda Neen LCTN (`0xFE000001`) as a sub-location of Morrowind_ID (`0x0100E774`).
@@ -36,7 +49,7 @@
 - **No LAND records** — terrain is a static mesh, not real landscape
 - **No NPCs/creatures** — static objects only
 - **No door teleportation** — interior ↔ exterior links not set up
-- **No water** — XCLW = FLT_MAX everywhere (harbor has no water plane)
+- ~~**No water**~~ — **DONE 2026-08-06**: harbor cell XCLW = 479.0, persistent/interiors FLT_MAX/absent
 - **No landscape textures** — ground is flat mesh, not Bitter Coast mud
 - **No collision** — walk through walls/objects
 - **No navmesh** — NPCs can't navigate
@@ -71,8 +84,8 @@
 ## Next steps (in order)
 
 1. **Regenerate BTD terrain** — fix bbox bug in `generate_btd_v4.py` (was clamping to one cell), re-run with grid centered on data
-2. **Test in-game** — use `cow 0200E1C8 -2050 -2070` (formID remapped for load order)
-3. **Add water** — set XCLW for harbor cell only (FLT_MAX elsewhere)
+2. **Test in-game** — use `cow 0200E1C8 -2050 -2070` (formID remapped for load order); check harbor water plane renders and village is dry
+3. ~~**Add water**~~ — **DONE 2026-08-06** (XCLW=479.0 harbor cell; `scripts/patch_water_xclw.py`)
 4. **Add collision** — Havok round-trip via `scripts\collision\` (hk_decode_lib.py, hk_polytope.py, hk_encode.py)
 5. **Add door teleportation** — interior ↔ exterior links
 6. **Add NPCs/creatures** — populate the town

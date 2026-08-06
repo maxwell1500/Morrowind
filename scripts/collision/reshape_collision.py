@@ -17,7 +17,11 @@ import hk_polytope
 
 PROJECT_DIR = r"C:\Users\max\Projects\Morrowind"
 MESH_VERTICES = os.path.join(PROJECT_DIR, r"converted_assets\mapping\morrowind_mesh_verts.json")
-TARGET_DIR = r"C:\XboxGames\Starfield\Content\Data\meshes\morrowind"
+TARGET_DIRS = [
+    r"C:\Users\max\Projects\Morrowind\converted_assets\meshes",
+    r"C:\XboxGames\Starfield\Content\Data\meshes\morrowind",
+]
+TARGET_DIR = TARGET_DIRS[1]
 
 # Donor box layout offsets within DATA body
 DATA_VERTICES_OFF  = 0x230   # 8 vertices × 12B = 96B
@@ -218,11 +222,12 @@ def main():
     if args.test:
         targets = [args.test]
     else:
-        targets = sorted([
-            os.path.join(TARGET_DIR, f)
-            for f in os.listdir(TARGET_DIR)
-            if f.lower().endswith(".nif") and not f.endswith(".bak")
-        ])
+        targets = []
+        for tdir in TARGET_DIRS:
+            if os.path.exists(tdir):
+                for f in sorted(os.listdir(tdir)):
+                    if f.lower().endswith(".nif") and not f.endswith(".bak"):
+                        targets.append(os.path.join(tdir, f))
 
     if not targets:
         print("No target NIFs found")

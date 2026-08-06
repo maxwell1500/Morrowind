@@ -1,8 +1,8 @@
 # AGENTS.md - Vvardenfell Starfield Mod
 
 **Last Updated:** 2026-08-06
-**Status:** Phase 8 — Seyda Neen visible in CK render window; terrain material fixed (CDB collision)
-**Next Steps:** Regenerate BTD terrain (bbox fix), water, collision, doors, NPCs
+**Status:** Phase 8 — Seyda Neen visible in CK render window; terrain material fixed; harbor water set (XCLW=479.0)
+**Next Steps:** Collision, doors, NPCs
 
 ---
 
