@@ -86,12 +86,12 @@
 ## Next steps (in order)
 
 1. **Regenerate BTD terrain** — fix bbox bug in `generate_btd_v4.py` (was clamping to one cell), re-run with grid centered on data
-2. **Test in-game** — use `cow 0200E1C8 -2050 -2070` (formID remapped for load order); check harbor water plane renders and village is dry
-3. ~~**Add water**~~ — **DONE 2026-08-06** (XCLW=479.0 harbor cell; `scripts/patch_water_xclw.py`)
-4. **Add collision** — Havok round-trip via `scripts\collision\` (hk_decode_lib.py, hk_polytope.py, hk_encode.py)
-5. **Add door teleportation** — BLOCKED: XTEL format unknown; door REFRs point to STATs not DOORs (needs CK verification)
-6. **Add NPCs/creatures** — CSV has only 2 NPC-like entries; no NPC_ records in ESP
-7. **Scale to Vvardenfell** — expand beyond Seyda Neen
+1. **Test in-game** — use `cow 0200E1C8 -2050 -2070` (formID remapped for load order); check harbor water plane renders and village is dry
+2. ~~**Add water**~~ — **DONE 2026-08-06** (XCLW=479.0 harbor cell; `scripts/patch_water_xclw.py`)
+3. ~~**Add collision**~~ — **DONE 2026-08-06** (all 486 NIFs have Havok collision;  validates) — Havok round-trip via `scripts\collision\` (hk_decode_lib.py, hk_polytope.py, hk_encode.py)
+4. **Add door teleportation** — BLOCKED: XTEL format unknown; door REFRs point to STATs not DOORs (needs CK verification) — BLOCKED: XTEL format unknown; door REFRs point to STATs not DOORs (needs CK verification)
+5. **Add NPCs/creatures** — deferred; no NPC placement data in CSV — BLOCKED: CSV has 0 NPC placements; need NPC data source (names, faces, AI packages) and placement positions
+6. **Scale to Vvardenfell** — expand beyond Seyda Neen — expand beyond Seyda Neen
 
 ## Files in place
 
