@@ -89,9 +89,9 @@
 1. **Test in-game** — use `cow 0200E1C8 -2050 -2070` (formID remapped for load order); check harbor water plane renders and village is dry
 2. ~~**Add water**~~ — **DONE 2026-08-06** (XCLW=479.0 harbor cell; `scripts/patch_water_xclw.py`)
 3. ~~**Add collision**~~ — **DONE 2026-08-06** (all 486 NIFs have Havok collision;  validates) — Havok round-trip via `scripts\collision\` (hk_decode_lib.py, hk_polytope.py, hk_encode.py)
-4. **Add door teleportation** — BLOCKED: XTEL format unknown; door REFRs point to STATs not DOORs (needs CK verification) — BLOCKED: XTEL format unknown; door REFRs point to STATs not DOORs (needs CK verification)
-5. **Add NPCs/creatures** — deferred; no NPC placement data in CSV — BLOCKED: CSV has 0 NPC placements; need NPC data source (names, faces, AI packages) and placement positions
-6. **Scale to Vvardenfell** — expand beyond Seyda Neen — expand beyond Seyda Neen
+4. **Add door teleportation** — BLOCKED: XTEL format unknown; door REFRs point to STATs not DOORs (needs CK verification)
+5. **Add NPCs/creatures** — deferred; no NPC placement data in CSV
+6. **Scale to Vvardenfell** — expand beyond Seyda Neen
 
 ## Files in place
 
@@ -101,5 +101,5 @@ C:\XboxGames\Starfield\Content\Data\
 ├── meshes\morrowind\                      # 244 converted NIFs (242 + terrain + test)
 ├── Materials\morrowind\                   # 418 .mat files (179 core + dupes)
 ├── Textures\morrowind\                    # 96 DDS textures + terrain color
-└── Terrain\Morrowind\Morrowind.btd        # 64-B stub (flat placeholder)
+└── Terrain\Morrowind\Morrowind.btd        # 15616 B (3x3 cells, 384x384 res)
 ```
