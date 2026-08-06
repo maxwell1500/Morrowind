@@ -51,8 +51,10 @@
 - **No door teleportation** — interior ↔ exterior links not set up
 - ~~**No water**~~ — **DONE 2026-08-06**: harbor cell XCLW = 479.0, persistent/interiors FLT_MAX/absent
 - **No landscape textures** — ground is flat mesh, not Bitter Coast mud
-- **No collision** — walk through walls/objects
+- ~~**No collision**~~ — **DONE 2026-08-06**: All 486 NIFs have bhkNPCollisionObject + bhkPhysicsSystem with AABB boxes (476 reshaped from mesh verts, 10 skipped)
 - **No navmesh** — NPCs can't navigate
+- **No doors with teleport** — XTEL format unknown; door REFRs point to STATs not DOORs (needs CK verification)
+- **No NPCs** — CSV has only 2 NPC-like entries (signs); no NPC_ records in ESP
 
 ## Coordinate system (VERIFIED from deployed ESP, 2026-08-06)
 
