@@ -85,8 +85,7 @@
 
 ## Next steps (in order)
 
-1. **Regenerate BTD terrain** — fix bbox bug in `generate_btd_v4.py` (was clamping to one cell), re-run with grid centered on data
-1. **Test in-game** — use `cow 0200E1C8 -2050 -2070` (formID remapped for load order); check harbor water plane renders and village is dry
+1. **Test in-game**
 2. ~~**Add water**~~ — **DONE 2026-08-06** (XCLW=479.0 harbor cell; `scripts/patch_water_xclw.py`)
 3. ~~**Add collision**~~ — **DONE 2026-08-06** (all 486 NIFs have Havok collision;  validates) — Havok round-trip via `scripts\collision\` (hk_decode_lib.py, hk_polytope.py, hk_encode.py)
 4. **Add door teleportation** — BLOCKED: XTEL format unknown; door REFRs point to STATs not DOORs (needs CK verification)
