@@ -1,80 +1,90 @@
-# Vvardenfell Mod — Status (2026-07-03)
+# Vvardenfell Mod — Status (2026-08-06)
 
 ## What we have
 
-**Architecture:** Override Magnus's Morrowind WRLD (formID `0x0100E1C8`), override cells at grid (-1,-1), add Seyda Neen LCTN as a sub-location of Morrowind_ID.
+**Architecture:** Override Magnus's Morrowind WRLD (formID `0x0100E1C8`), override exterior cell (-1,-1) `0x010478A1`, persistent cell `0x0100E954`, add Seyda Neen LCTN (`0xFE000001`) as a sub-location of Morrowind_ID (`0x0100E774`).
 
-**Records:**
-- 241 STAT records (Morrowind objects with converted NIFs)
-- 434 exterior REFRs in 1 cell (-1,-1) (overrides Magnus's cell)
-- 13 interior cells with 675 REFRs
-- 1 Seyda Neen LCTN (formID 0xFE000001)
+**Records (verified 2026-08-06, deployed ESP = golden baseline):**
+- 242 STAT records (fids `0xFE000100`–`0xFE0001F1`; 241 objects + `seyda_neen_terrain`)
+- 435 exterior REFRs (fids `0xFE0001F2`+; 434 objects + terrain REFR `0xFE000647`) in 1 cell (-1,-1)
+- 675 interior REFRs in 13 interior cells (fids `0xFE000648`+)
+- 1 Seyda Neen LCTN (formID `0xFE000001`)
+- Top-level order: STAT, CELL (interiors), WRLD, LCTN (CELL before WRLD)
+- Exterior cell: DATA `0x202`, XCLC (-1,-1,0), **XCLW = FLT_MAX** (no water), uncompressed
+- Persistent cell: compressed, DATA `0x2`, XCLC (0x7FFFFFFF,0x7FFFFFFF,0), XCLW = FLT_MAX
 
 **Assets:**
-- 242 converted Starfield NIFs with correct material paths
-- 238 .mat files (cloned from Starborn template, texture paths swapped)
-- 96 original Morrowind DDS textures in `Data\Textures\morrowind\`
+- 242 converted Starfield NIFs in `converted_assets\meshes\`
+- Terrain mesh `seyda_neen_terrain.nif` (505,626 B) + `temp_terrain_color.mat` + DDS — now in repo
+- 179 .mat files in repo `Data\Materials\morrowind\` (418 deployed — 239 test/dupes)
+- 96 original Morrowind DDS textures
 
 **Files:**
-- `C:\Users\max\Projects\Morrowind\Data\SeydaNeen.esp` (119,928 bytes)
-- `C:\XboxGames\Starfield\Content\Data\SeydaNeen.esp` (deployed)
+- `C:\Users\max\Projects\Morrowind\Data\SeydaNeen.esp` (120,181 B, md5 b307ac466d)
+- `C:\XboxGames\Starfield\Content\Data\SeydaNeen.esp` (deployed, byte-identical)
 
 ## What works
 
-- **CK loads the mod** without errors
-- **Objects visible** in CK render window with correct positions
-- **Textures rendering** — buildings, furniture, clutter all show Morrowind textures
-- **Material chain complete** — NIF → .mat → .dds → file exists
-- **241 unique meshes** converted from Morrowind to Starfield format
+- **CK loads the mod** without errors (objects visible, correct positions)
+- **Textures rendering** — buildings, furniture, clutter show Morrowind textures
+- **Material chain complete** — NIF → .mat → .dds
+- **Terrain material fixed 2026-08-06** — `temp_terrain_color.mat` had a CDB ID collision with `tx_bc_bank.mat` (identical `res:` IDs, both 4 components). Regenerated unique IDs; engine previously reported "can't be loaded".
+- **Terrain static mesh** — 500×500 unit mesh, z 475.7–486.2, REFR at (-357.40, -348.00, 475.75), covers the town cluster
 
 ## What doesn't work yet
 
-- **No terrain** — objects sit on Magnus's procedural terrain (may float/sink)
+- **No LAND records** — terrain is a static mesh, not real landscape
 - **No NPCs/creatures** — static objects only
 - **No door teleportation** — interior ↔ exterior links not set up
-- **No water** — harbor area has no water plane
-- **No landscape textures** — ground is Magnus's default, not Bitter Coast mud
+- **No water** — XCLW = FLT_MAX everywhere (harbor has no water plane)
+- **No landscape textures** — ground is flat mesh, not Bitter Coast mud
 - **No collision** — walk through walls/objects
 - **No navmesh** — NPCs can't navigate
 
-## Scale system
+## Coordinate system (VERIFIED from deployed ESP, 2026-08-06)
 
-- Morrowind uses **8192-unit cells**, Magnus uses **100-unit cells**
+- Morrowind uses **8192-unit cells**, Magnus's WRLD uses 100-unit cells (DNAM 200×160)
 - Scale factor: `100 / 8192 ≈ 0.0122`
-- Current offsets: `OFFSET_X=-1900`, `OFFSET_Y=-1169`, `Z_OFFSET=480`
-- All coordinates scaled before offset application
+- **Actual offsets in deployed ESP:** `OFFSET_X=92.6`, `OFFSET_Y=802.0`, `Z_OFFSET=480.0`
+  - x = x_mw × 0.0122 + 92.6, y = y_mw × 0.0122 + 802.0, z = z_mw × 0.0122 + 480.0
+  - Verified: ex_nord_door_01 x_mw=-9821.382 → -27.29 ✓ (matches deployed REFR)
+- **AGENTS.md's -1900/-1169/480 offsets are STALE** — match generate_btd.py v1-3, not the deployed ESP
+- The deployed ESP z uses a local-z source (deployed z ≈ 480 + z_local×SCALE where z_local ∈ -26..23); the current placement CSV stores absolute z_mw (268–452) — **the golden ESP's exact generator is lost**
+
+## Known generator regression (2026-08-06)
+
+- `scripts/generate_full_seydaneen.py` (mtime 7/24) does **NOT** reproduce the deployed ESP:
+  - Uses OFFSET_X=5986, OFFSET_Y=51539 (vs 92.6/802)
+  - Spreads REFRs over 12 cells (-3,-8)..(-1,-4) (vs single cell (-1,-1))
+  - Writes XCLW=0.0 (vs FLT_MAX) — would create a water plane
+  - Orders WRLD before CELL (deployed: CELL before WRLD)
+  - 241 STATs (missing terrain), REFR flags 0x00010400 (deployed: 0x0)
+- Do NOT regenerate from this script expecting the deployed ESP. Treat deployed/committed ESP as golden.
 
 ## Material pipeline (RESOLVED)
 
 1. **NIF material paths** — Set Blender material name before SGB export
-2. **.mat files** — Clone Starborn template, swap texture file paths only
-3. **DDS textures** — Original Morrowind textures (not upscaled) in `Data\Textures\morrowind\`
-4. **CDB resource IDs** — Must use valid IDs from Starfield's compiled database
-
-## Key discoveries
-
-- Starfield .mat files require valid CDB resource IDs — made-up IDs cause "no layer" errors
-- Cloning a working Starfield .mat and changing only texture paths is the reliable approach
-- `bUseCompiledDB=0` in CreationKitCustom.ini causes CK crashes
-- Original Morrowind textures work in Starfield without upscaling
-- SGB DLL crashes on multi-geometry NIFs — setting material BEFORE export avoids this
+2. **.mat files** — Clone Starfield template, swap texture paths, **regenerate unique CDB res IDs per file**
+3. **DDS textures** — BC7 DX10 (dxgi 99), valid for Starfield
+4. **CDB resource IDs** — must be unique per material; copying a template without re-randomizing IDs causes "ID collision" + "can't be loaded" errors (EditorWarnings confirms)
 
 ## Next steps (in order)
 
-1. **Adjust Z offset** — objects may need height adjustment for terrain
-2. **Test in-game** — use `cow` command to teleport to cell
-3. **Add terrain** — LAND records with Morrowind ground textures
-4. **Add water** — water plane for harbor area
-5. **Add NPCs/creatures** — populate the town
-6. **Add collision** — physics for walkability
+1. **Regenerate BTD terrain** — fix bbox bug in `generate_btd_v4.py` (was clamping to one cell), re-run with grid centered on data
+2. **Test in-game** — use `cow 0200E1C8 -2050 -2070` (formID remapped for load order)
+3. **Add water** — set XCLW for harbor cell only (FLT_MAX elsewhere)
+4. **Add collision** — Havok round-trip via `scripts\collision\` (hk_decode_lib.py, hk_polytope.py, hk_encode.py)
+5. **Add door teleportation** — interior ↔ exterior links
+6. **Add NPCs/creatures** — populate the town
 7. **Scale to Vvardenfell** — expand beyond Seyda Neen
 
 ## Files in place
 
 ```
 C:\XboxGames\Starfield\Content\Data\
-├── SeydaNeen.esp                          # Main plugin
-├── meshes\morrowind\                      # 242 converted NIFs
-├── Materials\morrowind\                   # 238 .mat files
-└── Textures\morrowind\                    # 96 Morrowind DDS textures
+├── SeydaNeen.esp                          # Main plugin (golden, 120,181 B)
+├── meshes\morrowind\                      # 244 converted NIFs (242 + terrain + test)
+├── Materials\morrowind\                   # 418 .mat files (179 core + dupes)
+├── Textures\morrowind\                    # 96 DDS textures + terrain color
+└── Terrain\Morrowind\Morrowind.btd        # 64-B stub (flat placeholder)
 ```

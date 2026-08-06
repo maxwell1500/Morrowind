@@ -1,8 +1,8 @@
 # AGENTS.md - Vvardenfell Starfield Mod
 
-**Last Updated:** 2026-07-02
-**Status:** Phase 8 — Seyda Neen visible in CK render window
-**Next Steps:** Fix NIF material paths, adjust town position, add NPCs/landscape
+**Last Updated:** 2026-08-06
+**Status:** Phase 8 — Seyda Neen visible in CK render window; terrain material fixed (CDB collision)
+**Next Steps:** Regenerate BTD terrain (bbox fix), water, collision, doors, NPCs
 
 ---
 
@@ -56,11 +56,13 @@ Morrowind world coords (x_mw, y_mw, z_mw)
   → Write to REFR DATA subrecord as (x, y, z, rx, ry, rz) — 6 floats, 24 bytes
 ```
 
-### Current Offsets
+### Current Offsets (VERIFIED 2026-08-06 from deployed ESP)
 - `SCALE = 100.0 / 8192.0`
-- `OFFSET_X = -1900.0` (centers Seyda Neen in Magnus cell (-1,-1))
-- `OFFSET_Y = -1169.0`
-- `Z_OFFSET = 480.0` (raises above Magnus's terrain at z~490)
+- `OFFSET_X = 92.6` (verified: ex_nord_door_01 x_mw=-9821.382 → -27.29 matches deployed REFR)
+- `OFFSET_Y = 802.0`
+- `Z_OFFSET = 480.0`
+- NOTE: The old -1900/-1169/480 offsets below are STALE (match generate_btd.py v1-3, not the deployed ESP)
+- NOTE: Deployed ESP z uses a local-z source (≈480 + z_local×SCALE, z_local ∈ -26..23); the current placement CSV stores absolute z_mw (268–452). The golden ESP's exact generator is lost; the current `generate_full_seydaneen.py` (7/24) DOES NOT reproduce it (see STATUS.md "Known generator regression"). Treat deployed/committed `SeydaNeen.esp` as golden.
 
 ### Cell Grid Computation
 - **File format:** XCLC uses 4096-unit cell grid (standard Bethesda)
@@ -365,9 +367,11 @@ C:\Users\max\Projects\Morrowind\
 │       ├── seyda_neen_asset_mapping.csv
 │       └── texture_map.json
 ├── Data\                              # Deployed to Starfield
-│   ├── Materials\morrowind\           # 179 .mat files
-│   ├── SeydaNeen.esp                  # Generated ESP
-│   └── meshes\morrowind\              # 242 NIFs
+│   ├── Materials\morrowind\           # 179 .mat files (+ fixed temp_terrain_color.mat)
+│   ├── SeydaNeen.esp                  # Generated ESP (golden 120,181 B)
+│   ├── meshes\morrowind\              # 242 NIFs + seyda_neen_terrain.nif
+│   ├── Textures\morrowind\            # terrain color DDS
+│   └── Terrain\Morrowind\             # BTD files
 ├── scripts\                           # Automation
 │   ├── batch_convert_meshes.py        # Blender NIF conversion
 │   ├── batch_convert_textures.py      # DDS conversion + upscale
@@ -444,10 +448,28 @@ C:\Users\max\Projects\Morrowind\
 
 ## Open Issues
 
-### NIF Material Paths (BLOCKER)
-- SGB `EditNifBSGeometries` crashes on all NIFs with geometry
-- Binary patching corrupts NIFs (offset shifting)
-- Need alternative: NifSkope batch, proper NIF library, or Blender material setup
+### Terrain Material (RESOLVED 2026-08-06)
+- `temp_terrain_color.mat` had a CDB ID collision with `tx_bc_bank.mat` (identical `res:` component IDs — copied template, never re-randomized)
+- Engine reported "Material Materials\\morrowind\\temp_terrain_color.mat can't be loaded" (EditorWarnings 7/12)
+- Fix: regenerated unique 16-hex component IDs (kept valid class suffix `:BAF4C608:4D584B55`), verified 4 distinct IDs × 2 pairings, zero overlap with tx_bc_bank
+- Terrain mesh: `seyda_neen_terrain.nif` (500×500, z 475.7–486.2) at REFR (-357.40, -348.00, 475.75) — covers town cluster
+
+### Terrain = Static Mesh, Not LAND
+- Deployed ESP carries terrain as STAT `seyda_neen_terrain` (0xFE0001F1) + 1 REFR (0xFE000647), NOT LAND records
+- Deployed `Terrain\Morrowind\Morrowind.btd` is a 64-byte stub (header-only) — CK generated flat 480.0 `.btc` caches from it
+- `generate_btd_v4.py` has a bbox bug (clamped to first land cell) — FIXED 2026-08-06 but needs re-run + CK cache regen
+
+### Generator Regression (2026-08-06)
+- Current `generate_full_seydaneen.py` (7/24) does NOT reproduce the deployed/golden ESP:
+  offsets 5986/51539 vs 92.6/802, 12 cells vs 1 cell, XCLW=0.0 vs FLT_MAX, WRLD-before-CELL vs CELL-before-WRLD, REFR flags 0x10400 vs 0x0
+- `generate_esp_vvardenfell.py` also fails to reproduce Vvardenfell.esp
+- The deployed ESP's exact generator is lost (z source differs from current CSV)
+
+### "Wrong Cell for Its Location" Warnings
+- 439 warnings in EditorWarnings.txt
+- AGENTS.md previously noted as "cosmetic, doesn't prevent loading"
+- Objects DO load and are visible despite warnings
+- May be caused by GRUP hierarchy mismatch (type=4 vs type=5)
 
 ### "Wrong Cell for Its Location" Warnings
 - 439 warnings in EditorWarnings.txt

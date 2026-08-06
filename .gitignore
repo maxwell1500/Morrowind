@@ -30,6 +30,8 @@ magnus_wrld*.txt
 wrld_bodies.txt
 tmp_*.txt
 temp_*
+!Data/Materials/morrowind/temp_terrain_color.mat
+!Data/Textures/morrowind/temp_terrain_color.dds
 ex_nord_house_03.nif*
 *.npy
 

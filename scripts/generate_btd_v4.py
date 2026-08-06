@@ -84,8 +84,8 @@ def get_morrowind_bbox(land_lookup):
         return None
     xs = [k[0] * MW_CELL_SIZE for k in land_lookup.keys()]
     ys = [k[1] * MW_CELL_SIZE for k in land_lookup.keys()]
-    # Each cell is 8192 units; expand by one cell to cover the full data area
-    return (min(xs), min(xs) + MW_CELL_SIZE, min(ys), min(ys) + MW_CELL_SIZE)
+    # Full extent of all available cells (each cell is 8192 units)
+    return (min(xs), max(xs) + MW_CELL_SIZE, min(ys), max(ys) + MW_CELL_SIZE)
 
 
 def build_full_heightmap(lands, cell_min_x, cell_min_y, count_x, count_y):
