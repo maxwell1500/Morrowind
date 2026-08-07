@@ -29,6 +29,8 @@ OLD_HAVOK_TYPES = {
     "bhkConvexVerticesShape",
     "bhkCollisionObject",
     "bhkRigidBody",
+    "bhkNPCollisionObject",
+    "bhkPhysicsSystem",
 }
 
 # ---------------------------------------------------------------------------
